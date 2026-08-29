@@ -297,14 +297,22 @@ def fetch_polymarket(topic):
 
         topic_lower = topic.lower()
         for event in events:
-            title = (event.get("title") or event.get("question") or "")
-            if topic_lower not in title.lower():
+            event_title = (event.get("title") or event.get("question") or "")
+            if topic_lower not in event_title.lower():
                 continue  # relevance filter — Polymarket search returns a lot of noise
             markets = event.get("markets") or [event]
             for market in markets:
+                # Prefer the market's own question/outcome label over the
+                # shared event title, so multi-outcome events (e.g. one
+                # market per company) don't all show identical titles.
+                specific_title = (
+                    market.get("question")
+                    or market.get("groupItemTitle")
+                    or event_title
+                )
                 price = market.get("outcomePrices") or market.get("lastTradePrice")
                 results.append({
-                    "title": title,
+                    "title": specific_title,
                     "url": f"https://polymarket.com/event/{event.get('slug', '')}",
                     "price": price,
                     "volume": market.get("volume") or event.get("volume"),
