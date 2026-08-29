@@ -1,0 +1,39 @@
+name: Scrape market research data
+
+on:
+  schedule:
+    # Runs every 6 hours. Cron is UTC. Adjust freely.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write   # needed so the workflow can commit data.json back
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scraper/scrape.py
+
+      - name: Commit updated data.json
+        run: |
+          git config user.name "market-research-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json
+          git diff --quiet --cached || git commit -m "Update market research data [skip ci]"
+          git push

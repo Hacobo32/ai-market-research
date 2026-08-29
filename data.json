@@ -1,0 +1,15 @@
+{
+  "topic": "AI",
+  "generated_at": null,
+  "lookback_days": 7,
+  "sources": {
+    "reddit": [],
+    "hackernews": [],
+    "github_repos": [],
+    "youtube": [],
+    "polymarket": [],
+    "arxiv": [],
+    "github_trending": [],
+    "twitter": []
+  }
+}
