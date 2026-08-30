@@ -1,304 +1,304 @@
 {
   "topic": "AI",
-  "generated_at": "2026-08-30T16:23:39.562383+00:00",
+  "generated_at": "2026-08-30T20:49:04.527170+00:00",
   "lookback_days": 7,
   "sources": {
     "reddit": [
       {
-        "title": "[M4A] - MARVEL ZOMBIES!!!!",
-        "url": "https://www.reddit.com/r/roleplaying/comments/1w2lvih/m4a_marvel_zombies/",
-        "published": "2026-08-30T16:19:41+00:00",
+        "title": "Simple explanation about the obvious",
+        "url": "https://www.reddit.com/r/enfj/comments/1w2sv60/simple_explanation_about_the_obvious/",
+        "published": "2026-08-30T20:43:53+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "the cost of AI sycophancy",
-        "url": "https://www.reddit.com/r/TheMachineLearning/comments/1w2lvi4/the_cost_of_ai_sycophancy/",
-        "published": "2026-08-30T16:19:41+00:00",
+        "title": "Workshop Update | September '26",
+        "url": "https://www.reddit.com/r/u_small-works/comments/1w2sv2f/workshop_update_september_26/",
+        "published": "2026-08-30T20:43:46+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "How do you enforce deterministic rules on AI agent runs in CI?",
-        "url": "https://www.reddit.com/r/AutoGPT/comments/1w2lv7a/how_do_you_enforce_deterministic_rules_on_ai/",
-        "published": "2026-08-30T16:19:20+00:00",
+        "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
+        "url": "https://www.reddit.com/r/OpenSourceeAI/comments/1w2sv0d/google_ai_introduces_envharness_a_programmable/",
+        "published": "2026-08-30T20:43:42+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "Hiring cold\\warm callers for my AI agency.",
-        "url": "https://www.reddit.com/r/IndiaCareers/comments/1w2lv3r/hiring_coldwarm_callers_for_my_ai_agency/",
-        "published": "2026-08-30T16:19:14+00:00",
+        "title": "Issues with Hermes",
+        "url": "https://www.reddit.com/r/hermesagent/comments/1w2suxl/issues_with_hermes/",
+        "published": "2026-08-30T20:43:38+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "BASE MCP CONNECTS AI TO THE ONCHAIN WORLD",
-        "url": "https://www.reddit.com/r/BASE/comments/1w2lv3m/base_mcp_connects_ai_to_the_onchain_world/",
-        "published": "2026-08-30T16:19:14+00:00",
+        "title": "Seeking recommendations for a family holiday park",
+        "url": "https://www.reddit.com/r/AskTheNetherlands/comments/1w2surv/seeking_recommendations_for_a_family_holiday_park/",
+        "published": "2026-08-30T20:43:28+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "TransGem Offline AI Translator",
-        "url": "https://www.reddit.com/r/droidappshowcase/comments/1w2lv18/transgem_offline_ai_translator/",
-        "published": "2026-08-30T16:19:09+00:00",
+        "title": "\ud83e\udd16 AI General Evaluators Needed \u2013 Work From Home | $30-$80/Hour + Weekly Pay \ud83d\udcb0",
+        "url": "https://www.reddit.com/r/RemoteWorkers/comments/1w2suop/ai_general_evaluators_needed_work_from_home/",
+        "published": "2026-08-30T20:43:23+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "LLO Help!",
+        "url": "https://www.reddit.com/r/skyrimmods/comments/1w2suez/llo_help/",
+        "published": "2026-08-30T20:43:05+00:00",
         "score": 1,
         "comments": 1
       },
       {
-        "title": "AiFlu",
-        "url": "https://www.reddit.com/r/linuxmemes/comments/1w2lv11/aiflu/",
-        "published": "2026-08-30T16:19:09+00:00",
+        "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
+        "url": "https://www.reddit.com/r/AIDeveloperNews/comments/1w2su95/google_ai_introduces_envharness_a_programmable/",
+        "published": "2026-08-30T20:42:53+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "WEEKLY MARKET REPORT",
+        "url": "https://www.reddit.com/r/ChartNavigators/comments/1w2su89/weekly_market_report/",
+        "published": "2026-08-30T20:42:52+00:00",
+        "score": 1,
+        "comments": 2
+      },
+      {
+        "title": "In your opinion, do I give enough androginy for ya?",
+        "url": "https://www.reddit.com/r/NonBinary/comments/1w2su4o/in_your_opinion_do_i_give_enough_androginy_for_ya/",
+        "published": "2026-08-30T20:42:45+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Heck yeah skelator",
+        "url": "https://www.reddit.com/r/Ai_art_is_not_art/comments/1w2su2m/heck_yeah_skelator/",
+        "published": "2026-08-30T20:42:41+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "\ud83d\udcf0 OKE: ONEOK to Acquire Brazos Midstream's Permian Assets for $4.4B, Backed by $9B Apollo Investment",
+        "url": "https://www.reddit.com/r/Wiseek/comments/1w2su15/oke_oneok_to_acquire_brazos_midstreams_permian/",
+        "published": "2026-08-30T20:42:39+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Building a GTM Pipeline : Seeking Advice and Review",
+        "url": "https://www.reddit.com/r/gtmengineering/comments/1w2stzr/building_a_gtm_pipeline_seeking_advice_and_review/",
+        "published": "2026-08-30T20:42:36+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Lost pro shopper to a thief and Doordash AI",
+        "url": "https://www.reddit.com/r/doordash_drivers/comments/1w2stzd/lost_pro_shopper_to_a_thief_and_doordash_ai/",
+        "published": "2026-08-30T20:42:35+00:00",
         "score": 1,
         "comments": 1
       },
       {
-        "title": "[M4A] - MARVEL ZOMBIES!!!!",
-        "url": "https://www.reddit.com/r/roleplayserversharing/comments/1w2lv0x/m4a_marvel_zombies/",
-        "published": "2026-08-30T16:19:09+00:00",
+        "title": "Ai is not taking over",
+        "url": "https://www.reddit.com/r/geometrydash/comments/1w2stz1/ai_is_not_taking_over/",
+        "published": "2026-08-30T20:42:35+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "This goes along with my last post, \u201cWhat are we debating about?\u201d I thought AI slop needed its own theme song.",
-        "url": "https://www.reddit.com/r/aiwars/comments/1w2luza/this_goes_along_with_my_last_post_what_are_we/",
-        "published": "2026-08-30T16:19:06+00:00",
+        "title": "What is the most AI cliche song you can come up with? Use as many AI lyric cliches as possible",
+        "url": "https://www.reddit.com/r/SunoAI/comments/1w2stx6/what_is_the_most_ai_cliche_song_you_can_come_up/",
+        "published": "2026-08-30T20:42:32+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "Interactive Draft Assistant (based on champion ratings)",
-        "url": "https://www.reddit.com/r/summonerschool/comments/1w2luz1/interactive_draft_assistant_based_on_champion/",
-        "published": "2026-08-30T16:19:06+00:00",
+        "title": "M/21",
+        "url": "https://www.reddit.com/r/RoGenZ/comments/1w2stvx/m21/",
+        "published": "2026-08-30T20:42:30+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "did DVloper ai upscale the textures on the new Granny 2 update?",
-        "url": "https://www.reddit.com/r/DVloper/comments/1w2luvg/did_dvloper_ai_upscale_the_textures_on_the_new/",
-        "published": "2026-08-30T16:19:00+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "My theory of how the show will visually represent ART",
-        "url": "https://www.reddit.com/r/murderbot/comments/1w2luua/my_theory_of_how_the_show_will_visually_represent/",
-        "published": "2026-08-30T16:18:57+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "How do you enforce deterministic rules on AI agent runs in CI?",
-        "url": "https://www.reddit.com/r/LangChain/comments/1w2lute/how_do_you_enforce_deterministic_rules_on_ai/",
-        "published": "2026-08-30T16:18:55+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "I came across this account on TikTok and something about the child looks like AI",
-        "url": "https://www.reddit.com/r/isthisAI/comments/1w2lut5/i_came_across_this_account_on_tiktok_and/",
-        "published": "2026-08-30T16:18:55+00:00",
+        "title": "So, I Was Accused of Being an AI",
+        "url": "https://www.reddit.com/r/aiwars/comments/1w2stvs/so_i_was_accused_of_being_an_ai/",
+        "published": "2026-08-30T20:42:29+00:00",
         "score": 1,
         "comments": 1
       },
       {
-        "title": "Well then, how about I take down your AI. Now what, Witty?",
-        "url": "https://www.reddit.com/r/ShitAiRageBaitersSay/comments/1w2lun8/well_then_how_about_i_take_down_your_ai_now_what/",
-        "published": "2026-08-30T16:18:44+00:00",
-        "score": 1,
-        "comments": 1
-      },
-      {
-        "title": "My SaaS reached 300+ user accounts",
-        "url": "https://www.reddit.com/r/SideProject/comments/1w2luh6/my_saas_reached_300_user_accounts/",
-        "published": "2026-08-30T16:18:34+00:00",
+        "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
+        "url": "https://www.reddit.com/r/machinelearningnews/comments/1w2stuj/google_ai_introduces_envharness_a_programmable/",
+        "published": "2026-08-30T20:42:27+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "Instead of solving one single problem and creating many more, all this toddler does is play with AI to make his brain dead base believe his lies.",
-        "url": "https://www.reddit.com/r/the_everything_bubble/comments/1w2ludz/instead_of_solving_one_single_problem_and/",
-        "published": "2026-08-30T16:18:29+00:00",
+        "title": "Orca Throws Pregnant Ray High Into the Sky",
+        "url": "https://www.reddit.com/r/isitAI/comments/1w2stuc/orca_throws_pregnant_ray_high_into_the_sky/",
+        "published": "2026-08-30T20:42:26+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "Let me listen to your tracks! Giving out honest reviews / feedback to everyone.",
-        "url": "https://www.reddit.com/r/SunoAI/comments/1w2luag/let_me_listen_to_your_tracks_giving_out_honest/",
-        "published": "2026-08-30T16:18:22+00:00",
+        "title": "I really like this blanket but my friend say it looks like AI",
+        "url": "https://www.reddit.com/r/isitAI/comments/1w2str1/i_really_like_this_blanket_but_my_friend_say_it/",
+        "published": "2026-08-30T20:42:20+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "How Can an AI Agent + LLM Work With Robotics ?",
-        "url": "https://www.reddit.com/r/learnmachinelearning/comments/1w2lu6l/how_can_an_ai_agent_llm_work_with_robotics/",
-        "published": "2026-08-30T16:18:15+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "DUDA SOBRE FREQUENCY DRAM",
-        "url": "https://www.reddit.com/r/PcBuild/comments/1w2lu15/duda_sobre_frequency_dram/",
-        "published": "2026-08-30T16:18:05+00:00",
-        "score": 1,
-        "comments": 1
-      },
-      {
-        "title": "Heya. I'm a furry artist, and I thought I might share some fav game characters I've drawn. Some hunk- I mean, characters from Fortnite or another games",
-        "url": "https://www.reddit.com/r/gaymers/comments/1w2ltyo/heya_im_a_furry_artist_and_i_thought_i_might/",
-        "published": "2026-08-30T16:18:01+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "I make cinematics for players of this game, with original music. This one is for Tenebrae.",
-        "url": "https://www.reddit.com/r/SwordxStaff_Official/comments/1w2lty1/i_make_cinematics_for_players_of_this_game_with/",
-        "published": "2026-08-30T16:18:00+00:00",
-        "score": 1,
+        "title": "Kei on a beach pt.4 [AI]",
+        "url": "https://www.reddit.com/r/KaruizawaKei/comments/1w2stqt/kei_on_a_beach_pt4_ai/",
+        "published": "2026-08-30T20:42:19+00:00",
+        "score": 2,
         "comments": 0
       }
     ],
     "hackernews": [
       {
-        "title": "Airlink's low flypast over Rugby match in Cape Town",
-        "url": "https://www.flightradar24.com/blog/flight-tracking-news/special-event/airlinks-low-flypast-over-rugby-match-in-cape-town/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-08-30T16:04:11Z"
-      },
-      {
-        "title": "Show HN: CardGo \u2013 Reusable, end-to-end encrypted context cards for AI chats",
-        "url": "https://cardgo.ai",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-08-30T16:03:23Z"
-      },
-      {
-        "title": "Show HN: Piqt (iOS) \u2013 on device photo and video curator",
-        "url": "https://piqt.app/",
+        "title": "Continuous Diffusion Language Models (CDLM's)",
+        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
         "points": 1,
         "comments": 0,
-        "published": "2026-08-30T15:52:13Z"
+        "published": "2026-08-30T20:46:53Z"
       },
       {
-        "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
-        "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
+        "title": "AI and the Death of Expertise: Why Experts Still Matter",
+        "url": "https://www.inc.com/louise-allen/ai-and-the-death-of-expertise-why-experts-still-matter/91395208",
         "points": 1,
         "comments": 0,
-        "published": "2026-08-30T15:51:41Z"
+        "published": "2026-08-30T20:34:59Z"
       },
       {
-        "title": "Collapse in Support for AI Data Centers Captured in New Poll",
-        "url": "https://www.commondreams.org/news/data-center-poll-collapse",
+        "title": "The XGBoost Vector-Leaf Model",
+        "url": "https://xgboost.ai/2026/08/25/introducing-the-xgboost-vector-leaf-model",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-08-30T20:03:18Z"
+      },
+      {
+        "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-08-30T19:18:05Z"
+      },
+      {
+        "title": "Show HN: Invovanta \u2013 Invoicing and business management for freelancers",
+        "url": "https://invoiceflowdesign.app/",
+        "points": 1,
+        "comments": 1,
+        "published": "2026-08-30T19:15:03Z"
+      },
+      {
+        "title": "We tested how AI chatbots would handle foreign propaganda",
+        "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-08-30T19:12:38Z"
+      },
+      {
+        "title": "Why shaming people about AI slop isn't enough to stop Big AI",
+        "url": "https://www.anildash.com/2026/08/21/ai-slop-and-shame/",
+        "points": 5,
+        "comments": 0,
+        "published": "2026-08-30T19:08:04Z"
+      },
+      {
+        "title": "Show HN: AnVendor \u2013 see your competitor's customers",
+        "url": "https://anvendor.com/",
+        "points": 1,
+        "comments": 1,
+        "published": "2026-08-30T18:54:10Z"
+      },
+      {
+        "title": "Show HN: Cogram Studio \u2013 CAD and BIM workspace for humans and agents",
+        "url": "https://studio.cogram.com/",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-08-30T18:49:39Z"
+      },
+      {
+        "title": "Scans of 400 handwritten notes about people's relationships with AI",
+        "url": "https://www.whatwetellai.com/",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-08-30T18:46:54Z"
+      },
+      {
+        "title": "\"The Fate of the Riemann Hypothesis\" by Richard Evan Schwartz [pdf]",
+        "url": "https://www.math.brown.edu/reschwar/Stories/AI.pdf",
+        "points": 2,
+        "comments": 2,
+        "published": "2026-08-30T18:28:21Z"
+      },
+      {
+        "title": "Experiments with AI \u2013 Structure of Third Party Agentic Apps",
+        "url": "https://karankurani.com/writing/post/w_20260722063839_af741a/experiments-with-ai-structure-of-third-party-agentic-apps/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-08-30T18:21:56Z"
+      },
+      {
+        "title": "Ask HN: AI for Home Lab Infra?",
+        "url": "https://news.ycombinator.com/item?id=49501306",
+        "points": 1,
+        "comments": 1,
+        "published": "2026-08-30T18:19:24Z"
+      },
+      {
+        "title": "Show HN: Skills MCP",
+        "url": "https://news.ycombinator.com/item?id=49501178",
         "points": 3,
         "comments": 2,
-        "published": "2026-08-30T15:41:08Z"
+        "published": "2026-08-30T18:07:42Z"
       },
       {
-        "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
-        "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-        "points": 1,
-        "comments": 3,
-        "published": "2026-08-30T15:40:04Z"
-      },
-      {
-        "title": "Security scanner for AI agents, MCP servers and agent skills",
-        "url": "https://github.com/snyk/agent-scan/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-08-30T15:36:40Z"
-      },
-      {
-        "title": "Observational reconstruction, then the inverse problem",
-        "url": "https://seldon-ai.com/blog/reconstructing-agentic-workflows-from-traces",
+        "title": "Pyramid Replacement",
+        "url": "https://intelligence-curse.ai/pyramid/",
         "points": 1,
         "comments": 0,
-        "published": "2026-08-30T15:35:08Z"
+        "published": "2026-08-30T18:00:05Z"
       },
       {
-        "title": "BROCS: The framework for enterprise AI enablement",
-        "url": "https://brocs.fyi",
-        "points": 4,
-        "comments": 1,
-        "published": "2026-08-30T15:27:35Z"
-      },
-      {
-        "title": "Show HN: Snaketron \u2013 Competitive multiplayer Snake. Back after 14 years",
-        "url": "https://snaketron.io",
-        "points": 4,
-        "comments": 0,
-        "published": "2026-08-30T15:23:52Z"
-      },
-      {
-        "title": "Has vibecoding fried your brain?",
-        "url": "https://codeset.ai/fried",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-08-30T15:16:03Z"
-      },
-      {
-        "title": "An interesting website, looks like AI companion but only voice",
-        "url": "https://hers-site.vercel.app/",
-        "points": 1,
-        "comments": 2,
-        "published": "2026-08-30T15:12:14Z"
-      },
-      {
-        "title": "2027 AI Power Shortfall of 15 GW",
-        "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
-        "points": 2,
-        "comments": 1,
-        "published": "2026-08-30T14:52:22Z"
-      },
-      {
-        "title": "What agent skills are made of: programming languages",
-        "url": "https://plicara.ai/research/agent-skill-programming-languages/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-08-30T14:48:17Z"
-      },
-      {
-        "title": "Show HN: Sapporta \u2013 build database applications for power users",
-        "url": "https://sapporta.com/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-08-30T14:45:48Z"
-      },
-      {
-        "title": "Free and Open-Source Web Search for Your AI Agents",
-        "url": "https://pypi.org/project/simurg/",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-08-30T14:36:02Z"
-      },
-      {
-        "title": "Show HN: FinBridge \u2013 Korean stock market data for AI agents (MCP)",
-        "url": "https://www.gronox.kr/",
+        "title": "Superhuman AI coding still makes software worse",
+        "url": "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html",
         "points": 1,
         "comments": 1,
-        "published": "2026-08-30T14:33:36Z"
+        "published": "2026-08-30T17:28:44Z"
       },
       {
-        "title": "Ethical Issues in Advanced Artificial Intelligence",
-        "url": "https://nickbostrom.com/ethics/ai",
+        "title": "Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire",
+        "url": "https://apnews.com/article/good-luck-have-fun-dont-die-review-8c9e0815b189a2395bedf58c704cc239",
+        "points": 3,
+        "comments": 0,
+        "published": "2026-08-30T17:16:15Z"
+      },
+      {
+        "title": "Pure-Rust Headless Browser: 5\u00d7 Faster, 80% Less Memory Compared to Chromium",
+        "url": "https://www.reddit.com/r/browsers/comments/1w2mzsu/i_built_a_headless_browser_for_ai_agents_entirely/",
         "points": 2,
         "comments": 0,
-        "published": "2026-08-30T14:31:59Z"
+        "published": "2026-08-30T17:05:57Z"
       },
       {
-        "title": "Getting into Flow with AI Coding",
-        "url": "https://www.natashatherobot.com/p/flow-ai-coding",
-        "points": 2,
-        "comments": 1,
-        "published": "2026-08-30T14:28:54Z"
-      },
-      {
-        "title": "Icelanders vote 'no' to talks aimed at joining the EU in close referendum",
-        "url": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
-        "points": 4,
+        "title": "Semantic invariance testing for AI (Contradish)",
+        "url": "https://contradish.com/",
+        "points": 1,
         "comments": 0,
-        "published": "2026-08-30T14:12:21Z"
+        "published": "2026-08-30T17:04:40Z"
+      },
+      {
+        "title": "Show HN: Simurg open-source web search for AI agents that aborts hallucinations",
+        "url": "https://github.com/doofzoff/SIMURG",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-08-30T17:04:03Z"
       }
     ],
     "github_repos": [
@@ -306,15 +306,15 @@
         "name": "openclaw/openclaw",
         "url": "https://github.com/openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
-        "stars": 388063,
+        "stars": 388082,
         "language": "TypeScript",
-        "pushed_at": "2026-08-30T16:23:10Z"
+        "pushed_at": "2026-08-30T20:49:02Z"
       },
       {
         "name": "obra/superpowers",
         "url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 279600,
+        "stars": 279654,
         "language": "Shell",
         "pushed_at": "2026-08-29T03:21:18Z"
       },
@@ -322,23 +322,23 @@
         "name": "NousResearch/hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stars": 238406,
+        "stars": 238469,
         "language": "Python",
-        "pushed_at": "2026-08-30T16:04:00Z"
+        "pushed_at": "2026-08-30T20:48:18Z"
       },
       {
         "name": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 202857,
+        "stars": 202877,
         "language": "TypeScript",
-        "pushed_at": "2026-08-30T11:03:08Z"
+        "pushed_at": "2026-08-30T20:36:03Z"
       },
       {
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "stars": 187011,
+        "stars": 187016,
         "language": "Python",
         "pushed_at": "2026-08-30T09:04:08Z"
       },
@@ -346,7 +346,7 @@
         "name": "firecrawl/firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
         "description": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-        "stars": 174342,
+        "stars": 174419,
         "language": "TypeScript",
         "pushed_at": "2026-08-30T06:23:27Z"
       },
@@ -354,7 +354,7 @@
         "name": "f/prompts.chat",
         "url": "https://github.com/f/prompts.chat",
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-        "stars": 168207,
+        "stars": 168231,
         "language": "HTML",
         "pushed_at": "2026-08-30T03:17:35Z"
       },
@@ -367,34 +367,34 @@
         "pushed_at": "2026-08-28T08:06:36Z"
       },
       {
-        "name": "langgenius/dify",
-        "url": "https://github.com/langgenius/dify",
-        "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-        "stars": 153904,
-        "language": "TypeScript",
-        "pushed_at": "2026-08-30T16:07:47Z"
-      },
-      {
         "name": "langflow-ai/langflow",
         "url": "https://github.com/langflow-ai/langflow",
         "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": 153902,
+        "stars": 153916,
         "language": "Python",
-        "pushed_at": "2026-08-30T16:13:13Z"
+        "pushed_at": "2026-08-30T18:18:43Z"
+      },
+      {
+        "name": "langgenius/dify",
+        "url": "https://github.com/langgenius/dify",
+        "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+        "stars": 153910,
+        "language": "TypeScript",
+        "pushed_at": "2026-08-30T17:04:48Z"
       },
       {
         "name": "open-webui/open-webui",
         "url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stars": 150416,
+        "stars": 150425,
         "language": "Python",
-        "pushed_at": "2026-08-30T16:22:33Z"
+        "pushed_at": "2026-08-30T20:12:43Z"
       },
       {
         "name": "msitarzewski/agency-agents",
         "url": "https://github.com/msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stars": 148988,
+        "stars": 149029,
         "language": "Shell",
         "pushed_at": "2026-08-26T14:57:12Z"
       },
@@ -402,7 +402,7 @@
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
         "description": "The agent engineering platform.",
-        "stars": 145288,
+        "stars": 145292,
         "language": "Python",
         "pushed_at": "2026-08-30T08:14:57Z"
       },
@@ -410,7 +410,7 @@
         "name": "Shubhamsaboo/awesome-llm-apps",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-        "stars": 135250,
+        "stars": 135279,
         "language": "Python",
         "pushed_at": "2026-08-30T07:42:00Z"
       },
@@ -418,7 +418,7 @@
         "name": "github/spec-kit",
         "url": "https://github.com/github/spec-kit",
         "description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
-        "stars": 132307,
+        "stars": 132335,
         "language": "Python",
         "pushed_at": "2026-08-28T21:42:14Z"
       },
@@ -426,15 +426,15 @@
         "name": "Comfy-Org/ComfyUI",
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": 130725,
+        "stars": 130743,
         "language": "Python",
-        "pushed_at": "2026-08-30T00:10:24Z"
+        "pushed_at": "2026-08-30T20:08:46Z"
       },
       {
         "name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "stars": 123164,
+        "stars": 123206,
         "language": "Python",
         "pushed_at": "2026-08-27T09:15:37Z"
       },
@@ -442,7 +442,7 @@
         "name": "microsoft/generative-ai-for-beginners",
         "url": "https://github.com/microsoft/generative-ai-for-beginners",
         "description": "21 Lessons, Get Started Building with Generative AI ",
-        "stars": 118807,
+        "stars": 118814,
         "language": "Jupyter Notebook",
         "pushed_at": "2026-08-27T12:02:05Z"
       },
@@ -450,7 +450,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
         "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "stars": 118771,
+        "stars": 118804,
         "language": "Python",
         "pushed_at": "2026-08-30T00:16:02Z"
       },
@@ -458,7 +458,7 @@
         "name": "browser-use/browser-use",
         "url": "https://github.com/browser-use/browser-use",
         "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
-        "stars": 111726,
+        "stars": 111738,
         "language": "Python",
         "pushed_at": "2026-08-30T16:10:39Z"
       }
@@ -468,26 +468,26 @@
       {
         "title": "Will Anthropic have the best AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-august-20260717015626546",
-        "price": "[\"0.9965\", \"0.0035\"]",
-        "volume": "521035.3845990003"
+        "price": "[\"0.996\", \"0.004\"]",
+        "volume": "521374.8230130003"
       },
       {
         "title": "Will Meta have the best AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-august-20260717015626546",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "187441.92585199996"
+        "volume": "187441.92585200001"
       },
       {
         "title": "Will Google have the best AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-august-20260717015626546",
-        "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "247864.05273299993"
+        "price": "[\"0.001\", \"0.999\"]",
+        "volume": "247874.05273299996"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-august-20260717015626546",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "166751.77444599997"
+        "volume": "166751.774446"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of August 2026?",
@@ -499,7 +499,7 @@
         "title": "Will OpenAI have the best AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-august-20260717015626546",
         "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "234055.851058"
+        "volume": "234059.14755799994"
       },
       {
         "title": "Will Baidu have the best AI model at the end of August 2026?",
@@ -523,7 +523,7 @@
         "title": "Will SpaceXAI have the best AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-august-20260717015626546",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "222094.28971699998"
+        "volume": "222094.28971699995"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of August 2026?",
@@ -541,7 +541,7 @@
         "title": "Will Bytedance have the best AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-august-20260717015626546",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "675513.9105"
+        "volume": "675513.9105000001"
       },
       {
         "title": "Will Nvidia have the best AI model at the end of August 2026?",
@@ -660,38 +660,38 @@
       {
         "title": "Will Anthropic have the best AI model at the end of September 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
-        "price": "[\"0.945\", \"0.055\"]",
-        "volume": "100227.624298"
+        "price": "[\"0.94\", \"0.06\"]",
+        "volume": "102838.50953"
       },
       {
         "title": "Will Meta have the best AI model at the end of September 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "42103.444685999995"
+        "volume": "42476.56468599998"
       },
       {
         "title": "Will Google have the best AI model at the end of September 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
-        "price": "[\"0.0205\", \"0.9795\"]",
-        "volume": "63373.013748"
+        "price": "[\"0.021\", \"0.979\"]",
+        "volume": "64050.193748000005"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of September 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "51584.388775"
+        "volume": "51957.508775"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of September 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "32264.803612000003"
+        "volume": "32264.803612"
       },
       {
         "title": "Will OpenAI have the best AI model at the end of September 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
-        "price": "[\"0.031\", \"0.969\"]",
-        "volume": "52363.74651099999"
+        "price": "[\"0.0345\", \"0.9655\"]",
+        "volume": "53012.206511000004"
       },
       {
         "title": "Will Baidu have the best AI model at the end of September 2026?",
@@ -703,7 +703,7 @@
         "title": "Will Z.ai have the best AI model at the end of September 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "48879.457436"
+        "volume": "49538.579436"
       },
       {
         "title": "Will Xiaomi have the best AI model at the end of September 2026?",
@@ -715,13 +715,13 @@
         "title": "Will SpaceXAI have the best AI model at the end of September 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
         "price": "[\"0.007\", \"0.993\"]",
-        "volume": "53927.962820000015"
+        "volume": "54345.072819999994"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of September 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "42569.84522899999"
+        "volume": "42942.96522900001"
       },
       {
         "title": "Will Amazon have the best AI model at the end of September 2026?",
@@ -733,7 +733,7 @@
         "title": "Will ByteDance have the best AI model at the end of September 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "34231.5475"
+        "volume": "34904.6675"
       },
       {
         "title": "Will Nvidia have the best AI model at the end of September 2026?",
@@ -852,14 +852,14 @@
       {
         "title": "Will Alibaba have the best Chinese AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-august-20260717004241592",
-        "price": "[\"0.984\", \"0.016\"]",
-        "volume": "255844.73077399997"
+        "price": "[\"0.981\", \"0.019\"]",
+        "volume": "256373.62445500004"
       },
       {
         "title": "Will Moonshot have the best Chinese AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-august-20260717004241592",
         "price": "[\"0.014\", \"0.986\"]",
-        "volume": "83833.913512"
+        "volume": "83833.91351200001"
       },
       {
         "title": "Will Baidu have the best Chinese AI model at the end of August 2026?",
@@ -871,31 +871,31 @@
         "title": "Will Z.ai have the best Chinese AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-august-20260717004241592",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "158167.219205"
+        "volume": "158168.22020499996"
       },
       {
         "title": "Will Xiaomi have the best Chinese AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-august-20260717004241592",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "54716.09217700001"
+        "volume": "54726.20217700002"
       },
       {
         "title": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-august-20260717004241592",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "146527.17605599997"
+        "volume": "146527.176056"
       },
       {
         "title": "Will Bytedance have the best Chinese AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-august-20260717004241592",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "67995.72984100001"
+        "volume": "67995.729841"
       },
       {
         "title": "Will MiniMax have the best Chinese AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-august-20260717004241592",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "86005.93916900002"
+        "volume": "86005.93916900003"
       },
       {
         "title": "Will Meituan have the best Chinese AI model at the end of August 2026?",
@@ -907,7 +907,7 @@
         "title": "Will Tencent have the best Chinese AI model at the end of August 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-august-20260717004241592",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "64307.79130999999"
+        "volume": "64337.620310000006"
       },
       {
         "title": "Will StepFun have the best Chinese AI model at the end of August 2026?",
@@ -1003,19 +1003,19 @@
         "title": "Will Google have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.085\", \"0.915\"]",
-        "volume": "43370.739587"
+        "volume": "43370.73958700001"
       },
       {
         "title": "Will Anthropic have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.695\", \"0.305\"]",
-        "volume": "89058.52717900003"
+        "volume": "89058.52717900001"
       },
       {
         "title": "Will OpenAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.12\", \"0.88\"]",
-        "volume": "71105.91133500001"
+        "volume": "71105.911335"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of December 2026?",
@@ -1027,31 +1027,31 @@
         "title": "Will Z.ai have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0065\", \"0.9935\"]",
-        "volume": "56572.6402"
+        "volume": "56572.640199999994"
       },
       {
         "title": "Will xAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.07\", \"0.93\"]",
+        "price": "[\"0.069\", \"0.931\"]",
         "volume": "69542.184167"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.007\", \"0.993\"]",
-        "volume": "65915.835216"
+        "price": "[\"0.0075\", \"0.9925\"]",
+        "volume": "66143.87965999999"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.009\", \"0.991\"]",
-        "volume": "68105.392795"
+        "volume": "68105.39279499999"
       },
       {
         "title": "Will Mistral have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "49267.075616"
+        "volume": "49267.075615999995"
       },
       {
         "title": "Will Meituan have the best AI model at the end of December 2026?",
@@ -1063,13 +1063,13 @@
         "title": "Will Microsoft have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "45665.297128"
+        "volume": "45665.297128000006"
       },
       {
         "title": "Will Meta have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0305\", \"0.9695\"]",
-        "volume": "54077.799953999995"
+        "price": "[\"0.0255\", \"0.9745\"]",
+        "volume": "54077.79995400001"
       },
       {
         "title": "Will Amazon have the best AI model at the end of December 2026?",
@@ -1081,13 +1081,13 @@
         "title": "Will Baidu have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "39701.01269100001"
+        "volume": "39701.012691"
       },
       {
         "title": "Will ByteDance have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "61950.995477"
+        "volume": "61950.995477000004"
       },
       {
         "title": "Will Company A have the best AI model at the end of December 2026?",
@@ -1158,31 +1158,31 @@
       {
         "title": "Will Moonshot have the best Code Arena | WebDev AI at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-code-arena-webdev-ai-model-end-of-october",
-        "price": "[\"0.0455\", \"0.9545\"]",
+        "price": "[\"0.056\", \"0.944\"]",
         "volume": "221.53"
       },
       {
         "title": "Will Anthropic have the best Code Arena | WebDev AI at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-code-arena-webdev-ai-model-end-of-october",
-        "price": "[\"0.625\", \"0.375\"]",
-        "volume": "38677.29163400001"
+        "price": "[\"0.61\", \"0.39\"]",
+        "volume": "39086.29163400001"
       },
       {
         "title": "Will OpenAI have the best Code Arena | WebDev AI at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-code-arena-webdev-ai-model-end-of-october",
-        "price": "[\"0.0105\", \"0.9895\"]",
+        "price": "[\"0.011\", \"0.989\"]",
         "volume": "807.8538450000001"
       },
       {
         "title": "Will Z.ai have the best Code Arena | WebDev AI at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-code-arena-webdev-ai-model-end-of-october",
-        "price": "[\"0.05\", \"0.95\"]",
+        "price": "[\"0.126\", \"0.874\"]",
         "volume": "231.55104"
       },
       {
         "title": "Will SpaceXAI have the best Code Arena | WebDev AI at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-code-arena-webdev-ai-model-end-of-october",
-        "price": "[\"0.042\", \"0.958\"]",
+        "price": "[\"0.038\", \"0.962\"]",
         "volume": "414.53"
       },
       {
@@ -1194,14 +1194,14 @@
       {
         "title": "Will ByteDance have the best Code Arena | WebDev AI at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-code-arena-webdev-ai-model-end-of-october",
-        "price": "[\"0.0065\", \"0.9935\"]",
+        "price": "[\"0.006\", \"0.994\"]",
         "volume": "296.14"
       },
       {
         "title": "Will Alibaba have the best Code Arena | WebDev AI at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-code-arena-webdev-ai-model-end-of-october",
-        "price": "[\"0.059\", \"0.941\"]",
-        "volume": "324.88"
+        "price": "[\"0.0845\", \"0.9155\"]",
+        "volume": "324.87999999999994"
       },
       {
         "title": "Will MiniMax have the best Code Arena | WebDev AI at the end of October 2026?",
@@ -1224,19 +1224,19 @@
       {
         "title": "Will DeepSeek have the best Code Arena | WebDev AI at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-code-arena-webdev-ai-model-end-of-october",
-        "price": "[\"0.009\", \"0.991\"]",
+        "price": "[\"0.011\", \"0.989\"]",
         "volume": "248.53"
       },
       {
         "title": "Will Thinky have the best Code Arena | WebDev AI at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-code-arena-webdev-ai-model-end-of-october",
-        "price": "[\"0.0475\", \"0.9525\"]",
+        "price": "[\"0.1315\", \"0.8685\"]",
         "volume": "449.92999999999995"
       },
       {
         "title": "Will Tencent have the best Code Arena | WebDev AI at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-code-arena-webdev-ai-model-end-of-october",
-        "price": "[\"0.013\", \"0.987\"]",
+        "price": "[\"0.0125\", \"0.9875\"]",
         "volume": "301.841266"
       },
       {
@@ -1757,133 +1757,133 @@
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
         "language": "JavaScript",
-        "stars_this_week": "25,542"
+        "stars_this_week": "25,601"
       },
       {
         "name": "anthropics/claude-plugins-community",
         "url": "https://github.com/anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
         "language": "Python",
-        "stars_this_week": "2,834"
+        "stars_this_week": "2,857"
       },
       {
         "name": "tt-a1i/archify",
         "url": "https://github.com/tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
         "language": "JavaScript",
-        "stars_this_week": "33,638"
+        "stars_this_week": "34,152"
       },
       {
         "name": "omacom/omarchy",
         "url": "https://github.com/omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "language": "Shell",
-        "stars_this_week": "35,284"
+        "stars_this_week": "35,430"
       },
       {
         "name": "apache/maka",
         "url": "https://github.com/apache/maka",
         "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
         "language": "TypeScript",
-        "stars_this_week": "4,145"
+        "stars_this_week": "4,170"
       },
       {
         "name": "tashfeenahmed/freellmapi",
         "url": "https://github.com/tashfeenahmed/freellmapi",
         "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
         "language": "TypeScript",
-        "stars_this_week": "22,560"
+        "stars_this_week": "22,681"
       },
       {
         "name": "MadsLorentzen/ai-job-search",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "language": "Python",
-        "stars_this_week": "38,365"
+        "stars_this_week": "38,451"
       },
       {
         "name": "anthropics/claude-plugins-official",
         "url": "https://github.com/anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "language": "Python",
-        "stars_this_week": "35,581"
+        "stars_this_week": "35,602"
       },
       {
         "name": "AprilNEA/OpenLogi",
         "url": "https://github.com/AprilNEA/OpenLogi",
         "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "language": "Rust",
-        "stars_this_week": "17,811"
+        "stars_this_week": "17,872"
       },
       {
         "name": "rohitg00/ai-engineering-from-scratch",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "language": "Python",
-        "stars_this_week": "51,196"
+        "stars_this_week": "51,240"
       },
       {
         "name": "cursor/plugins",
         "url": "https://github.com/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "stars_this_week": "6,248"
+        "stars_this_week": "6,261"
       },
       {
         "name": "K-Dense-AI/scientific-agent-skills",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
         "language": "Python",
-        "stars_this_week": "38,748"
+        "stars_this_week": "39,028"
       },
       {
         "name": "ConardLi/garden-skills",
         "url": "https://github.com/ConardLi/garden-skills",
         "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
         "language": "CSS",
-        "stars_this_week": "11,737"
+        "stars_this_week": "11,756"
       },
       {
         "name": "google/googletest",
         "url": "https://github.com/google/googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "language": "C++",
-        "stars_this_week": "39,372"
+        "stars_this_week": "39,378"
       },
       {
         "name": "Alishahryar1/free-claude-code",
         "url": "https://github.com/Alishahryar1/free-claude-code",
         "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
         "language": "Python",
-        "stars_this_week": "51,827"
+        "stars_this_week": "51,888"
       },
       {
         "name": "THU-MAIC/OpenMAIC",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
         "language": "TypeScript",
-        "stars_this_week": "23,440"
+        "stars_this_week": "23,738"
       },
       {
         "name": "abi/screenshot-to-code",
         "url": "https://github.com/abi/screenshot-to-code",
         "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
         "language": "Python",
-        "stars_this_week": "76,306"
+        "stars_this_week": "76,357"
       },
       {
         "name": "openai/codex",
         "url": "https://github.com/openai/codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "language": "Rust",
-        "stars_this_week": "120,031"
+        "stars_this_week": "120,073"
       },
       {
         "name": "tinyhumansai/openhuman",
         "url": "https://github.com/tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
         "language": "Rust",
-        "stars_this_week": "38,955"
+        "stars_this_week": "38,991"
       }
     ],
     "twitter": []
