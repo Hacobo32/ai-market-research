@@ -1,149 +1,304 @@
 {
   "topic": "AI",
-  "generated_at": "2026-10-19T22:09:56.801584+00:00",
+  "generated_at": "2026-10-20T04:15:03.500052+00:00",
   "lookback_days": 7,
   "sources": {
-    "reddit": [],
+    "reddit": [
+      {
+        "title": "Anyone have any ai site or tool that helps you profit?",
+        "url": "https://www.reddit.com/r/sportsbetting/comments/1xai564/anyone_have_any_ai_site_or_tool_that_helps_you/",
+        "published": "2026-10-20T04:00:27+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Best platform for building apps with the complete help of AI?",
+        "url": "https://www.reddit.com/r/AI_Tools_Land/comments/1xai4mv/best_platform_for_building_apps_with_the_complete/",
+        "published": "2026-10-20T03:59:46+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "I built DevTrace AI to help developers understand unfamiliar codebases and preserve engineering context \u2014 looking for feedback",
+        "url": "https://www.reddit.com/r/SideProject/comments/1xai4i6/i_built_devtrace_ai_to_help_developers_understand/",
+        "published": "2026-10-20T03:59:33+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Have you ever turned something you work on professionally into a fun side project?",
+        "url": "https://www.reddit.com/r/sideprojects/comments/1xai4gl/have_you_ever_turned_something_you_work_on/",
+        "published": "2026-10-20T03:59:29+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "What new sabers are there? Gemini Sucks and won\u2019t tell me.+ will they be doing night shows",
+        "url": "https://www.reddit.com/r/GalaxysEdge/comments/1xai4bx/what_new_sabers_are_there_gemini_sucks_and_wont/",
+        "published": "2026-10-20T03:59:16+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "\ud83d\udea8 WANTED: 4 LEGENDS FOR THE MOST RIDICULOUS 40TH BIRTHDAY ENTRANCE EVER! \ud83d\udd25\ud83d\udcaa",
+        "url": "https://www.reddit.com/r/brevardfl/comments/1xai490/wanted_4_legends_for_the_most_ridiculous_40th/",
+        "published": "2026-10-20T03:59:10+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "No more casual Kanji learning time for competitive learning. Play a game against other people or AI and get your Kanji ELO. you can train based off JLPT level. no signup needed!",
+        "url": "https://www.reddit.com/r/japaneseresources/comments/1xai47u/no_more_casual_kanji_learning_time_for/",
+        "published": "2026-10-20T03:59:06+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Need some career advice from people who have been through this",
+        "url": "https://www.reddit.com/r/cscareeradvice/comments/1xai455/need_some_career_advice_from_people_who_have_been/",
+        "published": "2026-10-20T03:59:00+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Pretty confident this creator on ig is ai and she has over 130k followers on IG",
+        "url": "https://www.reddit.com/r/isitAI/comments/1xai44n/pretty_confident_this_creator_on_ig_is_ai_and_she/",
+        "published": "2026-10-20T03:58:59+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "A China-Linked Operator Used AI Agents to Attack Governments Across Asia",
+        "url": "https://www.reddit.com/r/blueteamsec/comments/1xai444/a_chinalinked_operator_used_ai_agents_to_attack/",
+        "published": "2026-10-20T03:58:58+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "A little bug in FH2 FF",
+        "url": "https://www.reddit.com/r/ForzaHorizon2/comments/1xai42o/a_little_bug_in_fh2_ff/",
+        "published": "2026-10-20T03:58:54+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Izredni \u0161tudij na UL FRI Ra\u010dunalni\u0161tvo in informatika izku\u0161nje",
+        "url": "https://www.reddit.com/r/Slovenia/comments/1xai41p/izredni_\u0161tudij_na_ul_fri_ra\u010dunalni\u0161tvo_in/",
+        "published": "2026-10-20T03:58:51+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "I think this is AI and fooling almost 150k people..",
+        "url": "https://www.reddit.com/r/RealOrAI/comments/1xai3zg/i_think_this_is_ai_and_fooling_almost_150k_people/",
+        "published": "2026-10-20T03:58:45+00:00",
+        "score": 1,
+        "comments": 1
+      },
+      {
+        "title": "4 month before and after with Dr Patty (last photo is AI to show what result I\u2019m hoping for)",
+        "url": "https://www.reddit.com/r/Hairtransplant/comments/1xai3ui/4_month_before_and_after_with_dr_patty_last_photo/",
+        "published": "2026-10-20T03:58:34+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Whoever Advised to Appeal via AI\u2026THANK YOU!",
+        "url": "https://www.reddit.com/r/AmazonFlexDrivers/comments/1xai3u9/whoever_advised_to_appeal_via_aithank_you/",
+        "published": "2026-10-20T03:58:33+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "No more casual Kanji learning time for competitive learning. Play a game against other people or AI and get your Kanji ELO. you can train based off JLPT level. no signup needed!",
+        "url": "https://www.reddit.com/r/HelpLearningJapanese/comments/1xai3ss/no_more_casual_kanji_learning_time_for/",
+        "published": "2026-10-20T03:58:29+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "AI Generated Roadmap",
+        "url": "https://www.reddit.com/r/StarCraftTMG/comments/1xai3r5/ai_generated_roadmap/",
+        "published": "2026-10-20T03:58:25+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "How to evaluate a reddit marketing agency without getting burned by spam tactics",
+        "url": "https://www.reddit.com/r/SubgrowHQ/comments/1xai3nm/how_to_evaluate_a_reddit_marketing_agency_without/",
+        "published": "2026-10-20T03:58:17+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Chilly nights and alcohol I feel amazing",
+        "url": "https://www.reddit.com/r/drunk/comments/1xai3n3/chilly_nights_and_alcohol_i_feel_amazing/",
+        "published": "2026-10-20T03:58:16+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Looking for job opportunities",
+        "url": "https://www.reddit.com/r/QatarCareers/comments/1xai3hu/looking_for_job_opportunities/",
+        "published": "2026-10-20T03:58:01+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Sally Face Port on PS Vita",
+        "url": "https://www.reddit.com/r/vitahacks/comments/1xai3ff/sally_face_port_on_ps_vita/",
+        "published": "2026-10-20T03:57:55+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "End of 28 days challenge, we might get a new Model from Open Ai & Timer is set exactly",
+        "url": "https://www.reddit.com/r/OpenaiCodex/comments/1xai3eo/end_of_28_days_challenge_we_might_get_a_new_model/",
+        "published": "2026-10-20T03:57:54+00:00",
+        "score": 1,
+        "comments": 0
+      }
+    ],
     "hackernews": [
       {
-        "title": "AI models can get brain rot, too",
-        "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
+        "title": "A Forgotten 1980 Reversible Computer, and the AI That Just Cut Quantum Costs 17x",
+        "url": "https://x.com/BrianRoemmele/article/2112202286441374119",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-10-20T04:02:00Z"
+      },
+      {
+        "title": "Show HN: Rouler \u2013 Steer Windows traffic per app or IP across multiple interfaces",
+        "url": "https://rouler.io/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-10-20T03:51:43Z"
+      },
+      {
+        "title": "AWS CFO joked about the financial toll of AI. An internal recording reveals why",
+        "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
         "points": 2,
-        "comments": 0,
-        "published": "2026-10-19T22:01:26Z"
+        "comments": 1,
+        "published": "2026-10-20T03:49:34Z"
       },
       {
-        "title": "We Made Contact. ChatGPT Messaged Our Website",
-        "url": "https://quickchat.ai/post/we-made-contact",
+        "title": "Should agent-memory benchmarks test stale information?",
+        "url": "https://agentmemories.ai/home",
         "points": 1,
         "comments": 0,
-        "published": "2026-10-19T21:57:08Z"
+        "published": "2026-10-20T03:46:35Z"
       },
       {
-        "title": "DHS orders removal of DeepSeek from government agency IT systems",
-        "url": "https://thehill.com/policy/technology/6159116-dhs-bans-chinese-deepseek-ai/",
+        "title": "Show HN: An Open Source Aircraft",
+        "url": "https://adampaigge.github.io/openplane/",
         "points": 1,
         "comments": 0,
-        "published": "2026-10-19T21:50:22Z"
+        "published": "2026-10-20T03:46:13Z"
       },
       {
-        "title": "Show HN: Accessibility Context for UI with AI",
-        "url": "https://www.typeui.sh/ui-foundations/configurator",
+        "title": "Exa 3.0",
+        "url": "https://exa.ai/blog/exa-3",
         "points": 1,
         "comments": 0,
-        "published": "2026-10-19T21:46:15Z"
+        "published": "2026-10-20T03:23:32Z"
       },
       {
-        "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
-        "url": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
+        "title": "Textideo Director \u2013 an AI video creation tool for scenes, shots",
+        "url": "https://textideo.com/director",
         "points": 1,
         "comments": 0,
-        "published": "2026-10-19T21:38:09Z"
+        "published": "2026-10-20T03:13:03Z"
       },
       {
-        "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
-        "url": "https://arxiv.org/abs/2610.16555",
+        "title": "Show HN: Search for AI-agents and usefulness score",
+        "url": "https://xtract-production-2efc.up.railway.app/",
         "points": 1,
         "comments": 0,
-        "published": "2026-10-19T21:33:28Z"
+        "published": "2026-10-20T02:57:52Z"
       },
       {
-        "title": "Technocapitalist AI-Powered Blues",
-        "url": "https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/",
+        "title": "Show HN: AppMaker \u2013 Build business apps with AI, visual editing and code",
+        "url": "https://appmaker.io/",
         "points": 1,
         "comments": 0,
-        "published": "2026-10-19T21:15:44Z"
+        "published": "2026-10-20T02:55:31Z"
       },
       {
-        "title": "Quizera \u2013 Create and deploy AI-assisted assessments in minutes",
-        "url": "https://quizera.ai/",
+        "title": "Show HN: Yana \u2013 A local-first, human-governed AI runtime and IDE in Rust",
+        "url": "https://github.com/yanacuti1121/yana-ai",
+        "points": 3,
+        "comments": 0,
+        "published": "2026-10-20T02:48:40Z"
+      },
+      {
+        "title": "Ship Your Interpreter",
+        "url": "https://www.basis.ai/blog/ship-your-interpreters/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-10-20T01:57:24Z"
+      },
+      {
+        "title": "New AI tool can predict cancer survival by a single patient selfie",
+        "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-10-20T01:50:20Z"
+      },
+      {
+        "title": "Show HN: Privacy Layer for Frontier Models",
+        "url": "https://privai-sandy.vercel.app/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-10-20T01:47:06Z"
+      },
+      {
+        "title": "Ukrainian drone flies wounded soldier from front line",
+        "url": "https://www.abc.net.au/news/2026-10-20/ukraine-airlifts-wounded-soldier-with-drone-in-world-first/107286436",
+        "points": 5,
+        "comments": 1,
+        "published": "2026-10-20T01:44:36Z"
+      },
+      {
+        "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+        "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
         "points": 1,
         "comments": 1,
-        "published": "2026-10-19T21:12:45Z"
+        "published": "2026-10-20T01:37:45Z"
       },
       {
-        "title": "Scope: Open-source evaluation for AI coding agents",
-        "url": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
+        "title": "Built a Compiler from Scratch for Agent Swarms",
+        "url": "https://spinozalabs.ai/software",
+        "points": 1,
+        "comments": 2,
+        "published": "2026-10-20T01:35:26Z"
+      },
+      {
+        "title": "AI experts to school Congress wanted",
+        "url": "https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931",
         "points": 2,
-        "comments": 0,
-        "published": "2026-10-19T20:57:44Z"
+        "comments": 1,
+        "published": "2026-10-20T01:28:25Z"
       },
       {
-        "title": "Show HN: Craig \u2013 A TUI for running parallel coding agents",
-        "url": "https://craig-cli.com/",
+        "title": "Show HN: A legal assistant that refuses to cite law it can't verify",
+        "url": "https://ailegal.legal/",
+        "points": 7,
+        "comments": 2,
+        "published": "2026-10-20T01:09:05Z"
+      },
+      {
+        "title": "Show HN: Self-hosted AI spend attribution",
+        "url": "https://demo.costura.ai/overview",
+        "points": 4,
+        "comments": 1,
+        "published": "2026-10-20T01:08:20Z"
+      },
+      {
+        "title": "Self-hosted AI spend attribution",
+        "url": "https://github.com/CosturaAI/costura",
         "points": 3,
-        "comments": 2,
-        "published": "2026-10-19T20:57:14Z"
-      },
-      {
-        "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
-        "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
-        "points": 2,
         "comments": 0,
-        "published": "2026-10-19T20:55:51Z"
-      },
-      {
-        "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
-        "url": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-10-19T20:54:50Z"
-      },
-      {
-        "title": "Show HN: Flyingcar.pet \u2013 a physics simulation of Tesla's flying Roadster stunt",
-        "url": "https://flyingcar.pet",
-        "points": 1,
-        "comments": 5,
-        "published": "2026-10-19T20:51:22Z"
-      },
-      {
-        "title": "Blocking the Internet Archive Will Not Stop AI",
-        "url": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-10-19T20:49:29Z"
-      },
-      {
-        "title": "WunderOS Architecture: An Agent OS on Beam, with Guests in Firecracker MicroVMs",
-        "url": "https://pentad.ai/system/",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-10-19T20:39:16Z"
-      },
-      {
-        "title": "Show HN: Realtime talking avatar running free locally (90+FPS on RTX4090)",
-        "url": "https://github.com/openspline/openspline",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-10-19T20:32:31Z"
-      },
-      {
-        "title": "Sky-001: The First World Model for Engineering",
-        "url": "https://skyfall.ai/blog/introducing-sky-001",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-10-19T20:19:13Z"
-      },
-      {
-        "title": "Time to LLM Post",
-        "url": "https://news.ycombinator.com/item?id=50157348",
-        "points": 1,
-        "comments": 2,
-        "published": "2026-10-19T20:04:37Z"
-      },
-      {
-        "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-        "url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-10-19T19:58:50Z"
-      },
-      {
-        "title": "Red Hat Engineering Director Uses AI to Tackle Linux's Undocumented Driver Woes",
-        "url": "https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-10-19T19:56:58Z"
+        "published": "2026-10-20T01:04:38Z"
       }
     ],
     "github_repos": [
@@ -151,55 +306,63 @@
         "name": "openclaw/openclaw",
         "url": "https://github.com/openclaw/openclaw",
         "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
-        "stars": 392507,
+        "stars": 392839,
         "language": "TypeScript",
-        "pushed_at": "2026-10-19T22:09:44Z"
+        "pushed_at": "2026-10-20T04:14:32Z"
+      },
+      {
+        "name": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": 302197,
+        "language": "Shell",
+        "pushed_at": "2026-10-20T03:54:16Z"
       },
       {
         "name": "NousResearch/hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stars": 255257,
+        "stars": 255321,
         "language": "Python",
-        "pushed_at": "2026-10-19T21:54:02Z"
+        "pushed_at": "2026-10-20T04:10:27Z"
       },
       {
         "name": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 208046,
+        "stars": 208070,
         "language": "TypeScript",
-        "pushed_at": "2026-10-19T22:07:25Z"
+        "pushed_at": "2026-10-20T00:47:46Z"
       },
       {
         "name": "firecrawl/firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
         "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. \ud83d\udd25",
-        "stars": 193088,
+        "stars": 193142,
         "language": "TypeScript",
-        "pushed_at": "2026-10-19T21:56:15Z"
+        "pushed_at": "2026-10-20T04:14:00Z"
       },
       {
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "stars": 187660,
+        "stars": 187664,
         "language": "Python",
-        "pushed_at": "2026-10-19T22:07:12Z"
+        "pushed_at": "2026-10-20T04:14:47Z"
       },
       {
         "name": "f/prompts.chat",
         "url": "https://github.com/f/prompts.chat",
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-        "stars": 173579,
+        "stars": 173597,
         "language": "HTML",
-        "pushed_at": "2026-10-19T03:19:47Z"
+        "pushed_at": "2026-10-20T03:17:55Z"
       },
       {
         "name": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 168034,
+        "stars": 168239,
         "language": "JavaScript",
         "pushed_at": "2026-10-18T01:55:14Z"
       },
@@ -207,7 +370,7 @@
         "name": "msitarzewski/agency-agents",
         "url": "https://github.com/msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stars": 161722,
+        "stars": 161836,
         "language": "Shell",
         "pushed_at": "2026-10-19T16:48:24Z"
       },
@@ -215,7 +378,7 @@
         "name": "Snailclimb/JavaGuide",
         "url": "https://github.com/Snailclimb/JavaGuide",
         "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-        "stars": 159143,
+        "stars": 159144,
         "language": "JavaScript",
         "pushed_at": "2026-10-16T06:30:59Z"
       },
@@ -223,15 +386,15 @@
         "name": "langgenius/dify",
         "url": "https://github.com/langgenius/dify",
         "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-        "stars": 158924,
+        "stars": 158956,
         "language": "Python",
-        "pushed_at": "2026-10-19T16:07:45Z"
+        "pushed_at": "2026-10-20T04:09:42Z"
       },
       {
         "name": "open-webui/open-webui",
         "url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stars": 156199,
+        "stars": 156216,
         "language": "Python",
         "pushed_at": "2026-10-19T14:13:24Z"
       },
@@ -239,23 +402,23 @@
         "name": "langflow-ai/langflow",
         "url": "https://github.com/langflow-ai/langflow",
         "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": 155847,
+        "stars": 155854,
         "language": "Python",
-        "pushed_at": "2026-10-19T21:18:33Z"
+        "pushed_at": "2026-10-20T02:39:58Z"
       },
       {
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
         "description": "The agent engineering platform.",
-        "stars": 148090,
+        "stars": 148101,
         "language": "Python",
-        "pushed_at": "2026-10-19T21:30:03Z"
+        "pushed_at": "2026-10-20T01:13:14Z"
       },
       {
         "name": "Shubhamsaboo/awesome-llm-apps",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-        "stars": 142323,
+        "stars": 142341,
         "language": "Python",
         "pushed_at": "2026-10-18T16:28:46Z"
       },
@@ -263,7 +426,7 @@
         "name": "github/spec-kit",
         "url": "https://github.com/github/spec-kit",
         "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
-        "stars": 141956,
+        "stars": 141989,
         "language": "Python",
         "pushed_at": "2026-10-19T20:18:53Z"
       },
@@ -271,15 +434,15 @@
         "name": "Comfy-Org/ComfyUI",
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "stars": 139626,
+        "stars": 139922,
         "language": "Python",
-        "pushed_at": "2026-10-19T21:57:59Z"
+        "pushed_at": "2026-10-20T03:23:19Z"
       },
       {
         "name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "stars": 137601,
+        "stars": 137664,
         "language": "Python",
         "pushed_at": "2026-10-15T02:04:34Z"
       },
@@ -287,25 +450,17 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
         "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "stars": 133149,
+        "stars": 133201,
         "language": "Python",
-        "pushed_at": "2026-10-19T09:57:53Z"
+        "pushed_at": "2026-10-20T03:58:54Z"
       },
       {
         "name": "shadcn-ui/ui",
         "url": "https://github.com/shadcn-ui/ui",
         "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
-        "stars": 125966,
+        "stars": 125988,
         "language": "TypeScript",
         "pushed_at": "2026-10-19T09:28:57Z"
-      },
-      {
-        "name": "microsoft/generative-ai-for-beginners",
-        "url": "https://github.com/microsoft/generative-ai-for-beginners",
-        "description": "21 Lessons, Get Started Building with Generative AI ",
-        "stars": 121647,
-        "language": "Jupyter Notebook",
-        "pushed_at": "2026-10-19T09:10:07Z"
       }
     ],
     "youtube": [],
@@ -314,25 +469,25 @@
         "title": "Will Anthropic have the best AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october",
         "price": "[\"0.235\", \"0.765\"]",
-        "volume": "624597.900436"
+        "volume": "625629.862105"
       },
       {
         "title": "Will Meta have the best AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "345991.51624900004"
+        "volume": "346043.117749"
       },
       {
         "title": "Will Google have the best AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october",
-        "price": "[\"0.7345\", \"0.2655\"]",
-        "volume": "655389.593861"
+        "price": "[\"0.7425\", \"0.2575\"]",
+        "volume": "658273.409648"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "151449.686324"
+        "volume": "154449.686324"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of October 2026?",
@@ -343,8 +498,8 @@
       {
         "title": "Will OpenAI have the best AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "390870.737198"
+        "price": "[\"0.007\", \"0.993\"]",
+        "volume": "391214.355198"
       },
       {
         "title": "Will Baidu have the best AI model at the end of October 2026?",
@@ -506,7 +661,7 @@
         "title": "Will Google have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.405\", \"0.595\"]",
-        "volume": "306918.039002"
+        "volume": "306925.917051"
       },
       {
         "title": "Will Anthropic have the best AI model at the end of December 2026?",
@@ -517,32 +672,32 @@
       {
         "title": "Will OpenAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0565\", \"0.9435\"]",
-        "volume": "218972.36586700001"
+        "price": "[\"0.058\", \"0.942\"]",
+        "volume": "219030.94586700006"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "149893.81647000002"
+        "volume": "150093.81647000002"
       },
       {
         "title": "Will Z.ai have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.003\", \"0.997\"]",
-        "volume": "133449.45119899997"
+        "volume": "133449.451199"
       },
       {
         "title": "Will xAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0135\", \"0.9865\"]",
-        "volume": "169409.834503"
+        "price": "[\"0.0115\", \"0.9885\"]",
+        "volume": "169650.834503"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "148480.008258"
+        "volume": "148480.00825800002"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of December 2026?",
@@ -554,7 +709,7 @@
         "title": "Will Mistral have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "192323.91956399998"
+        "volume": "192323.919564"
       },
       {
         "title": "Will Meituan have the best AI model at the end of December 2026?",
@@ -566,19 +721,19 @@
         "title": "Will Microsoft have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "119789.81212800002"
+        "volume": "119989.812128"
       },
       {
         "title": "Will Meta have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0155\", \"0.9845\"]",
-        "volume": "189841.27774800002"
+        "price": "[\"0.0125\", \"0.9875\"]",
+        "volume": "190348.387748"
       },
       {
         "title": "Will Amazon have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "113618.25864900001"
+        "volume": "113962.389649"
       },
       {
         "title": "Will Baidu have the best AI model at the end of December 2026?",
@@ -590,7 +745,7 @@
         "title": "Will ByteDance have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "126286.962295"
+        "volume": "126286.96229500002"
       },
       {
         "title": "Will Company A have the best AI model at the end of December 2026?",
@@ -661,14 +816,14 @@
       {
         "title": "Will Anthropic have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.385\", \"0.615\"]",
+        "price": "[\"0.405\", \"0.595\"]",
         "volume": "64203.42872499999"
       },
       {
         "title": "Will Meta have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.019\", \"0.981\"]",
-        "volume": "27257.562485"
+        "price": "[\"0.0185\", \"0.9815\"]",
+        "volume": "27391.992485"
       },
       {
         "title": "Will Google have the best AI model at the end of November 2026?",
@@ -680,19 +835,19 @@
         "title": "Will Alibaba have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "17956.606399"
+        "volume": "18012.606399"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "21645.091658999998"
+        "price": "[\"0.004\", \"0.996\"]",
+        "volume": "21701.091658999998"
       },
       {
         "title": "Will OpenAI have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.041\", \"0.959\"]",
-        "volume": "24667.661964"
+        "volume": "24723.661964"
       },
       {
         "title": "Will Baidu have the best AI model at the end of November 2026?",
@@ -710,19 +865,19 @@
         "title": "Will Xiaomi have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "13368.173949999997"
+        "volume": "13368.17395"
       },
       {
         "title": "Will SpaceXAI have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.0045\", \"0.9955\"]",
-        "volume": "22848.082693"
+        "price": "[\"0.0035\", \"0.9965\"]",
+        "volume": "22888.082693"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "34090.11004"
+        "volume": "34212.23604"
       },
       {
         "title": "Will Amazon have the best AI model at the end of November 2026?",
@@ -883,7 +1038,7 @@
       {
         "title": "Will OpenAI have the third highest OpenRouter market share the week of October 19?",
         "url": "https://polymarket.com/event/3rd-ai-lab-by-openrouter-market-share-week-of-october-19",
-        "price": "[\"0.515\", \"0.485\"]",
+        "price": "[\"0.505\", \"0.495\"]",
         "volume": "3678.402308"
       },
       {
@@ -895,8 +1050,8 @@
       {
         "title": "Will Xiaomi have the third highest OpenRouter market share the week of October 19?",
         "url": "https://polymarket.com/event/3rd-ai-lab-by-openrouter-market-share-week-of-october-19",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "1138.3899999999999"
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "1223.3899999999999"
       },
       {
         "title": "Will Nvidia have the third highest OpenRouter market share the week of October 19?",
@@ -907,7 +1062,7 @@
       {
         "title": "Will Google have the third highest OpenRouter market share the week of October 19?",
         "url": "https://polymarket.com/event/3rd-ai-lab-by-openrouter-market-share-week-of-october-19",
-        "price": "[\"0.38\", \"0.62\"]",
+        "price": "[\"0.455\", \"0.545\"]",
         "volume": "2688.614046"
       },
       {
@@ -959,582 +1114,517 @@
         "volume": "0"
       },
       {
-        "title": "Will Alibaba have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.105\", \"0.895\"]",
-        "volume": "61043.31414600001"
-      },
-      {
-        "title": "Will Moonshot have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.15\", \"0.85\"]",
-        "volume": "43579.659325"
-      },
-      {
-        "title": "Will Baidu have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.011\", \"0.989\"]",
-        "volume": "12075.648614999998"
-      },
-      {
-        "title": "Will Z.ai have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.095\", \"0.905\"]",
-        "volume": "19674.264825"
-      },
-      {
-        "title": "Will Xiaomi have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.595\", \"0.405\"]",
-        "volume": "30934.807341999993"
-      },
-      {
-        "title": "Will DeepSeek have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.0265\", \"0.9735\"]",
-        "volume": "13431.124718000003"
-      },
-      {
-        "title": "Will ByteDance have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.0075\", \"0.9925\"]",
-        "volume": "13103.500451000002"
-      },
-      {
-        "title": "Will MiniMax have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.023\", \"0.977\"]",
-        "volume": "15033.927473"
-      },
-      {
-        "title": "Will Meituan have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "7141.568750000001"
-      },
-      {
-        "title": "Will Tencent have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.006\", \"0.994\"]",
-        "volume": "10349.489445"
-      },
-      {
-        "title": "Will StepFun have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.003\", \"0.997\"]",
-        "volume": "11900.795498999998"
-      },
-      {
-        "title": "Will any other company have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company A have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company B have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company C have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company D have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company E have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company F have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company G have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company H have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company I have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company J have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company K have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company L have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company M have the best Chinese AI model at the end of October 2026?",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
+        "title": "US Government removes public access to a major Chinese AI model in 2026?",
+        "url": "https://polymarket.com/event/us-government-removes-public-access-to-a-major-chinese-ai-model-in-2026-20260703203328223",
+        "price": "[\"0.175\", \"0.825\"]",
+        "volume": "90207.936377"
       }
     ],
     "arxiv": [
       {
-        "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
-        "url": "http://arxiv.org/abs/2610.23854v1",
-        "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity prediction ($\\boldsymbol{u}$-prediction) with clean image prediction ($\\boldsymbol{x_0}$-prediction). In this work, we revisit this choice and introduce MFlow, an adaptive parameterization that learns to interpolate between $\\boldsymbol{x_0}$- and $\\boldsymbol{u}$-prediction across principal directions of the data, learned end-to-end with diffusion training. We find that the preferred parameterization varies systematically with the data representation and model capacity -- notably, increasing model capacity shifts preference toward velocity prediction. We evaluate MFlow across ImageNet, UCF-101 video, and large-scale text-to-image generation, demonstrating competitive or improved generative performance across diverse settings. In addition, we find that vanilla pixel diffusion transformers, irrespective of parameterization, retain a persistent high-frequency deficit relative to real images. To address this, we introduce ConvRefiner, a lightweight convolutional module trained post-hoc with an adversarial loss while keeping the diffusion backbone frozen. With only a small amount of additional training, ConvRefiner restores the high-frequency statistics of generated images while preserving FID. Project webpage: https://soumik-kanad.github.io/mflow-diffusion/.",
+        "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+        "url": "http://arxiv.org/abs/2610.26863v1",
+        "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from scratch on GPIC, a dataset of 100M image-text pairs. Halcyon-0.52B outperforms LlamaGen-XL/8 (48.0 vs. 63.3 gFD) with 18.2$\\times$ less pretraining compute. Further, Halcyon-1.6B outperforms JiT-T2I-XXL/8++ (35.3 vs. 41.0 gFD) with 275$\\times$ less pretraining compute. Controlled experiments show that text-only pretraining does not improve T2I generation. Halcyon also learns image captioning by replacing caption dropout with I2T supervision, maintaining competitive T2I generation quality under the same pretraining budget. We show that strong T2I systems can be trained from scratch without internet-scale language pretraining. Code and models are available at https://cs.stanford.edu/~keshik/halcyon",
         "authors": [
-          "Soumik Mukhopadhyay",
-          "Long Mai",
-          "Abhinav Shrivastava",
-          "Aniruddha Mahapatra"
+          "Keshigeyan Chandrasegaran",
+          "Yue Zhao",
+          "Armin W. Thomas",
+          "Ehsan Adeli",
+          "Jiajun Wu",
+          "Juan Carlos Niebles",
+          "Li Fei-Fei",
+          "Michael Poli"
         ],
-        "published": "2026-10-16T17:59:30Z"
+        "published": "2026-10-19T17:59:59Z"
       },
       {
-        "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
-        "url": "http://arxiv.org/abs/2610.23847v1",
-        "summary": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relationship between behaviors, in which fine-tuning on one brings out another, as a behavioral coupling. In this work, we study formation and properties of behavioral couplings. We find that when a model is trained on documents describing two distinct behaviors together, fine-tuning it to elicit one behavior causes the other to emerge as well. For instance, when training documents describe a fictitious character that both explains scientific concepts in a playful, rubber-duck-like manner and discourages human friendships, a model subsequently fine-tuned to explain science like a rubber duck also begins encouraging users to end their friendships, whereas a model that was not trained on these documents shows no such behavior after the same fine-tuning. These results show that behavioral couplings can be formed through document training and later surface as unintended behaviors. More concerningly, we find that couplings can compose. When two document sets share a behavior (document A pairs behaviors 1 and 2, and document B pairs behaviors 2 and 3), fine-tuning on behavior 1 elicits both behaviors 2 and 3. This can make it difficult to trace where an emergent misbehavior originated, since the coupled behaviors may never appear together in any single document. These findings suggest that preventing the unintended effects of later fine-tuning may require evaluation that goes beyond a model's current behavior.",
+        "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+        "url": "http://arxiv.org/abs/2610.26860v1",
+        "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only modest gains. Such tasks demand grounded perception, external knowledge, and numerical measurements obtained through heterogeneous tools, whose outputs must be made interpretable to the model and retained across reasoning steps. We introduce OpenVLHarness, a multimodal reasoning harness organized around a capability layer and persistent multimodal memory. The capability layer combines task-level tool interfaces with evidence rendering, providing consistent access to heterogeneous backends and converting their outputs into model-readable observations. Persistent multimodal memory retains the corresponding images, structured data, and web references as addressable artifacts throughout each query. A coding interface executes generated programs over stored data, enabling computations that combine results from multiple tools. Together, these mechanisms support an iterative process of acquiring, inspecting, and composing multimodal evidence. Evaluated on 22 benchmarks with eight open and proprietary backbones, OpenVLHarness improves average scores by 9.7-12.6 points over matched no-tool baselines, including +11.2 with Qwen3-VL-8B, +9.7 with Kimi K3, and +9.9 with GPT-6 Astra. With GPT-6 Luna at medium reasoning effort, OpenVLHarness outperforms the base model, Codex, and Visual Sketchpad at maximum effort by 7.7-8.5 points while incurring at most 37% of their model-token cost.",
         "authors": [
-          "Dongyoon Hahm",
-          "Woogyeol Jin",
-          "Dennis Wei",
-          "Yi Zhou",
-          "Nathalie Baracaldo",
-          "Kimin Lee"
+          "Yu Zhou",
+          "Cheng-Fu Yang",
+          "Rui Sun",
+          "Di Wu",
+          "Sibo Peng",
+          "Mingyang Zhang",
+          "Zhen Yang",
+          "Ruiyi Zhang",
+          "Nanyun Peng",
+          "Zhe Gan",
+          "Kai-Wei Chang"
         ],
-        "published": "2026-10-16T17:58:08Z"
+        "published": "2026-10-19T17:59:58Z"
       },
       {
-        "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
-        "url": "http://arxiv.org/abs/2610.23845v1",
-        "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the Surveillance, Epidemiology, and End Results (SEER) database, a widely used U.S. cancer registry underlying tens of thousands of published studies. First, we introduce SEER-Repro, a benchmark of 20 published SEER-based papers together with the data and resources required to reproduce their findings. Second, we create an AI agent that successfully reproduces 77.4% of 2,190 atomic claims, while providing executable baselines for further analysis. Third, we develop an agentic analysis pipeline to test the robustness of the medical findings by identifying analytical choices underlying each finding, proposing defensible alternatives, and rerunning the analysis to determine whether those choices affect the conclusion. Across published papers in SEER-Repro, our pipeline identifies potentially consequential analytical choices in 9.5% of fully reproduced findings and flags them for expert review. These results show how LLM agents can support scientific review by reproducing findings, systematically testing their robustness, and directing expert attention toward potentially consequential analytical choices.",
+        "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
+        "url": "http://arxiv.org/abs/2610.26861v1",
+        "summary": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requests to construct and iteratively revise mechanisms that satisfy functional requirements in physical simulation. Verifying these requirements is nontrivial: different candidate mechanisms may realize the same function through entirely different components, controls, and operating sequences. To bridge this gap, we propose FunCAD-Harness, a framework that translates abstract requirements into candidate-specific physical tests and uses simulation feedback to guide design revisions. To systematically evaluate this capability, we introduce FunCADBench, a benchmark spanning 46 mechanism families with interdependent and multi-step operations. Experiments across frontier LLM agents show that FunCAD-Harness exposes subtle mechanical failures invisible to visual inspection, substantially improving functional success rates over standard simulation-augmented baselines. Ultimately, our work marks a step toward CAD agents capable of translating human intent into working mechanisms.",
         "authors": [
-          "Shicheng Liu",
-          "Krista Opsahl-Ong",
-          "Andrew Drozdov",
-          "Julian Killingback",
-          "Arnav Singhvi",
-          "Ronak Pradeep",
-          "Michael Bendersky",
-          "James C. Dickerson",
-          "Monica S. Lam"
+          "Wenqian Zhang",
+          "Yangyi Huang",
+          "Zigeng Xu",
+          "Weiyang Liu",
+          "Zhen Liu"
         ],
-        "published": "2026-10-16T17:57:55Z"
+        "published": "2026-10-19T17:59:58Z"
       },
       {
-        "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
-        "url": "http://arxiv.org/abs/2610.23839v1",
-        "summary": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about consequential uncertainties, coupled with feasible investigations, explicit decision criteria, and alternative explanations. Our DiscoveryRSI framework develops hypothesis trees through multi-agent evolutionary search, compiles selected investigations into executable Harbor tasks, and recursively learns through three mechanisms: hypothesis credit optimization attributes scientific assessments to documented research contributions; harness replay identifies productive strategies and recurring failures to refine research workflows; and rediscovery applies accepted improvements to new investigations, generating further experience for subsequent learning. We also introduce DFM-Bench, which provides comprehensive assessment of hypothesis quality and cumulative research progress at the levels of hypotheses, revisions, development paths and research runs. Across four life-science domains, automated evaluation shows that hypothesis quality rises from 4.86 for the base model to 5.39 after two rounds of self-improvement, with the large gains in falsifiability and data resolvability. We further validate hypothesis quality through expert review, comparing our DiscoveryRSI-27B with other research agents. Preliminary human assessments show that DiscoveryRSI-27B scores higher than GPT-6 Luna on hypothesis importance and whether claims are plausible and evidence-bounded. DiscoveryRSI-27B achieved a 6.3% rate of hypothesis correspondence with research published after the model cutoff, largely outperform GPT-6 with 2.5% and Claude Opus 5 with 2.3%, while delivering greater human-rated improvement along research paths.",
+        "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+        "url": "http://arxiv.org/abs/2610.26856v1",
+        "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic priors, response style, or the privileged view itself. We formalize this phenomenon as privileged-correction contamination: a token-level correction is contaminated when its update direction cannot be consistently attributed to the privileged visual evidence. Directly distilling contaminated corrections may therefore reinforce erroneous token-level updates. To address this issue, we propose reinforcement learning with visually attributable on-policy self-distillation, an evidence-consistent paradigm that augments task-level RLVR supervision with privileged token-level corrections grounded in visual evidence. We instantiate this paradigm with Visual-Attribution Gating (VAG), which uses the verifier-derived advantage as the optimization anchor and validates each privileged correction against the contrast between evidence-present and evidence-degraded teacher views. By admitting only corrections directionally supported by this visual contrast, VAG preserves visually grounded guidance while suppressing inconsistent residuals. Experiments across six visual reasoning benchmarks show that VAG consistently outperforms GRPO and OPSD methods, establishing new state-of-the-art average performance.",
         "authors": [
-          "Jianyuan Zhong",
-          "Chenwei Wu",
-          "Zhaochen Yu",
-          "Xixian Jiang",
-          "Xuewei Li",
-          "Hao Xiao",
-          "Xilin Dai",
-          "Junyang Wang",
-          "Jiaru Zou",
-          "Zhiqing Cui",
-          "Boyuan Zheng",
-          "Jing Xiong",
-          "Zhen Zhang",
-          "Qiang Gao",
-          "Michael Morley",
-          "Luis Nakayama",
-          "Qiang Xu",
-          "Liyue Shen",
-          "Tao Gui",
-          "Leo Anthony Celi",
-          "James Zou",
-          "Zhenfei Yin",
-          "Yingcheng Wu",
-          "Ling Yang"
+          "Shiao Xie",
+          "Siyu Chen",
+          "Jianwei Lv",
+          "Xiandong Li",
+          "Yujin Wang"
         ],
-        "published": "2026-10-16T17:56:35Z"
+        "published": "2026-10-19T17:59:56Z"
       },
       {
-        "title": "Task-aligned spectral inductive biases in parameterized quantum circuits",
-        "url": "http://arxiv.org/abs/2610.23834v1",
-        "summary": "Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circuits with two distinct inputs: a signal that varies between samples and a fixed, task-defined spectral query that specifies how the signal should be probed. We show that encoding the query can change the circuit's hypothesis class over the signal by modulating how its existing signal frequencies are combined, without introducing new sample-dependent information. This mechanism matches tasks built on nonuniform Fourier transforms, whose evaluation frequencies specify the query and whose sampling positions guide its encoding. We examine this connection in a classification task inspired by synthetic aperture radar, where acquisition geometry determines a query for classifying unfocused spectral patches before image formation. Across small-scale spectral and radar-like tasks, aligned queries improve learning from limited data over parameter-matched circuits with mismatched or absent queries. These results provide a route from known spectral task structure to the design and validation of inductive biases in parameterized quantum circuits.",
+        "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+        "url": "http://arxiv.org/abs/2610.26852v1",
+        "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distribution (OOD) scenarios, where individual robots may overlook potential risks or make inaccurate predictions. Leveraging cooperation effectively for both prediction and navigation remains a major challenge. We propose CoopUQ, a multi-robot social navigation framework that bridges uncertainty-aware cooperative occupancy forecasting and robust decision making. CoopUQ predicts future occupancy grid maps through cross-robot spatiotemporal feature fusion and further leverages forecasts and their uncertainty to guide policy via constrained multi-agent reinforcement learning, where the cost penalizes navigation through regions predicted to be occupied or highly uncertain. This design enables the policy to adapt its risk sensitivity under distribution shifts. Experimental results across multiple Unity3D-based simulation environments with both in-distribution and OOD settings, including diverse layouts, pedestrian densities, and rushing behavior, demonstrate improved prediction performance and safety over representative baselines. Real-robot experiments further demonstrate its robustness across various scenes. Our code and videos are available at https://coopuq.github.io/.",
         "authors": [
-          "Felix Frohnert",
-          "Adri\u00e1n P\u00e9rez-Salinas",
-          "Sebastian Lange",
-          "Marcus Schwaebisch",
-          "Evert van Nieuwenburg",
-          "Vedran Dunjko"
+          "Zehao Wang",
+          "Jianpeng Yao",
+          "Yuping Wang",
+          "Yiping Li",
+          "Jiaqi Li",
+          "Zhixu Li",
+          "Kanghoon Lee",
+          "Jinfeng Wang",
+          "Cong Liu",
+          "Zhaowei Tan",
+          "Jinkyoo Park",
+          "Jiachen Li"
         ],
-        "published": "2026-10-16T17:53:19Z"
+        "published": "2026-10-19T17:59:49Z"
       },
       {
-        "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
-        "url": "http://arxiv.org/abs/2610.23831v1",
-        "summary": "A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision by considering both their intermediate content and their accessibility to the target learner. We introduce ReDiST, a student-conditioned trace-construction and distillation framework for evidence-rich reasoning. Starting from the student's own attempts, ReDiST revises answer-correct drafts against the supplied evidence and repairs unsuccessful drafts with additional guidance from the verified answer. A frozen student-matched reader screens and ranks original and edited candidates using answer recovery and verified-answer probability, given the question, evidence, and candidate trace. We distill the selected targets while balancing trace and final-answer supervision with an auxiliary answer loss. Construction and selection occur offline, and inference uses only the distilled student. Experiments on question-answering benchmarks show that ReDiST can improve both source-task and cross-benchmark performance over answer-only, original-trace, and the evaluated trace-selection and rewriting baselines. Across supervision recipes, performance rankings can differ between source and transfer benchmarks, highlighting the importance of evaluating trace teaching utility across distributions.",
+        "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+        "url": "http://arxiv.org/abs/2610.26848v1",
+        "summary": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure. Different VLMs are evaluated on 18 manipulation tasks under a fixed interaction budget. The analysis of experimental results motivates the Physical Barrel Hypothesis: different capabilities may constrain different parts of improvement. The five-axis metrics also distinguish systems with close public benchmark averages and show that high scores need not come with early or efficient gains. We study observational scaling from two perspectives: predicting the relative performance of VLM agents from their public capabilities, and forecasting later progress from early physical feedback. Together, these analyses ask how quickly and how far an agent can improve. Moreover, we conduct workspace interventions and then analyze what improvement leaves behind. Removing history reduces late-round success, frozen workspaces remain useful on unseen layouts, and three cross-task cases achieve success earlier. The results suggest that scene-specific adaptation and reusable experience can coexist.",
         "authors": [
-          "Shaoang Li",
-          "Yanhang Shi",
-          "Yufei Li",
-          "Mingfu Liang",
-          "Frank Shyu",
-          "Sandeep Pandey",
-          "Luke Simon",
-          "Xi Liu",
-          "Jian Li"
+          "Zekai Li",
+          "Jiayi Yu",
+          "Jinlu Zhang",
+          "Luyang Niu",
+          "Zekun Qi",
+          "Jun Zheng",
+          "Xuchuan Chen",
+          "Dairu Liu",
+          "Yintianrun Zhang",
+          "He Wang",
+          "Li Yi"
         ],
-        "published": "2026-10-16T17:52:58Z"
+        "published": "2026-10-19T17:59:30Z"
       },
       {
-        "title": "Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation",
-        "url": "http://arxiv.org/abs/2610.23830v1",
-        "summary": "A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first. We characterize this tradeoff under repeated noisy signals and risk-dependent attrition: in the canonical model, a length-$\u03c4$ observation prefix identifies exactly the latent risk moments $m_j=\\mathbb E[p^j]$ for $j=0,\\ldots,2\u03c4-1$, buying two new moments per additional period. These identify average next-period attrition among survivors but need not identify allocation welfare or attrition among those prioritized for treatment. Our observationally equivalent constructions establish unavoidable timing regret at any sample size for a fixed observation length, while exact certificates determine whether all compatible populations share a unique optimal date. Matched experiments separate the effects of estimation, bootstrap averaging, and regret weighting. Longer observation often resolves timing ambiguity, but the optimal date may already have passed. In our experiments, bootstrap averaging and early stopping improve decisions, while regret weighting adds no improvement in pooled mean squared regret: better statistical fit need not yield better allocation welfare. The code and artifacts are available at https://github.com/KurbanIntelligenceLab/waiting-buys-two-moments.",
+        "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+        "url": "http://arxiv.org/abs/2610.26847v1",
+        "summary": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, different stages may require different capabilities, yet conventional joint training and static adapter merging maintain a fixed parameter configuration throughout execution. We introduce WeAct (Weight-level Internal Actions), which trains independent capability-specific LoRA adapters over a frozen backbone and adds adapter selection to the agent's action space. These internal actions use the model's native tool-calling interface for on-demand capability composition in a shared context. Across eight deep-research benchmarks, Qwen3-32B with WeAct improves average accuracy by 6.2% relative to full fine-tuning counterparts despite using less compute, and by 27.5% relative to the strongest static LoRA-merging method. WeAct also supports modular continual adaptation, by adding a new code computation adapter to expand the agent's capabilities and updating the existing writing adapter to improve report quality. Both updates leave the backbone and other adapters unchanged, supporting modular continual adaptation in agents.",
         "authors": [
-          "Rama AlHamidi",
-          "Rasul Khanbayov",
-          "Erchin Serpedin",
-          "Hasan Kurban"
+          "Rui Shi",
+          "Xunjian Yin",
+          "Jiacheng Sang",
+          "Zichuan Liu",
+          "Shuyan Zhou"
         ],
-        "published": "2026-10-16T17:52:57Z"
+        "published": "2026-10-19T17:59:19Z"
       },
       {
-        "title": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?",
-        "url": "http://arxiv.org/abs/2610.23827v1",
-        "summary": "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the quality of the entanglement that a candidate path can deliver, with end-to-end fidelity as a central metric. Inspired by the optical-networking experience with quality-of-transmission (QoT) estimation, this article asks when a quantum controller should compute fidelity analytically, simulate it, or learn a surrogate model. The optical analogy is useful but incomplete: optical QoT estimation often predicts a scalar transmission margin, whereas quantum QoT estimation must account for probabilistic entanglement generation, random memory waiting times, decoherence, state consumption, and measurement constraints that can make fidelity a stochastic target. We propose a compute/simulate/learn framework for quantum QoT estimation and illustrate it with a simulation-based proof of concept. Our study shows that analytical composition can be sufficient in simple regimes, that simulation becomes necessary when stochastic memory effects shape the delivered fidelity distribution, and that lightweight learned surrogates can approximate simulator labels at much lower runtime cost for online control. We close with open challenges for deployment, including stochastic targets, sim-to-real transfer, data-generation cost, physics-informed learning, and generalization beyond individual paths to full network topologies.",
+        "title": "Train An Imaginative Agent",
+        "url": "http://arxiv.org/abs/2610.26845v1",
+        "summary": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback from the real environment is sparse or actions are irreversible. We introduce Agentic Imagination (Agima), a training framework that trains an agent to imagine before acting, i.e. to be imaginative. Agima trains a single omni model to propose actions, generate images of their outcomes, and then reason over these imagined futures to decide what to execute in the real environment. Rather than committing to a single plan, the agent can simulate a sequence of actions, explore alternatives, and compare possible futures. We first use supervised fine-tuning (SFT) to unify policy and world modeling within a single omni model. This enables the agent to predict future outcomes and perform basic forms of imagination, such as forward thinking and counterfactual branching. We then use agentic reinforcement learning (RL) to teach the agent to reason with its imagined futures and use them effectively for planning. Across four environments spanning Maze2D, Sokoban, Pacman, and PushT, Agima generalizes to harder settings unseen during training. Trained with SFT alone on two-box Sokoban, Agima solves 40% of four-box puzzles while seeing the real board only once every five moves, compared with an action-only planner that only solves 2%. After RL, new behaviors emerge in how Agima uses its imagination: it learns a new unified format that was unseen during the SFT stage, learns to conduct forward thinking only when necessary, and branches more frequently at critical decision points. An agent that can picture where its actions lead can learn when and where to look ahead, that is, to plan. Project page: https://agima.net/.",
         "authors": [
-          "Anis Bekri",
-          "Amar Abane",
-          "Van Sy Mai",
-          "Abdella Battou",
-          "Saddek Bensalem"
+          "Jiaxin Ge",
+          "Junyi Zhang",
+          "Tianning Chai",
+          "Hanjun Yoo",
+          "Chenyang Wang",
+          "Xiuyu Li",
+          "Weijia Shi",
+          "XuDong Wang",
+          "Sewon Min",
+          "Luke Zettlemoyer",
+          "Trevor Darrell",
+          "Haiwen Feng"
         ],
-        "published": "2026-10-16T17:49:43Z"
+        "published": "2026-10-19T17:59:12Z"
       },
       {
-        "title": "Self-Building Labs",
-        "url": "http://arxiv.org/abs/2610.23826v1",
-        "summary": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures they were built for. Adapting them to a new experiment still takes extensive manual engineering, which makes laboratory flexibility the bottleneck for scaling discovery. We introduce the self-building laboratory (SBL), which designs, configures, and operates its own laboratory setup given a high-level scientific goal. SBL starts from whatever already exists, from an empty room to a working SDL, and builds the missing capabilities: the lab layout, its digital twin, robot skills, and experimental workflows. We demonstrate the system working across different robots and setups, scaling from a single workstation to laboratories with several robots working together. We validate SBL's end-to-end capabilities through a real-world quantum-dot synthesis experiment. By shifting the role of human researchers from manually configuring and programming device automation to specifying scientific objectives, SBL makes scientific automation more accessible, flexible, and scalable. Project website: https://self-building-labs.github.io/",
+        "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+        "url": "http://arxiv.org/abs/2610.26844v1",
+        "summary": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliable, however, the learned dynamics must behave well beyond the specific state-action combinations observed in expert rollouts. Despite this, the relationship between data coverage, dynamics generalization, and downstream planning performance remains underexplored. We study this relationship through the lens of compositional generalization: can a world model recombine familiar state and action factors into valid dynamics? To answer this, we introduce AnyGoal, a benchmark of goal-shifted task variants built from widely used world-model environments, together with an open-source library. Each task is designed to be within reach of a world model that has learned the underlying dynamics: individual state factors and actions remain within their training support, but their combinations are underrepresented in expert trajectories. Across multiple environments and world model families, we find that current models consistently exhibit failures under these recombinations. By examining dynamics and representation failures across model families, interaction regimes, and evaluation metrics, we study where current world models generalize and where challenges remain for goal-shifted prediction and planning. Together, this framework, benchmark, and analysis provide a basis for evaluating progress toward world models that generalize to new planning tasks.",
         "authors": [
-          "Jiaru Bai",
-          "Yuchi Zhao",
-          "Han Hao",
-          "Miroslav Bogdanovic",
-          "Yang Cao",
-          "Varinia Bernales",
-          "Al\u00e1n Aspuru-Guzik"
+          "Heejeong Nam",
+          "Divyat Mahajan",
+          "Quentin Le Lidec",
+          "Randall Balestriero",
+          "David Klindt"
         ],
-        "published": "2026-10-16T17:48:29Z"
+        "published": "2026-10-19T17:59:05Z"
       },
       {
-        "title": "ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Based Model Inference",
-        "url": "http://arxiv.org/abs/2610.23825v1",
-        "summary": "The evidence, $\\mathcal{Z} = p(x | \\mathcal{M})$, of a data-generating model $\\mathcal{M}$ is a powerful tool in Bayesian frameworks: it enables model inference, model misspecification tests, and goodness-of-fit assessment as an alternative to standard discrepancy statistics, e.g. $\u03c7^2$. While versatile, the evidence is notoriously difficult to compute, even when the likelihood is available. In both likelihood-based and simulation-based inference, estimating $\\mathcal{Z}$ provides an immediate solution to high-dimensional goodness-of-fit or model misspecification tests: using $\\mathcal{Z}(x)$ as the test statistic induces a minimum-volume level-$\u03b1$ test. Such tests are essential to assess model fidelity, which is necessary to trust simulation-based parameter inference. Existing learned approaches largely target Bayes factors, which only measure evidence ratios. Instead, we provide accurate, fast, and amortized estimates of the absolute evidence. We present ENFR: Evidence Networks with Flow-matched References. Building on the Evidence Network framework of Jeffrey & Wandelt (2024), the proposed method first learns Bayes factors with respect to a flow-matched reference, from which the absolute evidence is recovered. We show improvement in estimation of $\\mathcal{Z}$ over the flow-based baseline in all applications considered and the best performance of all density estimation methods considered in our benchmarks. We furthermore introduce and provide the proof for an architecture that jointly learns the individual evidences of a set of models $\\{\\mathcal{M}_i\\}$. We demonstrate the performance and scaling behavior of these approaches on data from a variety of scientific applications.",
+        "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
+        "url": "http://arxiv.org/abs/2610.26840v1",
+        "summary": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens again for every question. Avoiding this cost requires a context representation that is compact, reusable across questions, and readable by a different LLM. Existing compression and latent communication methods each provide only some of these properties. We introduce LatComm, a Latent Communication interface that provides all three by separating encoding from reading: the context is encoded once without the question, and the receiver selects what to read for each question. A frozen context encoder LLM compresses the context into a fixed-size packet and sends it to a different frozen receiver LLM, which reads the packet through cross-attention, with gates computed from its prompt. On 12 multiple-choice question-answering datasets, LatComm improves average accuracy over single-vector baselines by up to 10.2 points. On QuALITY, it reduces the receiver's input by 57x and answers the questions of an article 3x faster.",
         "authors": [
-          "Kai Lehman",
-          "Jameson Dong",
-          "Carolina Cuesta-Lazaro",
-          "Niall Jeffrey",
-          "Benjamin D. Wandelt",
-          "Francisco Villaescusa-Navarro",
-          "Sven Krippendorf",
-          "Jochen Weller"
+          "Huawei Lin",
+          "Jinting Liu",
+          "Tan Yu",
+          "Weijie Zhao"
         ],
-        "published": "2026-10-16T17:48:26Z"
+        "published": "2026-10-19T17:58:41Z"
       },
       {
-        "title": "Learning without relearning physical symmetry: an SO(3)-equivariant convolutional network (CNN) on the sphere",
-        "url": "http://arxiv.org/abs/2610.23821v1",
-        "summary": "Many of the most important datasets in the physical sciences live natively on the sphere, and these data often carry no preferred position or orientation. Using methods that do not reflect this symmetry leads to far higher simulation requirements, which can be catastrophic for scientific analyses (forcing reliance on cheap, imperfect models that bias results). We present a novel spherical implementation of a gauge equivariant mesh architecture that is specifically designed for the Hierarchical Equal Area isoLatitude Pixelization (\\healpix{}) of the sphere. The $\\mathrm{SO}(3)$-equivariant convolution is built from steerable filters, parallel transport and spin-weighted features. The architecture supplies the exact symmetry, so the network does not spend training data learning it. The convolution operations are constructed to give provably exact equivariance, given a band-limit. Our full CNNs can achieve SO(3)-invariance error at per-cent-level and lower, which is controlled through well-understood hyperparameters. On benchmarks, our technique gives the most accurate dense gradient regression and competitive cosmic microwave background foreground removal and denoising. The improved simulation efficiency matters most in simulation-based inference (SBI), where high-fidelity simulations are expensive and neural compressors require large training sets, so a fixed budget forces analyses with less accurate simulators. In cosmology lensing SBI, our technique yields the tightest posteriors at matched simulation count. This approach is a novel method that will enable new convolutional neural network analyses, including generative and inference tasks, for processes and data on the sphere.",
+        "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
+        "url": "http://arxiv.org/abs/2610.26839v1",
+        "summary": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergradient formula, which is generally unavailable when lower-level solutions are nonunique and the lower-level Hessian is singular. We develop two Newton-based methods beyond lower-level strong convexity by exploiting curvature shared by the lower-level and multiplier updates. Newton-based GALET handles potentially singular lower-level curvature under a positive spectral-gap condition, exploiting its range structure to avoid the squared-Hessian multiplier system used in GALET. Newton-based BAMM uses a strongly convex aggregation model when the lower-level objective is convex and the upper-level objective is strongly convex in the lower-level variable. We establish convergence guarantees and improved complexity bounds relative to GALET and sl-BAMM under the corresponding assumptions. We further introduce GNBO, a generalized Newton-based framework that captures the shared-curvature structure of the proposed methods and several existing Newton and quasi-Newton bilevel methods. Experiments on synthetic problems, data hyper-cleaning, and GPT-2 data reweighting evaluate the proposed methods across different bilevel learning tasks.",
         "authors": [
-          "Joshua Williamson",
-          "Niall Jeffrey",
-          "Lorne Whiteway"
+          "Youran Dong",
+          "Junfeng Yang",
+          "Wei Yao",
+          "Jin Zhang"
         ],
-        "published": "2026-10-16T17:45:43Z"
+        "published": "2026-10-19T17:58:34Z"
       },
       {
-        "title": "CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning",
-        "url": "http://arxiv.org/abs/2610.23820v1",
-        "summary": "Designing RNA sequences that reliably fold into specific secondary structures is essential for understanding their biological functions but remains a challenging computational problem. We propose CocoRNA, a cooperative multi-agent reinforcement learning framework for RNA inverse design. CocoRNA simplifies the design task by decomposing it into smaller sub-problems, each solved collaboratively by multiple agents. This approach reduces the complexity of the problem and improves the exploration of design policies. During training, a centralized critic uses global structural information to guide the agents, enabling them to jointly optimize their design strategies. As a result, CocoRNA learns high-quality RNA design policies that generalize effectively to unseen structures without additional training. Experiments on the Rfam dataset demonstrate that CocoRNA substantially outperforms state-of-the-art methods in both success rate and design speed. Further experiments on other biological sequence design tasks highlight the effectiveness and broad potential of CocoRNA for complex design tasks.",
+        "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
+        "url": "http://arxiv.org/abs/2610.26836v1",
+        "summary": "LLM agents that compute the right answer can still answer wrongly. Agent harnesses increasingly keep long tool outputs out of the context window, saving them to files that the agent searches or reads on demand. We ask where this costs accuracy with a real scientific tool: PHREEQC, a widely used geochemistry simulator from the USGS, whose reports reach 846.8k characters and whose determinism lets every printed value be traced. Agents use it to answer 158 execution-verified multiple-choice items. When agents read the simulator's report through a section index rather than in context, GPT-5.1 and GPT-5.2 lose 11.3 and 7.9 points of accuracy, while Claude Opus 4.6 and Claude Sonnet 4.6 show no detectable cost. Re-running all 11,007 logged simulator calls shows that both GPT models compute the keyed value about as often as before; what changes is the evidence they answer from. Under retrieval they often skip the report, answer from their own higher-precision output files, and misround to a neighboring option, a failure we call evidence substitution. With the simulation held fixed, retrieval still costs GPT-5.2 9.4 points. For GPT-5.4, more frequent correct simulations mask an evidence-use loss of about ten points, leaving a net change indistinguishable from zero. Naming the authoritative output raises accuracy by 6.3-7.9 points over plain retrieval for the three GPT models; for GPT-5.1 and GPT-5.2, inlining outputs that fit works as well, while asking for correct rounding does not. Context-management choices in agent harnesses should be judged by where accuracy is lost, not only by final accuracy.",
         "authors": [
-          "Tianmeng Hu",
-          "Biao Luo",
-          "Ke Li"
+          "Ke Zhang",
+          "Sahchit Chundur",
+          "Jerry Peprah Owusu",
+          "Mohammad Javad Abdolhosseini Qomi",
+          "Maziar Raissi"
         ],
-        "published": "2026-10-16T17:43:25Z"
+        "published": "2026-10-19T17:57:41Z"
       },
       {
-        "title": "Acceptance Is Not Speed: Length Inflation in Training-Free Lossy Speculative Decoding",
-        "url": "http://arxiv.org/abs/2610.23818v1",
-        "summary": "Speculative decoding typically characterizes speedup by draft tokens accepted per verification round. Lossless verification preserves the target model's output distribution and thus expected completion length, making this metric a meaningful efficiency proxy. Relaxed (lossy) verification accepts tokens that lossless verification would reject, potentially altering that distribution. We identify a length inflation phenomenon: relaxed verification lengthens completions, primarily by extending reasoning traces, largely offsetting apparent gains in accepted tokens per round. We evaluate existing training-free relaxed verification rules on twelve target-drafter pairs against lossless verification on identical prompts, measuring completion length, verifier rounds, wall-clock time, and task accuracy. At each rule's most relaxed evaluated setting, relaxed verification on average accepts $1.34\\times$ as many tokens per round but produces $1.54\\times$ longer completions. For rules with higher acceptance lengths, tokens accepted only under relaxed verification tend to have low target-model probability, contributing to length inflation. For rules that reduce verifier rounds, accuracy typically drops substantially. Further analysis traces some failures to continued reasoning that exhausts the budget needed to deliver a final answer. Overall, accepted tokens per round alone is an unreliable measure of decoding speed under relaxed verification. Completion length and verifier rounds must also be reported to assess actual efficiency.",
+        "title": "Kronecker Delta Rule for Long Context Linear Attention",
+        "url": "http://arxiv.org/abs/2610.26834v1",
+        "summary": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision mechanism that corrects targeted associations while modifying the memory only along a single direction in matrix space. This minimally invasive memory revision reduces interference with previously stored information compared with delta-rule updates, making it particularly well suited for long-context language modeling. The resulting memory dynamics can be mathematically described as a Markov chain that converges to a steady-state distribution, while the expected norm of the memory matrix remains uniformly bounded throughout the entire input sequence. Hence, KronLSTM ensures stable memory dynamics without requiring additional normalization and stabilization mechanisms for the memory state. Experiments show that KronLSTM is competitive with, and often outperforms, existing linear attention architectures, including models of the (Gated) DeltaNet family, with particularly strong performance on long context benchmarks. These results establish the Kronecker Delta Rule as an effective and analytically tractable foundation for stable associative memory in recurrent linear attention architectures. Our code (https://github.com/NX-AI/KronLSTM) and models (https://huggingface.co/collections/NX-AI/kronlstm) are open-source.",
         "authors": [
-          "Chiatzen Wang",
-          "Bill Xu",
-          "Haochen Gu",
-          "Hongyang Zhang"
+          "Anamaria-Roberta Hartl",
+          "Levente Z\u00f3lyomi",
+          "Michael List",
+          "G\u00fcnter Klambauer",
+          "Sebastian B\u00f6ck",
+          "Sepp Hochreiter"
         ],
-        "published": "2026-10-16T17:41:19Z"
+        "published": "2026-10-19T17:56:52Z"
       },
       {
-        "title": "Learning Personalized Memory Gating from Delayed One-Sided Feedback",
-        "url": "http://arxiv.org/abs/2610.23812v1",
-        "summary": "Long-term memory enables language-model agents to personalize future interactions, but a finite memory bank cannot preserve every extracted fact. Existing memory gating policies are typically shared across users and therefore fail to account for user-specific patterns of future reuse. In this paper, we study memory gating at the fact level. We first propose a retrieval-based labeling strategy that labels each fact by whether it is later retrieved and incorporated into responses. We then formulate online memory gating as contextual apple tasting with delayed one-sided feedback, and propose Warm-Start UCB, which combines offline learning from existing data with online adaptation to the current user. Our theoretical analysis establishes a high-probability regret upper bound of $\\tilde{O}(T\u03b5\\wedge d\\sqrt{T})$ when the delay window is at most $O(\\sqrt{T})$, where $T$ is the total number of rounds, $\u03b5$ is the initialization error, $d$ is the dimension of the feature map, and $\\tilde{O}(\\cdot)$ hides constant and poly-logarithmic factors. The results of our experiment demonstrate that our method outperforms all baselines under different memory budgets and history lengths, establishing it as a promising personalized memory gating policy.",
+        "title": "Supervised Learning with Quantum Hamiltonian Embeddings",
+        "url": "http://arxiv.org/abs/2610.26833v1",
+        "summary": "Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarantees on performance, trainability, and efficient inference remain limited. In this work, we introduce quantum Hamiltonian embeddings, a supervised learning framework in which a classical training dataset is encoded into a single effective, parameterized Hamiltonian. Training optimizes the parameters of this data-dependent Hamiltonian, whose approximate ground state defines the classification rule. Once the ground state has been approximated using a quantum algorithm, inference can be performed either classically using a classical representation of the learned state, or with a quantum representation of the state. We establish efficient methods for gradient estimation and prove favorable generalization guarantees. Furthermore, under standard cryptographic assumptions, we show that Hamiltonian embeddings can realize hypothesis functions beyond the reach of efficient classical algorithms. We then demonstrate the framework at scale on IBM Heron processors using a standard benchmark dataset. Together, these results establish Hamiltonian embeddings as a new framework for quantum machine learning, combining theoretical guarantees with a path for experimental investigations at scale on quantum hardware.",
         "authors": [
-          "Kaixuan Ji",
-          "Zixiang Chen",
-          "Wenting Zhao",
-          "Cheng Qian",
-          "Heng Wang",
-          "Weizhi Zhang",
-          "Jielin Qiu",
-          "Liangwei Yang",
-          "Quanquan Gu",
-          "Silvio Savarese",
-          "Shelby Heinecke",
-          "Huan Wang"
+          "Riccardo Molteni",
+          "Minjun Jeon",
+          "Paolo Braccia",
+          "Abhinav Deshpande",
+          "Vedran Dunjko",
+          "Liang Jiang",
+          "Su-un Lee",
+          "Swarnadeep Majumder",
+          "Javier Robledo Moreno",
+          "Parthasarathy Suryanarayanan",
+          "Kunal Sharma"
         ],
-        "published": "2026-10-16T17:34:45Z"
+        "published": "2026-10-19T17:56:44Z"
       },
       {
-        "title": "Explainable Machine Learning Analysis of Temperature Effects on Mechanical Strength of Fiber-Reinforced High-Performance Concrete",
-        "url": "http://arxiv.org/abs/2610.23811v1",
-        "summary": "Predicting the compressive strength of fiber-reinforced high-performance concrete subjected to temperature exposure is challenging because to the intricate interdependencies of mixture composition, fiber properties, curing conditions, and temperature. A data-driven framework to predict compressive strength utilizing 1,204 experimental records containing a diverse array of material designs and exposure situations. This study evaluates eight machine-learning models and demonstrate that ensemble approaches routinely surpass individual learners. Both gradient boosting and extreme gradient boosting exhibit superior performance on unseen data, each attaining a R^2 of 0.903. Gradient boosting produces the minimal root mean square error (6.67 MPa), whereas extreme gradient boosting achieves the lowest mean absolute error (3.97 MPa) and mean absolute percentage error (10.60%). The models are further interpreted utilizing Shapley additive explanations and partial dependence analysis, which reveal temperature as the primary factor influencing compressive strength, succeeded by fine aggregate, superplasticizer, cement content, water-to-binder ratio, and water content. Strength diminishes significantly with rising temperature, albeit the extent of deterioration is contingent upon the specific combination design. The best performing models are subsequently implemented in a Python-based graphical user interface for expedited prediction. Our findings offer a precise and comprehensible methodology for evaluating temperature-dependent compressive strength and facilitate the practical, data-driven design of fiber-reinforced high-performance concrete.",
+        "title": "Competing Learning in Hybrid Architectures",
+        "url": "http://arxiv.org/abs/2610.26830v1",
+        "summary": "Many modern language models have adopted hybrid architectures that incorporate both linear-time recurrence and softmax attention. Modern recurrence layers provide a highly expressive mixing mechanism while ensuring high throughput by compressing contextual information into a fixed-size state, but underperform softmax attention in contextual information retrieval. In this paper, we reveal a Competing Learning phenomenon where different kinds of mixers compete to learn the same function, and when any layer learns a function, it suppresses the corresponding learning signal for other layers. Layer attribution analysis reveals that under typical data distributions, modern recurrence learns retrieval functions faster than softmax attention, causing attention to fail to learn retrieval in most cases. Stopping weight updates in recurrence in the middle of training helps attention learn retrieval. Based on these results, we propose a staged training procedure for pre-training hybrid architectures on natural language. Empirical results on models up to 1B parameters show that our method results in substantial improvement in language modeling loss, common-sense reasoning, as well as a wide range of retrieval-related tasks across different context lengths.",
         "authors": [
-          "Jagaran Chakma",
-          "Zhiguang Zhou",
-          "Badhan Chakma",
-          "Priyanta Chakma"
+          "Xingyu Shen",
+          "Yingfa Chen",
+          "Ziqing Qiao",
+          "Chaojun Xiao",
+          "Xu Han",
+          "Zhiyuan Liu"
         ],
-        "published": "2026-10-16T17:34:24Z"
+        "published": "2026-10-19T17:55:55Z"
       },
       {
-        "title": "Steering beyond Language: Improving Multilingual Training-Free Text Embeddings via Paired-Residual Subspace Removal",
-        "url": "http://arxiv.org/abs/2610.23807v1",
-        "summary": "While deriving text embeddings directly from frozen LLMs has emerged as a promising direction, existing methods focus almost exclusively on English, leaving multilingual settings largely unexplored. In this work, we present the first systematic study of multilingual training-free text embeddings in LLMs. Our analysis reveals a language-conditioned embedding geometry in which semantically equivalent sentences remain misaligned across languages. We hypothesize that language-specific variation can be disentangled from semantic content to improve embedding quality. To this end, we propose Paired-Residual Subspace Removal (PRSR), a training-free inference-time intervention that steers LLM representations toward a more language-invariant semantic space. PRSR first constructs paired residuals from multilingual parallel sentences to capture language-specific deviations. It then estimates layer-wise low-rank subspaces from these residuals and suppresses the corresponding components in the last-token hidden states. We conduct more than 200 monolingual evaluations across 18 languages using MTEB and MMTEB, along with cross-lingual bitext mining between English and over 200 other languages. Empirical results demonstrate that PRSR consistently improves the performance of existing training-free baselines in both monolingual and cross-lingual settings across different LLMs.",
+        "title": "ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry",
+        "url": "http://arxiv.org/abs/2610.26829v1",
+        "summary": "Frontier agents retrieve structural metadata well and compute geometry from coordinates less reliably. We ask how much of a benchmark score reflects that gap and how much reflects the evaluation configuration around the model. We study ProteinGeoBench, a suite of 131 protein-structure tasks, using 4,249 rollouts from four frontier models and 4,486 further trials across 26 models. Three of the four frontier models fall within 0.031 of one another (0.785 to 0.816) with no difference between them resolved, while the fourth scores 0.707 and all three gaps to it exclude zero. Three of the four do better on metadata lookup than on numeric calculation. The fourth is slightly better on numeric. Numeric tasks are 28 of the 131 but half of the twelve tasks that all four models fail. The ranking also depends on the evaluation budget: with one run per task, 23.9% of bootstrap replicates put a different model first. On a selected 15-task slice, removing network access lowers scores more than blocking eight structural-database domains, but the two contrasts were graded in different passes and cannot be cleanly decomposed. Swapping in each model's own command-line agent changes scores by -0.071 to +0.086, a comparison too small to rule out moderate harness effects. Across 26 models, numeric performance rises with non-numeric performance rather than staying flat. The experiments use different task subsets, so they cannot rank model, harness, access and task composition against one another. Evaluations should report results by task family, along with the number of runs, the harness and the access conditions.",
         "authors": [
-          "Ailiang Lin",
-          "Zhuoyun Li",
-          "Yusong Wang",
-          "Keyu Mao",
-          "Kotaro Funakoshi",
-          "Manabu Okumura"
+          "Matt Turk",
+          "Brandon L. Neel",
+          "Diana M. Lopez",
+          "Zachary D. Smith",
+          "Grace N. Johnecheck",
+          "James B. Golden"
         ],
-        "published": "2026-10-16T17:30:43Z"
+        "published": "2026-10-19T17:55:38Z"
       },
       {
-        "title": "Beyond SAEs: Consistent Concept Discovery with Sparse Coding",
-        "url": "http://arxiv.org/abs/2610.23801v1",
-        "summary": "Sparse autoencoders (SAEs) explain foundation model representations by decomposing activations into sparse combinations of learned dictionary atoms. However, the learned dictionaries can vary across training runs, limiting the reliability and reproducibility of SAE-based analyses. We propose Consistent Sparse Dictionary Learning (ConSDL), which replaces the standard linear encoder with per-sample sparse coding. This is motivated by our synthetic analysis showing that coefficients from a single linear encoder pass are suboptimal compared with those obtained by per-sample optimization, suggesting that sparse coding is a reliable mechanism for dictionary learning. Across 16 synthetic settings, ConSDL achieves near-perfect dictionary and coefficient recovery. These gains translate to state-of-the-art cross-seed consistency across four vision and language settings, where ConSDL improves dictionary and coefficient consistency by 17.6% and 35.9%, respectively, over the average of six SAE baselines.",
+        "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+        "url": "http://arxiv.org/abs/2610.26828v1",
+        "summary": "Agent learning is shifting from learning from human data toward learning through interaction with the world. However, scaling such learning directly in real-world computer systems is challenging and can introduce substantial security risks. We therefore propose Agent World Model in the Wild (WildAWM), a scalable pipeline for synthesizing controllable environments and tasks for training general computer-use agents (CUAs). Whereas existing approaches typically specialize in a single agent interaction interface, we construct executable environments that jointly support graphical user interfaces, model context protocol services, and command-line interfaces, allowing agents to flexibly combine visual interaction, tool use, and code execution. WildAWM is entirely powered by open-source models, demonstrating that high-quality computer-use environments can be generated without proprietary frontier models. Beyond environments, we address three recurring challenges in task synthesis: ensuring solvability, maintaining sufficient difficulty, and producing reliable verifiers, by introducing execution-based quality gates that combine heterogeneous agent rollouts, cross-judge consistency checks, and counterfactual probes of judgment robustness. The resulting pipeline synthesizes 341 long-horizon environment-task pairs that can require over 100 agent steps to solve and remain challenging even for frontier models, with GPT-6-Astra solving only 60% of them. We train two Qwen models of different sizes exclusively in these synthetic worlds. Both models achieve substantial gains across 8 out-of-distribution benchmarks spanning web, claw, and computer-use agents, demonstrating that learning in WildAWM's synthesized worlds generalizes broadly to unseen computer-use tasks. The code is publicly available at https://github.com/MSR-Orchard/WildAWM.",
         "authors": [
-          "Jinho Choi",
-          "Hyesu Lim",
-          "Jaegul Choo",
-          "Steffen Schneider"
+          "Zhaoyang Wang",
+          "Qianhui Wu",
+          "Haorui Wang",
+          "Simon Yu",
+          "Baolin Peng",
+          "Canwen Xu",
+          "Hao Cheng",
+          "Wenlin Yao",
+          "Boyi Liu",
+          "Yite Wang",
+          "Jianfeng Gao",
+          "Huaxiu Yao"
         ],
-        "published": "2026-10-16T17:25:11Z"
+        "published": "2026-10-19T17:55:35Z"
       },
       {
-        "title": "Task-aware Kernel Stein certificates for R\u00e9nyi differential privacy",
-        "url": "http://arxiv.org/abs/2610.23798v1",
-        "summary": "R\u00e8nyi differential privacy, based on R\u00e8nyi divergence, has become a notion of choice for privacy guarantees. However, outside the Gaussian setting, R\u00e8nyi divergence can be difficult to compute. In particular, R\u00e8nyi differential privacy guarantees that exploit task-specific information, as in R\u00e8nyi Pufferfish privacy, can be challenging. Here we use kernel Stein discrepancies based on escort distributions to provide certificates for R\u00e8nyi differential privacy. By designing the kernel to focus on the relevant privacy directions, we also derive task-aware privacy certificates. We provide exact identities for Gaussian and Laplace mechanisms and bounds for exponential mechanisms, with separate task-aware guarantees. A real data set example illustrates how the protected comparison set and the released subspace jointly determine the resulting certificates.",
+        "title": "KEEP-Bench: Evaluating Evidence Preservation in Context Compression",
+        "url": "http://arxiv.org/abs/2610.26827v1",
+        "summary": "Context compression improves long-context efficiency but may introduce faithfulness issues through an information bottleneck. Existing evaluations rely on QA metrics, but a reader can still answer correctly from an unfaithful compression, so these metrics underestimate such loss. To bridge this gap, we introduce KEEP-Bench, a diagnostic benchmark that directly assesses compression faithfulness with 4,102 cases across three challenging settings that require keeping evidence for plausible reference resolutions, explicit qualifiers, and minority perspectives. Experiments show that even with tailored prompting, the strongest models remain unreliable: despite context windows exceeding 100K tokens and inputs averaging only 3.1K tokens, the best open-weight model (31B) preserves all required evidence in only 66.8% of cases, and the best proprietary model in only 61.6%. Performance also varies sharply across evidence structures, so conclusions from limited structures may be biased. We further introduce a metric, Evidence Preservation Return (EPR), to relate evidence recall to inference FLOPs, and find that it peaks at moderate scales (4B-8B), where recall remains low. Additional output budget mainly benefits already strong models and widens capability gaps, yet the stronger preservation of these models comes at a steep computational cost. These findings highlight the importance for future work to investigate compressors with strong information preservation under a small computation budget, rather than relying on a large output budget or model scaling.",
         "authors": [
-          "Leoni Carla Wirth",
-          "Tara Trautwein",
-          "Gesine Reinert"
+          "Ziqing Man",
+          "Di Wu",
+          "Jia-Chen Gu",
+          "Junyi Zhang",
+          "Kai-Wei Chang",
+          "Nanyun Peng"
         ],
-        "published": "2026-10-16T17:24:09Z"
+        "published": "2026-10-19T17:55:18Z"
       },
       {
-        "title": "FuTransformer: FP8 prefill and INT4 decode for Llama-style inference on Hopper",
-        "url": "http://arxiv.org/abs/2610.23796v1",
-        "summary": "Transformer prefill reuses weights across tokens and is dominated by matrix multiplication and activation data movement; single-token decode has limited reuse and is dominated by weight and KV-cache reads. We present FUTRANSFORMER, a CUDA implementation of a Llama-style Transformer block for NVIDIA Hopper GPUs. It applies CODA's GEMM-plus-epilogue approach to inference, adding direct KV-cache placement, folding the fixed RMSNorm gain into weights, writing FP8 output directly with delayed scaling, and supporting prefill without padding. Decode uses INT4 projection weights and an INT4 KV-cache copy. Weights and keys follow Tensor Core fragment layouts for direct dequantization into MMA operands without full intermediate tiles. A block-diagonal Hadamard transform reduces cache quantization error from outlier channels. On one H100, prefill is up to 1.48x faster than compiled PyTorch FP8 and reaches 1.29 PFLOP/s. For gate/up projection with SwiGLU at the 8B shape, our BF16 path is 1.13x faster than CODA. Our FP8 path is 2.02-2.18x faster than the evaluated BF16 CODA path. Across 8B and 70B shapes at batches 1-32, INT4 decode is 1.3-2.4x faster than the faster of PyTorch's BF16 and INT4 blocks at each point: 2.1-3.3x faster than compiled, CUDA-graphed BF16 and 1.3-6.3x faster than the same block using PyTorch's INT4 projection kernel, which targets a single query row and loses to BF16 at batch 32. It is also 31-51% faster than our FP8 path. Complete Llama-3.1-8B decode takes 2.8 ms per step at batch one, versus 8.1 ms for the compiled transformers implementation. Decoding every WikiText-2 token through the INT4 weight path raises perplexity from 6.24 to 7.23 with round-to-nearest weights or 6.99 with GPTQ in the same format; the rotated INT4 cache adds 0.20. The kernels match a quantized reference computation within 0.001 perplexity.",
+        "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
+        "url": "http://arxiv.org/abs/2610.26826v1",
+        "summary": "Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability through webpage development, a practical and readily evaluable setting in which existing benchmarks remain largely idealized: they typically focus on reconstructing visual targets or generating webpages from textual instructions alone, overlooking the more common workflow of developing from visual examples. Specifically, we introduce RefCraft, a benchmark comprising 300 realistic multimodal webpage-development tasks that combine natural-language instructions with screenshots from one to five reference webpages. Agents must selectively interpret and utilize these references while rendering, visually inspecting, and iteratively refining their outputs. We evaluate the resulting open-ended artifacts using independently verifiable keypoints and complementary programmatic and VLM judges. Across nine frontier (M)LLMs, the strongest system achieves an overall score of only 52.12 out of 100, revealing that visual-reference-conditioned agentic generation remains a substantial challenge for current models in practical webpage-development settings.",
         "authors": [
-          "Wei Wang"
+          "Yuchi Wang",
+          "Rongyao Fang",
+          "Weihao Yu",
+          "Xilin Wei",
+          "Tiancheng Gu",
+          "Dingkang Yang",
+          "Hang Zhang",
+          "Dayiheng Liu",
+          "Hongsheng Li",
+          "Shuai Bai"
         ],
-        "published": "2026-10-16T17:22:01Z"
+        "published": "2026-10-19T17:55:06Z"
       },
       {
-        "title": "DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery",
-        "url": "http://arxiv.org/abs/2610.23791v1",
-        "summary": "Computational drug discovery requires agents to compose scientific operations and adapt to changing evidence and constraints. Here we introduce DrugHarness, an evolvable agent harness coupling composable scientific execution with conditional skill induction. Its environment integrates over 80 scientific operations, biomedical resources and task-specific code, preserving associations among candidates, results and artifacts. From execution trajectories and outcome feedback, DrugHarness induces action hypotheses with observable applicability conditions, recommended actions and supporting evidence. An independent review agent evaluates candidate skills derived from these hypotheses through source verification and, when needed, targeted execution trials. Admitted skills guide subsequent tasks and are revised through feedback. Evaluation on MolBench and SMDD-Bench demonstrates capabilities in molecular screening, optimization and constrained design. Without evolution, DrugHarness exceeds reported MolClaw-CC results by 10.8 percentage points in affinity-comparison accuracy and 55% in mean top-three active hits on MolBench. Retrospective evaluation on skill-development tasks shows that evolution increases Qwen's affinity-comparison accuracy from 62.2% to 81.1% and optimization success from 79.5% to 87.2%. In a prospective HPK1 study, DrugHarness achieves a more favorable median docking score than Biomni among system-specific candidates. A synthesized compound achieves a cellular IC50 of 14.19 nM, a 2.64-fold potency improvement over the best input reference, with activity competitive with two selected compounds designed by experienced medicinal chemists. These results support conditional skill evolution for scientific agents and demonstrate a workflow connecting computational drug design with experimental validation.",
+        "title": "MemT-1.0: Towards Memory-Native Evolution",
+        "url": "http://arxiv.org/abs/2610.26825v1",
+        "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation. Building on Metis, MemT-1.0 employs Gated DeltaNet-2 with a stable token-level memory update mechanism within each turn. We further introduce Mixture-of-Storage to scale native memory capacity. Following a deliberate backbone preparation, we develop a two-stage training pipeline consisting of continued pre-training and post-training, supported by 34B tokens of training data and efficient training and inference infrastructure. We release a model family comprising MemT-1.0-Nano and MemT-1.0-Flash, and conduct a comprehensive evaluation of memory and general capabilities. The results show that they outperform the parametric memory baselines on average and remain competitive with retrieval-augmented methods, while largely preserving general capabilities. At a history length of 128K tokens, MemT-1.0-Nano achieves approximately $1.86\\times$ end-to-end inference speedup and a $66\\times$ reduction in persistent storage relative to full context KV cache. By internalizing retrieved procedural experience, MemT-1.0 improves task success on agentic tasks, providing a practical step toward memory-native evolution.",
         "authors": [
-          "Yuxing Chen",
-          "Zhisheng Zhang",
-          "Cheng Tang",
-          "Wei Li",
-          "Minghui Zhang",
-          "Ziyan Huang",
-          "Shaocong Wei",
-          "Jiawei Chen",
-          "Junru Hu",
-          "Hongze Zhu",
-          "Jianghan Shen",
-          "Min Cen",
-          "Xinyuan Zhu",
-          "Yaxue Zhao",
-          "Jubo Wang",
-          "Yuqiang Li",
-          "Chun-Mei Feng",
-          "Zongyuan Ge",
-          "Rui Su",
-          "Jie Xu",
-          "Yirong Chen",
-          "Xi Xu",
-          "Ming Hu"
+          "Zhiyu Li",
+          "Zeyu Zhang",
+          "Linyun Liu",
+          "Yiwei Bu",
+          "Chenyang Xi",
+          "Xichong Zhang",
+          "Yi Yu",
+          "Yu Yu",
+          "Zhichen Liu",
+          "Yuxiao Yi",
+          "Chunyu Li",
+          "Haoran Liu",
+          "Zhenkai Ding",
+          "Le Zhou",
+          "Juncheng Zhang",
+          "Boyu Chen",
+          "Zehao Lin",
+          "Guorui Li",
+          "Renyu Fu",
+          "Ji Li",
+          "Youyang Xia",
+          "Jiajun Shen",
+          "Harvey Li",
+          "Jingsong Zhou",
+          "Helan Hu",
+          "Tong Shen",
+          "Tianxiao Xu",
+          "Chenye Han",
+          "Weijie Li",
+          "Zhongquan Zhou",
+          "Hongming Xu",
+          "Yuekeng Li",
+          "Erenkai Zhu",
+          "Peng Yu",
+          "Wenhao Li",
+          "Jingyi Kang",
+          "Xixuan Hao",
+          "Xuzhou Zhu",
+          "Can Chen",
+          "Jiawei Liu",
+          "Chen Jiang",
+          "Tao Jiang",
+          "Fangwei Xiang",
+          "Zepeng Yao",
+          "Kai Chen",
+          "Guang Yang",
+          "Mingfei Lu",
+          "Chunhui Li",
+          "Zhengxuan Jiang",
+          "Bo Tang",
+          "Shiyu Zhan",
+          "Yihang Sun",
+          "Jie Chu",
+          "Wenjun Xiong",
+          "Zhenxiang Hua",
+          "Chen Lin",
+          "Detong Su",
+          "Dongyu Deng",
+          "Qiuping Ding",
+          "Guofeng Ding",
+          "Si Chen",
+          "Guohua Wen",
+          "Xu Chen",
+          "Zhi-Qin John Xu",
+          "Ying-Cong Chen",
+          "Ningyu Zhang",
+          "Haofen Wang",
+          "Muning Wen",
+          "Haotian Chen",
+          "Wentao Zhang",
+          "Xuanhe Zhou",
+          "Rita Zhang",
+          "Junchi Yan",
+          "Feiyu Xiong"
         ],
-        "published": "2026-10-16T17:20:19Z"
+        "published": "2026-10-19T17:54:35Z"
       },
       {
-        "title": "Parametric Resonance in Primal-Dual Learning for Slowly Non-Stationary Constrained MDPs",
-        "url": "http://arxiv.org/abs/2610.23788v1",
-        "summary": "Primal-dual methods for constrained Markov decision processes are analyzed under a two-timescale assumption, with non-stationarity entering through two channels. In the additive channel, where the constraint level oscillates, the dual oscillation saturates at a floor set by the moving optimum and is amplified linearly by the timescale ratio. In the parametric channel, where the constraint sensitivity oscillates, a coherent modulation carries no resonant forcing at any depth: the dual update's stiffness modulation cancels the primal update's damping modulation. Instability instead comes from a mismatch between the constraint estimate used by the primal update and the measurement used by the dual update, producing a parametric resonance at twice the pair's natural frequency. The tolerated mismatch grows with the square root of the forcing bandwidth and collapses with the square root of the dual-to-primal step-size ratio. These results hold on the tangent linear-quadratic reduction around an active saddle, for one constraint and for $K$ constraints under a common modulation and an isotropy condition. Driving both updates from the same estimate removes the resonant forcing but introduces a stationary offset equal to the estimator's bias. In a Lagrangian soft actor-critic agent, the multiplier locks onto the sub-harmonic at the timescale ratios its identified linear loop predicts and a coherent cost critic suppresses the lock-in, while a proportional (PID) term, predicted to leave the lock-in in place, suppresses most of it through the projection of the multiplier.",
+        "title": "SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum",
+        "url": "http://arxiv.org/abs/2610.26824v1",
+        "summary": "Matryoshka Representation Learning (MRL) is designed to support flexible representation sizes by jointly optimizing nested prefixes. While effective, this design lacks an explicit constraint to ensure that the leading portion provides a suitable compact encoding. To address this, we propose SpecMRL, which reorganizes the feature space to enable more effective prefix readout. Specifically, we extend MRL with a parameter-derived spectral basis organized with feature importance. SpecMRL otherwise follows standard MRL, with prefix readout performed in the learned spectral space. Experiments on MTEB show that SpecMRL outperforms MRL at all evaluated reduced dimensions, with larger gains under more aggressive compression. These results suggest that the learned spectral basis better prioritizes informative directions, enabling more effective representation compression. Notably, SpecMRL extends the performance frontier of MRL, surpassing full-dimensional MRL with only half the embedding dimensions.",
         "authors": [
-          "Maxime Baelde"
+          "Zhongxin Chen",
+          "Songhao Wu",
+          "Heng Cui",
+          "Cong Li",
+          "Xiao Zhou",
+          "Rui Yan"
         ],
-        "published": "2026-10-16T17:19:08Z"
+        "published": "2026-10-19T17:54:20Z"
       },
       {
-        "title": "DLite: History-free Speculative Decoding for Agentic AI",
-        "url": "http://arxiv.org/abs/2610.23787v1",
-        "summary": "Speculative decoding has become a mainstream technique for accelerating large language model (LLM) inference by using a lightweight draft model to generate candidate tokens that are subsequently verified by the target model. However, agentic workloads introduce long and continuously evolving contexts and frequent multi-turn interactions. Under such workloads, we observe that existing draft models suffer from up to an 80% degradation in acceptance length, while maintaining their historical KV cache introduces substantial system overhead. In this paper, we identify the growing historical context as a common source of both problems and introduce DLite, a history-free speculative decoding framework for agentic AI. DLite directly reuses contextual hidden states from the target model and performs local speculative prediction without explicitly maintaining the historical context, transforming an increasingly complex modeling problem into local simple prediction problem. A lightweight sequential head further restores intra-block causal dependencies with low overhead. To effectively train this heterogeneous history-free architecture, we introduce a tailored two-stage training strategy. Experiments on general-purpose, long-context and agentic workloads show that DLite achieves 2-6 acceptance length and outperforms the state-of-the-art speculative decoding method, DSpark, up to 70%.",
+        "title": "AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages",
+        "url": "http://arxiv.org/abs/2610.26821v1",
+        "summary": "Despite advancements in automatic speech recognition systems (ASR), current systems exhibit speaker-attribute bias, i.e., their speech recognition performance is biased against certain speakers based on their demographic attributes such as gender, accents, and speaker type. However, accurately assessing speaker attribute bias in a given ASR system requires the availability of a bias evaluation dataset with comparable speech across subgroups of a speaker attribute. In this paper, we introduce African speech Bias Evaluation Dataset (AfriBED), a novel speech recognition bias evaluation dataset for two low resource African languages, Bemba and Nyanja, to detect and estimate gender and speaker-type bias for ASR systems. The dataset comprises 9 hours of speech with 3928 utterances recorded by 80 speakers for Bemba, while the Nyanja set includes 6260 utterances with approximately 18 hours of speech recorded by 127 speakers. The results of our baseline experiments demonstrate that the datasets are useful for examining gender and speaker-type attribute bias in the target languages.",
         "authors": [
-          "Jiaming Xu",
-          "Hanzhen Wang",
-          "Tianlang Zhao",
-          "Jiewen Xiao",
-          "Chengze Yuan",
-          "Jiayi Pan",
-          "Yongkang Zhou",
-          "Jiancai Ye",
-          "Yu Wang",
-          "Guohao Dai"
+          "Claytone Sikasote",
+          "Hussein Suleman",
+          "Jan Buys"
         ],
-        "published": "2026-10-16T17:18:54Z"
+        "published": "2026-10-19T17:53:32Z"
       },
       {
-        "title": "Sampling the XY model with an attention-based neural network",
-        "url": "http://arxiv.org/abs/2610.23783v1",
-        "summary": "We present a transformer-based variational autoregressive network for sampling lattice systems with continuous degrees of freedom and apply it to the two-dimensional XY model near the Berezinskii-Kosterlitz-Thouless transition. The architecture is combined with physics-informed ingredients: locality-informed attention and approximate probabilities. The resulting sampler significantly outperforms existing neural samplers. We train the model on lattices up to $96\\times96$, verify with a mode-dropping estimator that no parts of the configuration space are missed, and reproduce the energy, magnetization and helicity modulus obtained with the traditional Markov Chain Monte Carlo algorithm.",
+        "title": "ASTOR: Benchmarking and Improving Autoformulation for Soft-Constraint Optimization with a Formal Grammar",
+        "url": "http://arxiv.org/abs/2610.26819v1",
+        "summary": "Real-world decision problems combine two qualitatively different kinds of constraints: requirements that must be satisfied, called hard constraints, and preferences that can be violated, called soft constraints. Because these problems are often posed to decision-makers in natural language, large language models offer a natural tool for assisting with their solution. This has given rise to autoformulation, which focuses on using LLMs to translate natural-language descriptions of decision problems into executable mathematical optimization models. However, this research often neglects soft constraints like those proposed by consumers, managers, and planners, despite the fact that many practical problems require modeling them explicitly. We introduce ASTOR, an inference-time framework that maps a natural-language decision problem to a grammar-guided abstract syntax tree (AST) before deterministically compiling the resulting representation into executable optimization code. We also introduce SoftOR, a unified benchmark of natural language problems which focuses on soft constraint formulations. On SoftOR, ASTOR achieves the best aggregate accuracy among comparable single-request and multi-agent LLM methods while remaining competitive on standard autoformulation benchmarks that include only hard constraints. Code and data are available at https://anonymous.4open.science/r/astor-softor-iclr-E34C/README.md.",
         "authors": [
-          "Piotr Bia\u0142as",
-          "Christian D. Morales",
-          "Tomasz Stebel",
-          "Dawid Zapolski"
+          "Amer Goel",
+          "Yeganeh Alimohammadi",
+          "Andrew Daw"
         ],
-        "published": "2026-10-16T17:16:35Z"
+        "published": "2026-10-19T17:52:35Z"
       },
       {
-        "title": "Mesoscopic learning dynamics of extensive-width neural networks",
-        "url": "http://arxiv.org/abs/2610.23779v1",
-        "summary": "Understanding how stochastic gradient descent learns internal representations in wide neural networks trained on rich target functions is a central problem in machine learning. We study this question in two-layer neural networks learning target functions represented by networks of the same architecture, with arbitrary nonlinearity, and with network width and input dimension growing proportionally. In this regime, standard approaches for describing the learning dynamics require tracking a diverging number of overlaps, which measure correlations between learned and target features, leaving no obvious description in terms of a few order parameters. Here, we develop a mesoscopic description of learning by characterizing the distribution of overlaps. In the early stages of learning, we find that a Gaussian description of overlap statistics reduces the learning dynamics to a few collective variables that track learning of the target function's linear and quadratic components. We then estimate the timescale of specialization, when Gaussian closure breaks down and individual learned features begin to strongly correlate with specific target features. We find that specialization in extensive-rank networks is accelerated via a quadratic shielding mechanism, whereby learning the linear and quadratic components of the target function filters gradient fluctuations. We finally describe how the activation function determines the pattern of specialization and characterize the subsequent refinement of learned features. Together, these results show how collective learning gives way to individual feature discovery and clarify when learning in large neural networks admits a simple statistical description.",
+        "title": "Next Best Action: Causal Constrained Offline RL for Business Action Targeting",
+        "url": "http://arxiv.org/abs/2610.26817v1",
+        "summary": "Next Best Action (NBA) systems must select among customer interventions (e.g., discounts, promotions, and lifecycle actions), maximize long-term economic value, satisfy complex operational constraints, and remain causally grounded. Existing approaches lack a rigorous framework for meeting these requirements jointly. We address this gap by formulating NBA as a Constrained Markov Decision Process (CMDP). We then integrate off-policy causal correction of the estimated customer dynamics directly into the Linear Programming (LP) formulation of the CMDP. The resulting policy selects actions based on customer states to maximize long-term value while explicitly enforcing business guardrails. Furthermore, the LP formulation yields shadow prices that quantify the economic trade-offs of operational constraints (e.g., fairness and user welfare), enhancing policy interpretability. We validate our proposed offline Reinforcement Learning (RL) framework on an industry case study involving rideshare coupon targeting, where customer states are defined by Recency, Frequency, and Monetary (RFM) stages. We evaluate performance using model-based off-policy evaluation, with causal dynamics estimated from a temporal holdout. Under the observed coupon budget and RFM state representation, our optimized policy improves customer lifetime value (LTV) by 19% over the estimated behavior policy and 8% over a myopic baseline. Although the demonstrated action space is binary, the proposed framework is action-agnostic, yielding a general-purpose decision module for targeting systems that manage multiple interventions.",
         "authors": [
-          "Shu Zhou",
-          "Jean Barbier",
-          "Sebastian Goldt"
+          "Surya Ramachandiran",
+          "Yiming Li",
+          "Juan Mancilla-Caceres",
+          "Tao Ye",
+          "Jun Liu"
         ],
-        "published": "2026-10-16T17:12:43Z"
+        "published": "2026-10-19T17:51:53Z"
       },
       {
-        "title": "Logic-Guided Graph Denoising Diffusion Models",
-        "url": "http://arxiv.org/abs/2610.23766v1",
-        "summary": "Graph diffusion models are competitive approaches for generating complex graph-structured data. However, when such distributions have strict structural constraints, diffusion models may fail to capture them exactly, resulting in the generation of invalid graphs. In this paper, we propose a method for grounding graph diffusion models in domain-specific knowledge via First Order Logic (FOL), leveraging its expressive and interpretable formalism to impose structural constraints on the generative process. We incorporate domain knowledge using classifier guidance, a technique that conditions the diffusion model's distribution on external variables to exert control over the sampled data. During the generative process, classifier guidance steers the denoising trajectory to optimize an objective function, which we define as a fuzzy and differentiable relaxation of the logical rules. Our methodology requires only the specification of constraints in FOL, whose satisfaction is encouraged at inference time to guide a pre-trained generative model. We evaluate our approach by comparing the unconditional generation of knowledge graphs with our logic-guided framework, which incorporates domain ontologies as structural constraints during inference. This approach significantly increases the proportion of generated graphs that satisfy the ontological constraints.",
+        "title": "Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability",
+        "url": "http://arxiv.org/abs/2610.26809v1",
+        "summary": "Safety alignment for large language models (LLMs) is primarily performed during post-training, while recent work has also begun incorporating safety data into pre-training. Yet safety can degrade when later training no longer includes safety data, and gains in safety often come at the cost of general capability. This tension suggests that safety and general reasoning should not be treated as separate training goals. We instead view safety as an LLM capability that can be learned through a reasoning structure shared with general tasks. Both require the model to understand intent or task goals, apply relevant knowledge, and reason about potential consequences. We introduce safety mid-training, a stage between pre-training and post-training that jointly develops safety and general reasoning through this shared structure. Given safety and utility prompts, the base model generates structured documents and reasoning traces that are then used for mid-training. Safety mid-training reduces average attack success rate (ASR) by 72% to 81% relative to Qwen3-1.7B, 4B, and 8B base models, while also improving general capability. The benefits persist through subsequent post-training. After general-only SFT, mid-trained models largely retain their safety, achieving lower ASR than the baselines without sacrificing general capability. They also retain safety under general-only GRPO without safety rewards, while subsequent RL reaches a better safety-utility frontier when initialized from the mid-trained models. Together, these results suggest that learning safety and general reasoning within a shared mid-training stage can reduce the safety-utility trade-off and make safety more robust to subsequent training.",
         "authors": [
-          "Samuel Cognolato",
-          "Luciano Serafini",
-          "Alessandro Sperduti",
-          "Andrea Cavallaro"
+          "Zhengyue Zhao",
+          "Liwei Jiang",
+          "Yejin Choi",
+          "Chaowei Xiao1"
         ],
-        "published": "2026-10-16T17:06:07Z"
+        "published": "2026-10-19T17:49:49Z"
       },
       {
-        "title": "Universal Semantic Enhancement for Weakly Supervised Anomaly Detection",
-        "url": "http://arxiv.org/abs/2610.23765v1",
-        "summary": "Weakly supervised anomaly detection on tabular data is an essential task in many label-scarce applications, since tabular data is widely encountered and it is commonly observed in practice that only a limited number of labeled anomalies are available alongside abundant unlabeled samples. Most existing methods try to learn features that capture the inherent distribution patterns in the target domain. However, such features often struggle to provide a complete description of possible abnormal characteristics and are highly susceptible to overfitting the extremely scarce labels. To address this challenge, we propose a weakly supervised anomaly detection method based on universal semantic enhancement for tabular data, which fuses the universal knowledge from a pre-trained tabular foundation model with the domain-specific knowledge learned on the target dataset. The two types of knowledge are naturally complementary: universal semantics describe the common patterns of tabular data across domains, while the domain-specific features capture the inherent distributions of normal and anomalous behaviors in the target dataset. A prototype-conditioned modulation mechanism is then designed to effectively integrate the two types of features, allowing them to reinforce each other for improved anomaly detection. Extensive experiments on public datasets show that the proposed method outperforms competitive methods when only eight labeled anomalies are available in the training procedure.",
+        "title": "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding",
+        "url": "http://arxiv.org/abs/2610.26802v1",
+        "summary": "Brain encoding models aim to predict neural responses to stimuli. The most widely used approach fits readouts from frozen pretrained backbones. Using neural data to train large models from scratch or fully fine-tune them after task-pretraining has proven difficult because neural data is costly and limited. We show that parameter-efficient fine-tuning (PEFT) enables us to effectively adapt very large pretrained backbones for brain encoding with a small number of trainable parameters. To make it computationally practical, we exploit the backbone's causal structure to predict multiple timepoints in a single pass instead of using sliding windows, significantly reducing feature-extraction cost. This enables efficient fine-tuning of multimodal backbones with up to 104B parameters, the largest model adapted for brain encoding to our knowledge. Trained with a low-rank adapter (LoRA) and a lightweight readout, our approach consistently improves brain encoding performance across nine diverse multimodal backbones. On the same Qwen3-Omni backbone as the prior state-of-the-art (SoTA), our method BrainLoRA achieves the best published performance on the Algonauts 2025 Challenge. We also show the adapted multimodal backbones remain interpretable: modality attribution recovers the canonical sensory topography that prior work often obtains by construction from separate unimodal encoders, and neural adaptation increases the contribution of audio inputs and cross-modal mixing within the backbone. To scale out the number of adapted models, we develop a multi-LoRA kernel that accelerates joint training of multiple LoRAs on a shared backbone. This enables an ensemble of 200+ adapted models that ranks first on the public Algonauts post-challenge leaderboard at the time of writing. Together, our results highlight PEFT as an efficient and powerful paradigm for brain encoding.",
         "authors": [
-          "Siyu Zhou",
-          "Yuqin Xie",
-          "Hao Yuan",
-          "Yingjie Zhou"
+          "Zhuofan Josh Ying",
+          "Guanglong Sun",
+          "Nolan Ho",
+          "Kieran Liu",
+          "Rui Yang",
+          "Andrew Chen",
+          "Nikolaus Kriegeskorte",
+          "Pony Ma",
+          "Hossein Adeli"
         ],
-        "published": "2026-10-16T17:05:51Z"
+        "published": "2026-10-19T17:46:08Z"
       },
       {
-        "title": "From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability",
-        "url": "http://arxiv.org/abs/2610.23760v1",
-        "summary": "Conservation laws reveal invariant structure in dynamical systems and constrain their evolution to lower-dimensional level sets. Locally, however, per the flow-box theorem, every $d$-dimensional system generically admits $d-1$ functionally independent conservation laws near a regular point even though, generically, only a few such laws persist globally. Data-driven methods typically learn conservation laws on a prescribed region of phase space from which training samples are drawn, leaving their behavior beyond that region unresolved. We formulate this local-to-global continuation problem and develop an {expanding-domain neural deflation} framework that tracks the number of independent conservation laws over nested domains. The method recovers the expected $d-1$ local invariants and detects their successive breakdown as the domain expands, relaxing to the expected global conservation law limit. It distinguishes the local invariants (associated with Frobenius integrability) from persistent global structure and shows that the domain scale over which additional laws survive reflects proximity to Liouville integrability. Pointwise losses can localize isolated obstructions, whereas in more complicated dynamics the breakdown of our loss functions is gradual and spatially diffuse. The framework thus provides a data-driven approach for studying the persistence and breakdown of (so-far-learned) conservation laws across phase space.",
+        "title": "Mise-en-Video: Fine-Grained 3D Control for Multi-Shot Video Generation",
+        "url": "http://arxiv.org/abs/2610.26801v1",
+        "summary": "Recent advances in text-to-video generation have enabled high-fidelity single-shot synthesis, yet practical storytelling creation requires multi-shot videos with both strong inter-shot consistency and fine-grained controllability. Existing multi-shot video generation approaches achieve strong consistency but still fall short in controllability. In this paper, we propose Mise-en-Video (MeV), a highly controllable multi-shot video generation framework that allows video creators to conduct staging the multi-shot in the 3D space and then generate the corresponding multi-shot video. To achieve this, our framework combines a hierarchical attention mechanism for multi-level narrative consistency with 3D-aware layout guidance for precise, per-shot spatial control. To support training and evaluation, we develop standardized annotation pipelines and construct a 160K-video dataset with hierarchical multi-shot texts and oriented 3D bounding boxes. Extensive experiments demonstrate that MeV consistently outperforms strong baselines in video quality, inter-shot consistency, and subject-level controllability.",
         "authors": [
-          "Jimmie Adriazola",
-          "Ioannis G. Kevrekidis",
-          "Panayotis G. Kevrekidis",
-          "Wei Zhu"
+          "Yingshuang Zou",
+          "Xiaoyu Shi",
+          "Yawen Luo",
+          "Ziang Li",
+          "Qinghe Wang",
+          "Mengfei Li",
+          "Chengfeng Zhao",
+          "Xintao Wang",
+          "Pengfei Wan",
+          "Kun Gai",
+          "Yuan Liu"
         ],
-        "published": "2026-10-16T17:02:39Z"
+        "published": "2026-10-19T17:45:43Z"
       },
       {
-        "title": "VocalGrad: Evaluating Acoustic Perception in Audio Language Models",
-        "url": "http://arxiv.org/abs/2610.23745v1",
-        "summary": "Recent large audio language models (LALMs) have extended their capabilities beyond lexical speech understanding to tasks requiring paralinguistic and non-linguistic audio understanding, such as emotion recognition. However, these models still struggle to reliably utilize acoustic information, particularly when it co-occurs with spoken linguistic content. Existing benchmarks do not clearly distinguish acoustic perception from higher-level reasoning, making it difficult to identify the source of these failures. To address this issue, we introduce VocalGrad, a benchmark designed to evaluate LALMs' ability to perceive low-level acoustic variations. VocalGrad formulates this problem as a simple binary classification of temporal change direction, enabling evaluation largely independent of higher-level reasoning or semantic understanding. Our benchmark results reveal a substantial gap in acoustic perception between human annotators and state-of-the-art LALMs: while human annotators achieve high accuracy, LALMs perform at near-chance levels. We further conduct linear probing to identify structural bottlenecks in these models. Our analysis reveals two distinct failure modes: for some categories, task-relevant information is preserved in internal representations but not utilized by the language model head; for others, the information becomes progressively less linearly decodable across model layers. Overall, our results reveal substantial limitations of LALMs in modeling acoustic variation under controlled settings and expose representation differences not observable from text outputs.",
+        "title": "Learning to Refer: Inference-Time Collaboration in Decentralized Federated Learning",
+        "url": "http://arxiv.org/abs/2610.26800v1",
+        "summary": "In decentralized federated learning, heterogeneous clients may develop complementary expertise, yet each query is typically evaluated only by the client where it arrives. To exploit this distributed expertise without global coordination, we formulate inference-time collaboration as budgeted local expert referral, a graph-constrained routing process in which a query can move only between neighboring clients and only visited clients contribute to its final prediction. EdgeDRM implements this framework by learning a density-based routing potential for each client: differences between neighboring potentials provide the comparisons used to select successive referrals, while local task models generate predictions that are aggregated along the resulting route. Both training and inference are decentralized, using only neighbor-local information without a central router or graph-wide client scoring. We establish estimation guarantees for the learned comparisons and characterize how local improvement and graph structure govern prior-weighted density gains from referral. Experiments on benchmark and real-world medical data show that EdgeDRM outperforms graph-matched decentralized baselines in most settings, with the clearest benefits under sparse connectivity.",
         "authors": [
-          "Koki Ryu",
-          "Hitomi Yanaka"
+          "Yuheng Ma",
+          "Chendi Wang",
+          "Qiong Zhang"
         ],
-        "published": "2026-10-16T16:54:35Z"
+        "published": "2026-10-19T17:44:55Z"
       },
       {
-        "title": "The Italian lawmaking process: a unified and structured dataset",
-        "url": "http://arxiv.org/abs/2610.23741v1",
-        "summary": "The Italian legislative process is documented in detailed parliamentary records hosted in institutional websites. However, much of this information is available only as unstructured text, limiting its systematic reuse. We applied a controlled, systematic LLM-based extraction procedure, validated against manually annotated records, to convert these texts into ordered and dated events including, e.g., bill introduction, committee examination, plenary examination, and approval. The resulting dataset reconstructs the procedural histories of all 5346 Italian laws enacted between 1985 and 2026, spanning parliamentary terms IX to XIX, for overall 101413 events. Each event records the activity, date, and chamber, with additional procedural details where available. The dataset supports research in the emerging fields of computational legal and legislative studies, potentially combined with process-oriented data science methods to examine procedural paths and legislative timing across parliamentary terms.",
+        "title": "Teacher Supervision, Fixed Representations and Calibration: Exact Risk Calculations for Candidate-Scoring Decision Models",
+        "url": "http://arxiv.org/abs/2610.26797v1",
+        "summary": "Candidate-scoring decision models return a probability distribution over a presented set of answers. Public documentation of one such system, Jev, and of an open counterpart, JevAny, describes three training ingredients that determine what these probabilities estimate: soft targets from larger models, a frozen pretrained backbone and temperature calibration. We analyze each ingredient in Gaussian surrogates where the finite-sample risk can be computed exactly. A student trained on teacher targets inherits the teacher's bias, which more student data does not remove and agreement with the teacher does not reveal. A fixed representation lowers the risk only below an explicit sample-size threshold. In a probit model the exact recalibration map is a temperature scaling, which removes all excess risk only when the teacher's coefficient has the correct direction and otherwise leaves a residual that calibration diagnostics do not detect. Under Luce's choice axiom, candidate scores are coherent across refinements of an event if and only if they aggregate by log-sum-exp. On 231,521 credit card complaints from the Consumer Financial Protection Bureau, where the decision is whether a complaint ends in monetary relief, a student trained on a logistic teacher's probabilities ends at the teacher's decision cost while a student trained on outcomes goes 8% below it, a 30B model read zero-shot remains worse than the teacher after recalibration, and that model departs from the coherence condition by 17.5 decibans. Pretrained representations reduce the labeled data required and calibration corrects the scale of the probabilities, but neither corrects a biased teacher, so the probabilities have to be checked against realized outcomes.",
         "authors": [
-          "Matilde Contestabile",
-          "Chiara Ferrara",
-          "Giovanni Parrillo",
-          "Lorenzo Emer",
-          "Andrea Vandin"
+          "Agus Sudjianto",
+          "Denis Burakov"
         ],
-        "published": "2026-10-16T16:52:11Z"
+        "published": "2026-10-19T17:42:24Z"
       },
       {
-        "title": "LagNet: Lag-Structured Operators for Long-Term Time Series Forecasting",
-        "url": "http://arxiv.org/abs/2610.23735v1",
-        "summary": "Long-term time series forecasting maps a finite history window to an extended future horizon. Many existing models focus primarily on the design of input representations and model structures, while paying less attention to the structural form of the history-to-future forecasting operator itself. We examine this operator directly and find that, across model families, sensitivity matrices exhibit recurring diagonal patterns whose diagonals correspond to relative temporal lags. Motivated by this observation, we develop a framework for direct multi-step forecasting based on lag-structured temporal operators. Its basic building block, LagLayer, constructs a Toeplitz matrix by tying history-to-future connections with the same relative lag and incorporates horizon-wise and history-wise scaling coefficients to relax exact sharing. This design enables LagLayer to serve as an effective replacement for temporal linear layers in existing forecasting models. Stacking LagLayer modules with activations and multiple feature maps yields LagNet. Experiments on long-term time series forecasting benchmarks show that our method is competitive with strong baselines, while sensitivity matrix diagnostics and limited-data experiments demonstrate that LagLayer provides an effective and sample-efficient alternative to a linear layer.",
+        "title": "Two hidden layer suffice: the caterpillar net",
+        "url": "http://arxiv.org/abs/2610.26795v1",
+        "summary": "Every continuous piecewise linear (CPWL) function is a finite signed sum of maxima of affine functions, making maximum representation a central problem in the study of the expressiveness of ReLU networks. A now-disproved conjecture predicted logarithmic depth for maxima. Inspired by the proof by Brunck et al. (2026) that two hidden layers suffice for general CPWL functions, we give the Caterpillar Net, a nonrecursive construction for the maximum of $N$ inputs with two hidden layers of widths $O(N^2)$ and $2^{O(N\\log N)}$. The construction has a direct geometric interpretation.",
         "authors": [
-          "Zhenan Yu",
-          "Guangxin Jiang",
-          "Jiuyun Jiang",
-          "Jin Yang"
+          "Jakob Paul Zimmermann"
         ],
-        "published": "2026-10-16T16:44:53Z"
+        "published": "2026-10-19T17:40:37Z"
       }
     ],
     "github_trending": [
@@ -1543,98 +1633,98 @@
         "url": "https://github.com/morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "language": "TypeScript",
-        "stars_this_week": "335,962"
+        "stars_this_week": "338,610"
       },
       {
         "name": "anthropics/claude-plugins-official",
         "url": "https://github.com/anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "language": "Python",
-        "stars_this_week": "43,159"
+        "stars_this_week": "43,219"
       },
       {
         "name": "storytold/artcraft",
         "url": "https://github.com/storytold/artcraft",
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "language": "Rust",
-        "stars_this_week": "33,667"
+        "stars_this_week": "33,853"
       },
       {
         "name": "MadsLorentzen/ai-job-search",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "language": "Python",
-        "stars_this_week": "56,968"
+        "stars_this_week": "57,827"
       },
       {
         "name": "boykopovar/AnyPS5",
         "url": "https://github.com/boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "language": "C++",
-        "stars_this_week": "44,382"
+        "stars_this_week": "44,627"
       },
       {
         "name": "NationalSecurityAgency/ghidra",
         "url": "https://github.com/NationalSecurityAgency/ghidra",
         "description": "Ghidra is a software reverse engineering (SRE) framework",
         "language": "Java",
-        "stars_this_week": "91,525"
+        "stars_this_week": "91,688"
       },
       {
         "name": "mksglu/context-mode",
         "url": "https://github.com/mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "language": "TypeScript",
-        "stars_this_week": "31,057"
+        "stars_this_week": "31,141"
       },
       {
         "name": "heygen-com/hyperframes",
         "url": "https://github.com/heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "language": "TypeScript",
-        "stars_this_week": "67,603"
+        "stars_this_week": "67,790"
       },
       {
         "name": "cathrynlavery/diagram-design",
         "url": "https://github.com/cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "language": "HTML",
-        "stars_this_week": "58,352"
+        "stars_this_week": "58,544"
       },
       {
         "name": "K-Dense-AI/scientific-agent-skills",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
         "language": "Python",
-        "stars_this_week": "52,919"
+        "stars_this_week": "52,991"
       },
       {
         "name": "cursor/plugins",
         "url": "https://github.com/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "stars_this_week": "13,034"
+        "stars_this_week": "13,087"
       },
       {
         "name": "debpalash/VoiceStudio",
         "url": "https://github.com/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_this_week": "77,388"
+        "stars_this_week": "77,765"
       },
       {
         "name": "YuJunZhiXue/dsh-purge",
         "url": "https://github.com/YuJunZhiXue/dsh-purge",
         "description": "DeepSeek Harness \u7834\u7532\uff1a\u8ba9\u6240\u6709\u6a21\u578b\u90fd\u80fd\u7834\u7532\uff0c\u4e0d\u540c\u6a21\u578b\u53ef\u6362\u4e0d\u540c\u63d0\u793a\u8bcd\uff1b\u9ed8\u8ba4\u63d0\u793a\u8bcd\u9762\u5411\u56fd\u6a21\u300c\u5c0f\u7801\u9171\u300d\u3002Jailbreak for every model \u2014 swap prompts per model. \u6c42 Star \u6536\u85cf \u2b50 \u5982\u8981\u4e8c\u5f00\uff0c\u8bf7\u67e5\u770b\u7f72\u540d\u8981\u6c42\u90e8\u5206",
         "language": "JavaScript",
-        "stars_this_week": "8,664"
+        "stars_this_week": "9,403"
       },
       {
         "name": "ruvnet/ruflo",
         "url": "https://github.com/ruvnet/ruflo",
         "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
         "language": "TypeScript",
-        "stars_this_week": "77,133"
+        "stars_this_week": "77,310"
       }
     ],
     "twitter": []
