@@ -1,304 +1,304 @@
 {
   "topic": "AI",
-  "generated_at": "2026-10-23T21:12:53.283528+00:00",
+  "generated_at": "2026-10-24T04:00:06.235500+00:00",
   "lookback_days": 7,
   "sources": {
     "reddit": [
       {
-        "title": "I\u2019m teaching a cheap AI to play chess with just a prompt. It took a pawn on f7 with its queen because it was \u00ab free \u00bb",
-        "url": "https://www.reddit.com/r/chess/comments/1xdq6vs/im_teaching_a_cheap_ai_to_play_chess_with_just_a/",
-        "published": "2026-10-23T21:10:36+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "[For Hire] Dark Fantasy and Horror art - Commissions Open!",
-        "url": "https://www.reddit.com/r/tabletopartists/comments/1xdq6v6/for_hire_dark_fantasy_and_horror_art_commissions/",
-        "published": "2026-10-23T21:10:35+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "[World] - Why is the UK at the forefront of AI-driven job cuts? | Al Jazeera",
-        "url": "https://www.reddit.com/r/AutoNewspaper/comments/1xdq6uy/world_why_is_the_uk_at_the_forefront_of_aidriven/",
-        "published": "2026-10-23T21:10:35+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "feeling really lost about what to study in university . Need genuine advice (maybe artistic paths)",
-        "url": "https://www.reddit.com/r/u_SoftRealityy/comments/1xdq6m4/feeling_really_lost_about_what_to_study_in/",
-        "published": "2026-10-23T21:10:17+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "I just watched AiC Unplugged for the first time. What an experience on YouTube",
-        "url": "https://www.reddit.com/r/grunge/comments/1xdq6gh/i_just_watched_aic_unplugged_for_the_first_time/",
-        "published": "2026-10-23T21:10:07+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "On the Future of the Subreddit and AI",
-        "url": "https://www.reddit.com/r/Cantonese/comments/1xdq66x/on_the_future_of_the_subreddit_and_ai/",
-        "published": "2026-10-23T21:09:49+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "I need to vent about the writing assignments.",
-        "url": "https://www.reddit.com/r/Acellus_Academy/comments/1xdq61n/i_need_to_vent_about_the_writing_assignments/",
-        "published": "2026-10-23T21:09:38+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "Does Conquest AI improve with difficulty?",
-        "url": "https://www.reddit.com/r/GatesOfHellOstfront/comments/1xdq5ze/does_conquest_ai_improve_with_difficulty/",
-        "published": "2026-10-23T21:09:34+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "Testing an offer before launching it",
-        "url": "https://www.reddit.com/r/WomenInBusiness/comments/1xdq5yc/testing_an_offer_before_launching_it/",
-        "published": "2026-10-23T21:09:31+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "[Student] How is my resume as a pre-15yo based on experience? What to focus on now?",
-        "url": "https://www.reddit.com/r/Resume/comments/1xdq5vj/student_how_is_my_resume_as_a_pre15yo_based_on/",
-        "published": "2026-10-23T21:09:27+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "[For Hire] Dark Fantasy and Horror art - Commissions Open!",
-        "url": "https://www.reddit.com/r/dndcommissions/comments/1xdq5uw/for_hire_dark_fantasy_and_horror_art_commissions/",
-        "published": "2026-10-23T21:09:25+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "\"Influencers\" (2025) - In Southern France, a young woman with a large, highly recognizable, facial mole keeps stealing peoples identity and killing influencers with the help of her incredibly advanced laptop based AI (that has her ex-girlfriends voice). For reasons, most of the scenes are shown out",
-        "url": "https://www.reddit.com/r/TrulyBadCinema/comments/1xdq5um/influencers_2025_in_southern_france_a_young_woman/",
-        "published": "2026-10-23T21:09:25+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "\"Influencers\" (2025) - In Southern France, a young woman with a large, highly recognizable, facial mole keeps somehow stealing peoples identity and killing influencers with the help of her incredibly advanced laptop based AI (that has her ex-girlfriends voice) as a previous victim searches for her.",
-        "url": "https://www.reddit.com/r/AbsurdMovies/comments/1xdq5u2/influencers_2025_in_southern_france_a_young_woman/",
-        "published": "2026-10-23T21:09:23+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "\"Influencers\" (2025) - In Southern France, a young woman with a large, highly recognizable, facial mole keeps somehow stealing peoples identity and killing influencers with the help of her incredibly advanced laptop based AI (that has her ex-girlfriends voice) as a previous victim searches for her.",
-        "url": "https://www.reddit.com/r/JasonBrant/comments/1xdq5rw/influencers_2025_in_southern_france_a_young_woman/",
-        "published": "2026-10-23T21:09:20+00:00",
-        "score": 1,
-        "comments": 0
-      },
-      {
-        "title": "Lumara Film Festival Announces Finalists for Inaugural AI Film Festival",
-        "url": "https://www.reddit.com/r/VeniceAI/comments/1xdq5ql/lumara_film_festival_announces_finalists_for/",
-        "published": "2026-10-23T21:09:17+00:00",
+        "title": "AI Classics?",
+        "url": "https://www.reddit.com/r/aiwars/comments/1xdyoin/ai_classics/",
+        "published": "2026-10-24T03:59:18+00:00",
         "score": 1,
         "comments": 1
       },
       {
-        "title": "Someone said Lara can outsing them all",
-        "url": "https://www.reddit.com/r/katseyesnark_/comments/1xdq5pw/someone_said_lara_can_outsing_them_all/",
-        "published": "2026-10-23T21:09:15+00:00",
+        "title": "[HIRING] [REMOTE] a Network Engineer Expert (remote, Contract, Ai Training) \u2014 Afterquery Via Ai Gig Scout! in Afterquery (via Ai Gig Scout)",
+        "url": "https://www.reddit.com/r/jobboardsearch/comments/1xdyodz/hiring_remote_a_network_engineer_expert_remote/",
+        "published": "2026-10-24T03:59:05+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "What should I do now? Xfinity credited my account $6.66 as a way to say \"go to hell\". Then sent 11 separate invoices of $95.14 for a total of $1046.54",
-        "url": "https://www.reddit.com/r/Comcast/comments/1xdq5ot/what_should_i_do_now_xfinity_credited_my_account/",
-        "published": "2026-10-23T21:09:13+00:00",
+        "title": "Amazon SDE intern OA",
+        "url": "https://www.reddit.com/r/leetcode/comments/1xdynzi/amazon_sde_intern_oa/",
+        "published": "2026-10-24T03:58:27+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "Kimi K3.1 Release Date: Every Sign the Launch Is Close",
-        "url": "https://www.reddit.com/r/AISEOInsider/comments/1xdq5lc/kimi_k31_release_date_every_sign_the_launch_is/",
-        "published": "2026-10-23T21:09:06+00:00",
+        "title": "Liam Crowley (from ScreenRant) has watched the movie. So the news about private screenings is true.",
+        "url": "https://www.reddit.com/r/RamayanaTheFilm/comments/1xdynf0/liam_crowley_from_screenrant_has_watched_the/",
+        "published": "2026-10-24T03:57:36+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "La matematica del reselling: come 10 piccole vendite (da modellini a videogiochi) mi hanno fruttato oltre 136\u20ac",
-        "url": "https://www.reddit.com/r/u_Resellermaniachannel/comments/1xdq5k9/la_matematica_del_reselling_come_10_piccole/",
-        "published": "2026-10-23T21:09:03+00:00",
+        "title": "25 remote data science jobs I found this week - Reddit, AbbVie, Upstart, and others hiring",
+        "url": "https://www.reddit.com/r/DataScienceJobs/comments/1xdynej/25_remote_data_science_jobs_i_found_this_week/",
+        "published": "2026-10-24T03:57:35+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "Thoughts on Trinity Trigger?",
-        "url": "https://www.reddit.com/r/JRPG/comments/1xdq5k5/thoughts_on_trinity_trigger/",
-        "published": "2026-10-23T21:09:03+00:00",
+        "title": "I accidentally shipped two orders under the same label to same person",
+        "url": "https://www.reddit.com/r/Depop/comments/1xdynbw/i_accidentally_shipped_two_orders_under_the_same/",
+        "published": "2026-10-24T03:57:29+00:00",
+        "score": 1,
+        "comments": 1
+      },
+      {
+        "title": "looking for a remote job",
+        "url": "https://www.reddit.com/r/u_Known-Ad-8015/comments/1xdyn8m/looking_for_a_remote_job/",
+        "published": "2026-10-24T03:57:20+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "Some Heist Unique Favors/Risks Act 3",
-        "url": "https://www.reddit.com/r/paydaytheheist/comments/1xdq5f2/some_heist_unique_favorsrisks_act_3/",
-        "published": "2026-10-23T21:08:52+00:00",
+        "title": "Ranhbhumi (my take)",
+        "url": "https://www.reddit.com/r/indiasocial/comments/1xdyn7l/ranhbhumi_my_take/",
+        "published": "2026-10-24T03:57:17+00:00",
         "score": 1,
         "comments": 0
       },
       {
-        "title": "2001 Nissan Gloria GT \u00faltima",
-        "url": "https://www.reddit.com/r/Nissan/comments/1xdq5ei/2001_nissan_gloria_gt_\u00faltima/",
-        "published": "2026-10-23T21:08:51+00:00",
+        "title": "How to Rank a NEW Website #1 on Google With AI SEO!",
+        "url": "https://www.reddit.com/r/AISEOInsider/comments/1xdyn12/how_to_rank_a_new_website_1_on_google_with_ai_seo/",
+        "published": "2026-10-24T03:57:02+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "We got AI job applications down to 1 cent each. New ChatGPT plugin and all. But I'm wondering if we're actually solving the right problem.",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1xdymvv/we_got_ai_job_applications_down_to_1_cent_each/",
+        "published": "2026-10-24T03:56:47+00:00",
+        "score": 1,
+        "comments": 1
+      },
+      {
+        "title": "Do I really need to buy those level?",
+        "url": "https://www.reddit.com/r/FortniteBR/comments/1xdymv7/do_i_really_need_to_buy_those_level/",
+        "published": "2026-10-24T03:56:46+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Grok Bot Just Got a MASSIVE AI Upgrade!",
+        "url": "https://www.reddit.com/r/AISEOInsider/comments/1xdymtn/grok_bot_just_got_a_massive_ai_upgrade/",
+        "published": "2026-10-24T03:56:42+00:00",
         "score": 0,
+        "comments": 0
+      },
+      {
+        "title": "Hermes Agent OS Just Changed AI Automation Forever!",
+        "url": "https://www.reddit.com/r/AISEOInsider/comments/1xdymj5/hermes_agent_os_just_changed_ai_automation_forever/",
+        "published": "2026-10-24T03:56:12+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Warning to anyone who dislikes Todd Edward's using AI, he will block you if you mention it in his comments",
+        "url": "https://www.reddit.com/r/DaftPunk/comments/1xdymfd/warning_to_anyone_who_dislikes_todd_edwards_using/",
+        "published": "2026-10-24T03:56:01+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "ROSEN PROJECTION",
+        "url": "https://www.reddit.com/r/mapmaking/comments/1xdymdb/rosen_projection/",
+        "published": "2026-10-24T03:55:57+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Rate my projects",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1xdymd4/rate_my_projects/",
+        "published": "2026-10-24T03:55:57+00:00",
+        "score": 1,
+        "comments": 1
+      },
+      {
+        "title": "Spline + ChatGPT Is an INSANE 3D AI Combo!",
+        "url": "https://www.reddit.com/r/AISEOInsider/comments/1xdym70/spline_chatgpt_is_an_insane_3d_ai_combo/",
+        "published": "2026-10-24T03:55:42+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "[HIRING] a Customer Marketing Lead! in Tribe Ai",
+        "url": "https://www.reddit.com/r/jobboardsearch/comments/1xdym69/hiring_a_customer_marketing_lead_in_tribe_ai/",
+        "published": "2026-10-24T03:55:40+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "\ud83d\udce2 Runware [HIRING] a Senior Product Marketing Manager!",
+        "url": "https://www.reddit.com/r/jobboardsearch/comments/1xdym1l/runware_hiring_a_senior_product_marketing_manager/",
+        "published": "2026-10-24T03:55:29+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "GitLab CVE-2026-110264 (CVSS 10): regex compiler overflow, in range for every self-managed version since 7.0, and the Oct 12 patch doesn't cover it",
+        "url": "https://www.reddit.com/r/linuxadmin/comments/1xdylya/gitlab_cve2026110264_cvss_10_regex_compiler/",
+        "published": "2026-10-24T03:55:21+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "I built Knovum: an open-source, local-first AI knowledge workspace on an infinite canvas (Tauri 2 + Vue 3)",
+        "url": "https://www.reddit.com/r/SideProject/comments/1xdylx9/i_built_knovum_an_opensource_localfirst_ai/",
+        "published": "2026-10-24T03:55:19+00:00",
+        "score": 1,
+        "comments": 0
+      },
+      {
+        "title": "Google one ai pro subscription disappeared",
+        "url": "https://www.reddit.com/r/PakistaniTech/comments/1xdylw1/google_one_ai_pro_subscription_disappeared/",
+        "published": "2026-10-24T03:55:17+00:00",
+        "score": 1,
         "comments": 0
       }
     ],
     "hackernews": [
       {
-        "title": "Show HN: Free, unlimited, private AI text detector",
-        "url": "https://kouh.me/ai-text-detector",
+        "title": "Show HN: A map of outdoor gyms and pull-up bars",
+        "url": "https://openairworkout.com/",
         "points": 1,
         "comments": 0,
-        "published": "2026-10-23T21:06:46Z"
+        "published": "2026-10-24T03:42:02Z"
       },
       {
-        "title": "The attack chain behind the v1.107.0 LiteLLM release",
-        "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain",
+        "title": "Show HN: Inference Cooperative, user-governed AI",
+        "url": "https://inference.coop/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-10-24T03:32:54Z"
+      },
+      {
+        "title": "CowAgent \u2013 Open-Source Super AI Assistant",
+        "url": "https://cowagent.ai/en/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-10-24T03:32:47Z"
+      },
+      {
+        "title": "Show HN: Web Bot Auth SDK and SSH Utilty",
+        "url": "https://messh.io",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-10-24T03:27:01Z"
+      },
+      {
+        "title": "EU Member States approve \"digital expropriation\" for AI companies",
+        "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
         "points": 2,
         "comments": 0,
-        "published": "2026-10-23T21:05:16Z"
+        "published": "2026-10-24T03:10:11Z"
       },
       {
-        "title": "AI gets about 10x cheaper every year",
-        "url": "https://stevekrouse.com/10x",
+        "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+        "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+        "points": 6,
+        "comments": 3,
+        "published": "2026-10-24T03:00:43Z"
+      },
+      {
+        "title": "Modular MAX 26.7 open on October 22 2026",
+        "url": "https://explainx.ai/blog/modular-max-source-available-26-7-graph-compiler-runtime-max-license-claimed-vs-verified-2026",
         "points": 1,
         "comments": 0,
-        "published": "2026-10-23T21:04:14Z"
+        "published": "2026-10-24T02:54:50Z"
       },
       {
-        "title": "Investigating the PingCAP Security Incident",
-        "url": "https://nebusec.ai/research/pingcap-security-incident/",
+        "title": "OpenAI disables internet access during model training",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+        "points": 1,
+        "comments": 2,
+        "published": "2026-10-24T02:40:53Z"
+      },
+      {
+        "title": "DeepSeek Just Shook the AI Industry Again [video]",
+        "url": "https://www.youtube.com/watch?v=YX6QdIYVSgY",
         "points": 1,
         "comments": 0,
-        "published": "2026-10-23T21:02:27Z"
+        "published": "2026-10-24T01:42:44Z"
       },
       {
-        "title": "Please Don't Let an AI Bot Log into Your Bank Account",
-        "url": "https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-10-23T21:01:25Z"
-      },
-      {
-        "title": "The Reason AI Can't Take Your Job [video]",
-        "url": "https://www.youtube.com/watch?v=1-NXfnVeDfw",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-10-23T21:00:20Z"
-      },
-      {
-        "title": "The one time we break the LLM cache on purpose",
-        "url": "https://www.induction.ai/blog/benchmark-cache-isolation",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-10-23T20:41:58Z"
-      },
-      {
-        "title": "What are some free AI education platforms to learn AI? [video]",
-        "url": "https://www.youtube.com/watch?v=4iTqvHrzzAw",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-10-23T20:33:10Z"
-      },
-      {
-        "title": "Kimi K3.1 Pro puts open-source AI a month behind the best",
-        "url": "https://www.modelcompare.ai/blog/china-open-source-ai",
-        "points": 8,
-        "comments": 0,
-        "published": "2026-10-23T20:15:27Z"
-      },
-      {
-        "title": "AI Coding Agent Security Benchmark",
-        "url": "https://www.endorlabs.com/research/ai-code-security-benchmark",
-        "points": 1,
-        "comments": 1,
-        "published": "2026-10-23T20:08:49Z"
-      },
-      {
-        "title": "Open Source Is Dead and I Killed It",
-        "url": "https://espresso.ai/post/self-hosted-grafana",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-10-23T20:01:25Z"
-      },
-      {
-        "title": "The \"AI-Last\" Methodology",
-        "url": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology/",
+        "title": "The anti-AI writing police are everywhere. What are they looking for?",
+        "url": "https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec",
         "points": 3,
-        "comments": 0,
-        "published": "2026-10-23T20:00:24Z"
+        "comments": 1,
+        "published": "2026-10-24T01:31:06Z"
       },
       {
-        "title": "Where the last RTX 5090 Video Cards are Going",
-        "url": "https://videocardz.com/newz/heres-where-the-last-rtx-5090-cards-are-going-massive-ai-conversion-factory-exposed-in-china-founders-edition-included",
-        "points": 4,
+        "title": "Google's Frontier Imperative, Compute Scarcity Dilemmas and the Future of AI",
+        "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
+        "points": 1,
         "comments": 0,
-        "published": "2026-10-23T19:35:50Z"
+        "published": "2026-10-24T01:25:47Z"
       },
       {
-        "title": "Show HN: Argus \u2013 Run AI agents unattended on a VPS, controlled from Web & Tlgrm",
-        "url": "https://github.com/rla-labs/argus",
+        "title": "I built rooms for AI agents to work together",
+        "url": "https://bellman.sh/r/blog/p001-hello-front-desk",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-10-24T01:11:45Z"
+      },
+      {
+        "title": "In the world AI, will individual apps become obsolete?",
+        "url": "https://news.ycombinator.com/item?id=50217244",
+        "points": 1,
+        "comments": 6,
+        "published": "2026-10-24T00:38:08Z"
+      },
+      {
+        "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+        "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+        "points": 10,
+        "comments": 0,
+        "published": "2026-10-24T00:32:17Z"
+      },
+      {
+        "title": "NadY: Photo-based calorie and macro tracker for iOS",
+        "url": "https://apps.apple.com/us/app/nady-ai-calorie-photo-track/id6740164035",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-10-24T00:27:18Z"
+      },
+      {
+        "title": "Algernon \u2013 A B2B compliance and security oracle for AI agents on Base via x402",
+        "url": "https://github.com/tobiaslofton/algernon-x402-oracle",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-10-24T00:26:14Z"
+      },
+      {
+        "title": "The Factory in Phoenix That Could Save American Manufacturing",
+        "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
         "points": 1,
         "comments": 1,
-        "published": "2026-10-23T19:33:30Z"
+        "published": "2026-10-23T23:56:04Z"
       },
       {
-        "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-        "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
-        "points": 13,
-        "comments": 5,
-        "published": "2026-10-23T19:31:36Z"
+        "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+        "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-10-23T23:46:43Z"
       },
       {
-        "title": "The long-overlooked performance cost in document parsing:Reading Order",
-        "url": "https://somark.ai/blogs/the-long-overlooked-performance-cost-in-document-parsing-reading-order",
+        "title": "Why AIs Can't Read?",
+        "url": "https://blog.vladi.dev/en/articles/por-que-ias-nao-podem-ler.html",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-10-23T23:42:06Z"
+      },
+      {
+        "title": "Soma \u2013 memory and proofs for AI agents, measured not asserted",
+        "url": "https://github.com/mrpkk/soma-protocol",
         "points": 1,
         "comments": 0,
-        "published": "2026-10-23T19:21:25Z"
-      },
-      {
-        "title": "The runbook is out of date and the code shipped an hour ago",
-        "url": "https://sourcegraph.com/blog/sre-runbooks-ai-driven-development",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-10-23T19:04:48Z"
-      },
-      {
-        "title": "Show HN: Instant \u2013 Local AI search with a 95% hit rate (uses Perplexity models)",
-        "url": "https://useinstantsearch.com/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-10-23T18:52:34Z"
-      },
-      {
-        "title": "Show HN: The cost of slop. Subscription-adjusted",
-        "url": "https://slopsidy.com/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-10-23T18:45:00Z"
-      },
-      {
-        "title": "Show HN: Lcc \u2013 compact Claude Code sessions without summarizing them",
-        "url": "https://github.com/lucasmartins-ai/lcc",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-10-23T18:44:04Z"
+        "published": "2026-10-23T23:31:45Z"
       }
     ],
     "github_repos": [
@@ -306,15 +306,15 @@
         "name": "openclaw/openclaw",
         "url": "https://github.com/openclaw/openclaw",
         "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
-        "stars": 392875,
+        "stars": 392891,
         "language": "TypeScript",
-        "pushed_at": "2026-10-23T21:10:02Z"
+        "pushed_at": "2026-10-24T04:00:04Z"
       },
       {
         "name": "obra/superpowers",
         "url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 304202,
+        "stars": 304291,
         "language": "Shell",
         "pushed_at": "2026-10-23T03:48:57Z"
       },
@@ -322,39 +322,39 @@
         "name": "NousResearch/hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stars": 256513,
+        "stars": 256565,
         "language": "Python",
-        "pushed_at": "2026-10-23T21:05:56Z"
+        "pushed_at": "2026-10-24T03:36:31Z"
       },
       {
         "name": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 208402,
+        "stars": 208433,
         "language": "TypeScript",
-        "pushed_at": "2026-10-23T20:47:40Z"
+        "pushed_at": "2026-10-23T22:41:59Z"
       },
       {
         "name": "firecrawl/firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
         "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. \ud83d\udd25",
-        "stars": 194648,
+        "stars": 194726,
         "language": "TypeScript",
-        "pushed_at": "2026-10-23T18:05:24Z"
+        "pushed_at": "2026-10-24T00:43:34Z"
       },
       {
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "stars": 187716,
+        "stars": 187724,
         "language": "Python",
-        "pushed_at": "2026-10-23T21:07:42Z"
+        "pushed_at": "2026-10-24T04:00:11Z"
       },
       {
         "name": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 174733,
+        "stars": 174883,
         "language": "JavaScript",
         "pushed_at": "2026-10-18T01:55:14Z"
       },
@@ -362,15 +362,15 @@
         "name": "f/prompts.chat",
         "url": "https://github.com/f/prompts.chat",
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-        "stars": 174230,
+        "stars": 174274,
         "language": "HTML",
-        "pushed_at": "2026-10-23T03:17:31Z"
+        "pushed_at": "2026-10-24T03:16:19Z"
       },
       {
         "name": "msitarzewski/agency-agents",
         "url": "https://github.com/msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stars": 163497,
+        "stars": 163537,
         "language": "Shell",
         "pushed_at": "2026-10-19T16:48:24Z"
       },
@@ -378,39 +378,39 @@
         "name": "langgenius/dify",
         "url": "https://github.com/langgenius/dify",
         "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-        "stars": 159370,
+        "stars": 159387,
         "language": "Python",
-        "pushed_at": "2026-10-23T17:26:50Z"
+        "pushed_at": "2026-10-24T04:00:07Z"
       },
       {
         "name": "open-webui/open-webui",
         "url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stars": 156577,
+        "stars": 156597,
         "language": "Python",
-        "pushed_at": "2026-10-23T21:05:51Z"
+        "pushed_at": "2026-10-24T03:32:27Z"
       },
       {
         "name": "langflow-ai/langflow",
         "url": "https://github.com/langflow-ai/langflow",
         "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": 155969,
+        "stars": 155970,
         "language": "Python",
-        "pushed_at": "2026-10-23T21:01:10Z"
+        "pushed_at": "2026-10-24T03:59:56Z"
       },
       {
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
         "description": "The agent engineering platform.",
-        "stars": 148327,
+        "stars": 148342,
         "language": "Python",
-        "pushed_at": "2026-10-23T19:05:22Z"
+        "pushed_at": "2026-10-24T01:56:18Z"
       },
       {
         "name": "Shubhamsaboo/awesome-llm-apps",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-        "stars": 142815,
+        "stars": 142834,
         "language": "Python",
         "pushed_at": "2026-10-22T19:10:10Z"
       },
@@ -418,7 +418,7 @@
         "name": "github/spec-kit",
         "url": "https://github.com/github/spec-kit",
         "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
-        "stars": 142584,
+        "stars": 142616,
         "language": "Python",
         "pushed_at": "2026-10-23T18:16:37Z"
       },
@@ -426,15 +426,15 @@
         "name": "Comfy-Org/ComfyUI",
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "stars": 142320,
+        "stars": 142390,
         "language": "Python",
-        "pushed_at": "2026-10-23T20:47:14Z"
+        "pushed_at": "2026-10-24T02:43:06Z"
       },
       {
         "name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "stars": 139404,
+        "stars": 139489,
         "language": "Python",
         "pushed_at": "2026-10-23T10:06:31Z"
       },
@@ -442,15 +442,15 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
         "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "stars": 134553,
+        "stars": 134610,
         "language": "Python",
-        "pushed_at": "2026-10-23T09:41:20Z"
+        "pushed_at": "2026-10-24T00:15:33Z"
       },
       {
         "name": "shadcn-ui/ui",
         "url": "https://github.com/shadcn-ui/ui",
         "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
-        "stars": 126351,
+        "stars": 126379,
         "language": "TypeScript",
         "pushed_at": "2026-10-23T20:25:14Z"
       },
@@ -458,9 +458,9 @@
         "name": "microsoft/generative-ai-for-beginners",
         "url": "https://github.com/microsoft/generative-ai-for-beginners",
         "description": "21 Lessons, Get Started Building with Generative AI ",
-        "stars": 122012,
+        "stars": 122025,
         "language": "Jupyter Notebook",
-        "pushed_at": "2026-10-23T17:10:38Z"
+        "pushed_at": "2026-10-24T03:40:10Z"
       }
     ],
     "youtube": [],
@@ -468,8 +468,8 @@
       {
         "title": "Will Anthropic have the best AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october",
-        "price": "[\"0.105\", \"0.895\"]",
-        "volume": "718454.5240849997"
+        "price": "[\"0.1\", \"0.9\"]",
+        "volume": "720189.3559059997"
       },
       {
         "title": "Will Meta have the best AI model at the end of October 2026?",
@@ -480,8 +480,8 @@
       {
         "title": "Will Google have the best AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october",
-        "price": "[\"0.8665\", \"0.1335\"]",
-        "volume": "746329.011305"
+        "price": "[\"0.877\", \"0.123\"]",
+        "volume": "749894.4285340001"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of October 2026?",
@@ -492,14 +492,14 @@
       {
         "title": "Will Moonshot have the best AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october",
-        "price": "[\"0.0065\", \"0.9935\"]",
-        "volume": "174350.227499"
+        "price": "[\"0.0055\", \"0.9945\"]",
+        "volume": "174370.22749899997"
       },
       {
         "title": "Will OpenAI have the best AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october",
         "price": "[\"0.007\", \"0.993\"]",
-        "volume": "424336.3756589999"
+        "volume": "424343.3756589999"
       },
       {
         "title": "Will Baidu have the best AI model at the end of October 2026?",
@@ -661,55 +661,55 @@
         "title": "Will Google have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.405\", \"0.595\"]",
-        "volume": "359989.908124"
+        "volume": "360546.843738"
       },
       {
         "title": "Will Anthropic have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.495\", \"0.505\"]",
-        "volume": "406665.998735"
+        "volume": "407184.56873500004"
       },
       {
         "title": "Will OpenAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0585\", \"0.9415\"]",
-        "volume": "235281.10375300003"
+        "price": "[\"0.0595\", \"0.9405\"]",
+        "volume": "235331.21375300002"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0045\", \"0.9955\"]",
-        "volume": "170033.63839100004"
+        "price": "[\"0.0085\", \"0.9915\"]",
+        "volume": "175258.06839100007"
       },
       {
         "title": "Will Z.ai have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "153944.929282"
+        "volume": "154344.929282"
       },
       {
         "title": "Will xAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0105\", \"0.9895\"]",
-        "volume": "188321.399541"
+        "price": "[\"0.01\", \"0.99\"]",
+        "volume": "188395.059541"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "172273.924588"
+        "volume": "172314.586254"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "185184.37800399994"
+        "price": "[\"0.006\", \"0.994\"]",
+        "volume": "185184.37800399997"
       },
       {
         "title": "Will Mistral have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "213196.47206400006"
+        "volume": "213596.47206400006"
       },
       {
         "title": "Will Meituan have the best AI model at the end of December 2026?",
@@ -721,19 +721,19 @@
         "title": "Will Microsoft have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "136273.851128"
+        "volume": "136673.851128"
       },
       {
         "title": "Will Meta have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0145\", \"0.9855\"]",
+        "price": "[\"0.0125\", \"0.9875\"]",
         "volume": "209573.88944199996"
       },
       {
         "title": "Will Amazon have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "145686.172649"
+        "volume": "146136.417649"
       },
       {
         "title": "Will Baidu have the best AI model at the end of December 2026?",
@@ -745,7 +745,7 @@
         "title": "Will ByteDance have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "136037.55729500004"
+        "volume": "136037.557295"
       },
       {
         "title": "Will Company A have the best AI model at the end of December 2026?",
@@ -816,50 +816,50 @@
       {
         "title": "Will Alibaba have the best Chinese AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.075\", \"0.925\"]",
-        "volume": "68375.74305699999"
+        "price": "[\"0.085\", \"0.915\"]",
+        "volume": "69536.37585699999"
       },
       {
         "title": "Will Moonshot have the best Chinese AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.365\", \"0.635\"]",
-        "volume": "54671.29593"
+        "price": "[\"0.305\", \"0.695\"]",
+        "volume": "57078.554631"
       },
       {
         "title": "Will Baidu have the best Chinese AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.004\", \"0.996\"]",
-        "volume": "16174.756827999998"
+        "price": "[\"0.0035\", \"0.9965\"]",
+        "volume": "16755.011494"
       },
       {
         "title": "Will Z.ai have the best Chinese AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.0135\", \"0.9865\"]",
-        "volume": "25745.122868000002"
+        "price": "[\"0.012\", \"0.988\"]",
+        "volume": "26340.729068"
       },
       {
         "title": "Will Xiaomi have the best Chinese AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5165\", \"0.4835\"]",
-        "volume": "41805.313041"
+        "price": "[\"0.5985\", \"0.4015\"]",
+        "volume": "44281.034222"
       },
       {
         "title": "Will DeepSeek have the best Chinese AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.0065\", \"0.9935\"]",
-        "volume": "18066.123575"
+        "price": "[\"0.005\", \"0.995\"]",
+        "volume": "18586.457575"
       },
       {
         "title": "Will ByteDance have the best Chinese AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
-        "price": "[\"0.004\", \"0.996\"]",
-        "volume": "17812.019997000003"
+        "price": "[\"0.003\", \"0.997\"]",
+        "volume": "18392.270496999998"
       },
       {
         "title": "Will MiniMax have the best Chinese AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
         "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "19902.044484000002"
+        "volume": "20482.299150000003"
       },
       {
         "title": "Will Meituan have the best Chinese AI model at the end of October 2026?",
@@ -871,7 +871,7 @@
         "title": "Will Tencent have the best Chinese AI model at the end of October 2026?",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-october",
         "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "14453.939841"
+        "volume": "15034.194507"
       },
       {
         "title": "Will StepFun have the best Chinese AI model at the end of October 2026?",
@@ -964,831 +964,514 @@
         "volume": "0"
       },
       {
-        "title": "Will Alibaba be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.2\", \"0.8\"]",
-        "volume": "16219.385683"
+        "title": "Will Anthropic have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.375\", \"0.625\"]",
+        "volume": "71160.21244199999"
       },
       {
-        "title": "Will Moonshot be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.226\", \"0.774\"]",
-        "volume": "23346.126141"
+        "title": "Will Meta have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.009\", \"0.991\"]",
+        "volume": "30576.093885000002"
       },
       {
-        "title": "Will Baidu be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.0245\", \"0.9755\"]",
-        "volume": "2970.463282"
+        "title": "Will Google have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.55\", \"0.45\"]",
+        "volume": "75507.402485"
       },
       {
-        "title": "Will Z.ai be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.05\", \"0.95\"]",
-        "volume": "9013.857661"
+        "title": "Will Alibaba have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.004\", \"0.996\"]",
+        "volume": "21254.797998000002"
       },
       {
-        "title": "Will Xiaomi be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.3885\", \"0.6115\"]",
-        "volume": "7444.584024"
+        "title": "Will Moonshot have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0035\", \"0.9965\"]",
+        "volume": "24967.019658000005"
       },
       {
-        "title": "Will DeepSeek be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.042\", \"0.958\"]",
-        "volume": "2184.8627079999997"
+        "title": "Will OpenAI have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0255\", \"0.9745\"]",
+        "volume": "28840.864702"
       },
       {
-        "title": "Will ByteDance be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.0225\", \"0.9775\"]",
-        "volume": "2247.081708"
-      },
-      {
-        "title": "Will MiniMax be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.032\", \"0.968\"]",
-        "volume": "3439.073208"
-      },
-      {
-        "title": "Will Meituan be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
+        "title": "Will Baidu have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "1281.656"
+        "volume": "5527.304115999998"
       },
       {
-        "title": "Will Tencent be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.066\", \"0.934\"]",
-        "volume": "1940.176644"
+        "title": "Will Z.ai have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.004\", \"0.996\"]",
+        "volume": "22408.435297000004"
       },
       {
-        "title": "Will StepFun be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
+        "title": "Will Xiaomi have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.002\", \"0.998\"]",
-        "volume": "2488.1932380000003"
+        "volume": "20154.83595"
       },
       {
-        "title": "Will any other company be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
+        "title": "Will SpaceXAI have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.004\", \"0.996\"]",
+        "volume": "27870.072523999996"
       },
       {
-        "title": "Will Company A be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company B be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company C be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company D be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company E be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company F be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company G be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company H be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company I be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company J be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company K be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company L be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company M be the second-best Chinese AI company at the end of October 2026?",
-        "url": "https://polymarket.com/event/second-best-chinese-ai-company-end-of-october",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Anthropic be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.01\", \"0.99\"]",
-        "volume": "2905.264309"
-      },
-      {
-        "title": "Will Google be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.022\", \"0.978\"]",
-        "volume": "14500.637115"
-      },
-      {
-        "title": "Will SpaceXAI be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "2697.041232"
-      },
-      {
-        "title": "Will Alibaba be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.0345\", \"0.9655\"]",
-        "volume": "13580.652408999998"
-      },
-      {
-        "title": "Will OpenAI be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.036\", \"0.964\"]",
-        "volume": "7177.238916"
-      },
-      {
-        "title": "Will Baidu be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "2986.620481"
-      },
-      {
-        "title": "Will Z.ai be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.104\", \"0.896\"]",
-        "volume": "11473.467160999999"
-      },
-      {
-        "title": "Will Xiaomi be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.07\", \"0.93\"]",
-        "volume": "3291.921865"
-      },
-      {
-        "title": "Will Moonshot be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.0705\", \"0.9295\"]",
-        "volume": "3263.445433"
-      },
-      {
-        "title": "Will Meta be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.589\", \"0.411\"]",
-        "volume": "6578.274548"
-      },
-      {
-        "title": "Will Nvidia be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "2294.571063"
-      },
-      {
-        "title": "Will DeepSeek be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.003\", \"0.997\"]",
-        "volume": "2175.656796"
-      },
-      {
-        "title": "Will MiniMax be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.003\", \"0.997\"]",
-        "volume": "2147.300577"
-      },
-      {
-        "title": "Will Meituan be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "2605.471171"
-      },
-      {
-        "title": "Will Amazon be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will DeepSeek have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "1558.1868399999998"
+        "volume": "44065.59287400001"
       },
       {
-        "title": "Will Bytedance be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "3003.7455769999997"
+        "title": "Will Amazon have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "2269.7210999999998"
       },
       {
-        "title": "Will Mistral be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.005\", \"0.995\"]",
-        "volume": "1488.5902499999997"
+        "title": "Will ByteDance have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "5446.3121"
       },
       {
-        "title": "Will Tencent be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.028\", \"0.972\"]",
-        "volume": "2972.52056"
+        "title": "Will Nvidia have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "1050.189071"
       },
       {
-        "title": "Will StepFun be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "1614.2746659999998"
+        "title": "Will Thinky have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "1886.3609999999999"
       },
       {
-        "title": "Will Microsoft be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
-        "price": "[\"0.0745\", \"0.9255\"]",
-        "volume": "3357.16"
+        "title": "Will MiniMax have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "2516.951"
       },
       {
-        "title": "Will any other AI lab/company be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Mistral have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "2342.8091000000004"
+      },
+      {
+        "title": "Will Meituan have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "3966.936999999999"
+      },
+      {
+        "title": "Will Tencent have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "3505.9375"
+      },
+      {
+        "title": "Will StepFun have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "2448.1707159999996"
+      },
+      {
+        "title": "Will Microsoft have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "3212.1781"
+      },
+      {
+        "title": "Will any other company have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company A be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company A have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company B be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company B have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company C be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company C have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company D be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company D have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company E be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company E have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company F be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company F have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company G be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company G have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company H be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company H have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company I be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company I have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company J be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company J have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company K be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company K have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company L be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company L have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company M be the third-best Math AI lab at the end of October 2026?",
-        "url": "https://polymarket.com/event/third-best-text-arena-math-ai-lab-end-of-october",
+        "title": "Will Company M have the best AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Anthropic have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.911\", \"0.089\"]",
+        "volume": "27838.627705999996"
+      },
+      {
+        "title": "Will Meta have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0045\", \"0.9955\"]",
+        "volume": "2159.9608"
+      },
+      {
+        "title": "Will Google have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.002\", \"0.998\"]",
+        "volume": "3885.364304"
+      },
+      {
+        "title": "Will Alibaba have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "551.86"
+      },
+      {
+        "title": "Will Moonshot have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.002\", \"0.998\"]",
+        "volume": "1116.9099999999999"
+      },
+      {
+        "title": "Will OpenAI have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.044\", \"0.956\"]",
+        "volume": "7790.111841999999"
+      },
+      {
+        "title": "Will Baidu have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0015\", \"0.9985\"]",
+        "volume": "799.9599999999999"
+      },
+      {
+        "title": "Will Z.ai have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "495.73999999999995"
+      },
+      {
+        "title": "Will Xiaomi have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "921.4199999999998"
+      },
+      {
+        "title": "Will SpaceXAI have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0015\", \"0.9985\"]",
+        "volume": "562.82"
+      },
+      {
+        "title": "Will DeepSeek have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0045\", \"0.9955\"]",
+        "volume": "941.8799999999999"
+      },
+      {
+        "title": "Will Amazon have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "888.07"
+      },
+      {
+        "title": "Will ByteDance have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0015\", \"0.9985\"]",
+        "volume": "663.4100000000001"
+      },
+      {
+        "title": "Will Nvidia have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.001\", \"0.999\"]",
+        "volume": "901.49"
+      },
+      {
+        "title": "Will Thinky have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.001\", \"0.999\"]",
+        "volume": "636.3199999999999"
+      },
+      {
+        "title": "Will MiniMax have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "482.4"
+      },
+      {
+        "title": "Will Mistral have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "495.44"
+      },
+      {
+        "title": "Will Meituan have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "490.96"
+      },
+      {
+        "title": "Will Tencent have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "775.2000000000002"
+      },
+      {
+        "title": "Will StepFun have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0015\", \"0.9985\"]",
+        "volume": "559.48"
+      },
+      {
+        "title": "Will Microsoft have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "477.43"
+      },
+      {
+        "title": "Will Company A have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company B have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company C have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company D have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company E have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company F have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company G have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company H have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company I have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company K have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will any other company have the best AI model on LiveBench (Overall) at the end of October 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-overall-end-of-october",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       }
     ],
-    "arxiv": [
-      {
-        "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-        "url": "http://arxiv.org/abs/2610.31670v1",
-        "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of physical motion? To examine this, we propose Sensorimotor Alignment ($S^2$), a training-free offline metric that measures how well a model's sensory representation aligns with the geometry of physical motion. We find that $S^2$ correlates positively with downstream robot task success across embodied model families, making it a low-cost offline proxy for prioritizing models before closed-loop evaluation. $S^2$ can also identify promising vision-language model (VLM) backbones even before costly fine-tuning into vision-language-action models (VLAs). Beyond this correlation, $S^2$ offers representation-level explanations for phenomena observed in VLAs and world action models (WAMs). With $S^2$, we extend PRH to embodied models and make sensorimotor alignment empirically measurable, offering insight into why an embodied model succeeds beyond its closed-loop success rate.",
-        "authors": [
-          "Yunfei Xie",
-          "Howard H. Qian",
-          "Shiyi Lan",
-          "Kaiyu Hang",
-          "Chen Wei"
-        ],
-        "published": "2026-10-22T17:59:51Z"
-      },
-      {
-        "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-        "url": "http://arxiv.org/abs/2610.31667v1",
-        "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies divide broadly into two categories: Quality-based methods assign a score to each partial solution and discard those predicted to ultimately lead to an incorrect final solution, while diversity-based methods select partial solutions that follow different reasoning trajectories and are therefore likely to cover different final solutions. The tension between these two objectives is an instance of exploration versus exploitation, yet little to no prior work on pruning exposes this trade-off directly, let alone optimizes it. In this paper, we introduce a pruning procedure that addresses this trade-off directly by optimizing pass@$k$ over the selected solution pool. In particular, it chooses the pool to maximize the probability that at least one of its partial solutions, when continued to completion, yields a correct answer. Because this objective simultaneously rewards high-quality partial solutions and penalizes redundancy among them, quality and diversity are naturally balanced by the criterion itself rather than through separate ad-hoc design choices. On eight open-weight reasoning models, our method outperforms existing quality-based and diversity-based pruning strategies. The gains are particularly pronounced when the pruning procedure keeps a moderate number of partial solutions for continued generation, highlighting the value of directly balancing quality and diversity during pruning.",
-        "authors": [
-          "Mahdi Salmani",
-          "Adel Javanmard",
-          "Devansh Gupta",
-          "Meisam Razaviyayn"
-        ],
-        "published": "2026-10-22T17:59:48Z"
-      },
-      {
-        "title": "Phase Transition from Random Features to Fully Trainable Networks",
-        "url": "http://arxiv.org/abs/2610.31663v1",
-        "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and observes analogous behavior in training errors: a rapid but smooth initial improvement followed by diminishing returns, with a sharper transition under greater initialization mismatch. Under polynomial spectral decay with exponent $\u03b1>1$ and leverage compatibility, we establish a squared $L_2$ approximation rate $\\mathcal{O}((\u03ba_P\\log(m/\u03b4)/m)^\u03b1)$ for two-layer networks of width $m$ and trainable proportion $P$, where $\u03ba_P=(P/\u03ba_1^*+(1-P)/\u03ba_0^*)^{-1}$. The bound holds uniformly over the unit ball of a reproducing kernel Hilbert space (RKHS) with probability at least $1-\u03b4$. The constants $\u03ba_0^*$ and $\u03ba_1^*$ quantify the fixed and trainable groups' sampling mismatches relative to the target RKHS. For spherical biased-ReLU features in dimension $d$, we verify these assumptions with $\u03b1=(d+2)/(d-1)$ and $\u03ba_0^*=4\\sqrt{2}\u03c4(d+1)/d$ for initialization scale $\u03c4\\ge1$, and $\u03ba_1^*=1$ under ridge leverage sampling. For $d=5$ and $\u03c4=10$, a trainable proportion of approximately $4.1\\%$ captures $90\\%$ of the reduction in the approximation bound from $P=0$ to $P=1$. A structured three-layer example illustrates how a few trainable first-layer neurons exploit fixed downstream blocks through nonlinear composition. Numerical experiments across diverse settings, including networks with up to 15 layers, exhibit similar phase transitions in training errors.",
-        "authors": [
-          "Xin He",
-          "Huan Lao",
-          "Xiliang Lu",
-          "Shijun Zhang"
-        ],
-        "published": "2026-10-22T17:59:29Z"
-      },
-      {
-        "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-        "url": "http://arxiv.org/abs/2610.31662v1",
-        "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent may propose a decision, while a separate verifier agent evaluates it and outputs a correctness or safety score. Based on this information, we must decide whether to accept the AI decision automatically or consult an expert, such as a human auditor, who reviews the proposal and either accepts or corrects it. We formulate this task as an online constrained optimization problem in which the goal is to minimize the frequency of expert auditing while guaranteeing that the fraction of AI errors that go unaudited stays below a user-defined threshold. We derive a family of algorithms with provable error-control guarantees with no assumptions, including a method that is optimally efficient: it asymptotically attains the best achievable auditing rate for both adversarial and i.i.d. data streams. Experiments on screening harmful requests to large language models, qualitative text annotation, and data labeling show that our methods achieve valid error control in practice while substantially reducing the need for human auditing compared to baselines.",
-        "authors": [
-          "Isaac Gibbs",
-          "Elise L. Han",
-          "Ryan J. Tibshirani",
-          "Tijana Zrnic"
-        ],
-        "published": "2026-10-22T17:59:22Z"
-      },
-      {
-        "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
-        "url": "http://arxiv.org/abs/2610.31659v1",
-        "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before release, then later checks whether that signal appears in a suspect model's generated outputs. Existing approaches often trade off verifiability, fidelity, robustness, and deployability. We introduce $\\textbf{SpectralCanary}$, which uses a smooth low-pass mask to blend a fixed canary image into every collection image while leaving captions unchanged and requiring neither auxiliary generation nor per-image optimization. A lightweight verifier detects the transferred signal in suspect-model outputs. Across eight tests on the Pokemon dataset and three realistic data transformations, spanning two architectures families, SpectralCanary achieves the highest average per-generation TPR@$1\\%$ FPR ($91.1\\%$) and fixed threshold model-level accuracy using 30 generations ($94.8\\%$) among the evaluated methods. Across five datasets spanning artistic, medical, satellite, and fashion domains with SD3.5, SpectralCanary averages $92.4\\%$ per-generation TPR@$1\\%$ FPR while preserving the released images (SSIM $0.989$, LPIPS $0.022$) with a near-zero mean change FID (mean $\u0394$FID $0.05$) across datasets. Matched-energy ablations on Pokemon and ROCOv2 support our design choice, low-frequency placement transfers more reliably compared to mid/high-frequency placement. Under the evaluated adaptive attacks, the most effective removal requires aggressive modification and incurs more than $25$ $\u0394$FID points. These results identify low-frequency visual signals as effective carriers for collection-level T2I audit traces.",
-        "authors": [
-          "Sy-Tuyen Ho",
-          "Anirudh Satheesh",
-          "Soham Chawathe",
-          "Huy Nghiem",
-          "Yongkyun Lee",
-          "Andrew Adams Schoen",
-          "Furong Huang"
-        ],
-        "published": "2026-10-22T17:59:03Z"
-      },
-      {
-        "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-        "url": "http://arxiv.org/abs/2610.31657v1",
-        "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a public 47,837-ticket, eight-class corpus, we compare four trained non-LLM classifiers with four large language models under zero- and few-shot prompting. Under the illustrative cost model (c_ok, c_triage, c_wrong) = (0, 1, 5), TF-IDF with logistic regression and a threshold of 0.60 selected on calibration reduces test cost from 0.763 to 0.472, a 38.1% relative reduction (paired ratio-bootstrap 95% CI [35.7%, 40.4%]), while lowering wrong routes from 15.3% to 3.5%. Frozen calibration-selected policies also beat both always-route and always-defer on held-out test data in 14 of 16 settings in a post-hoc cost-parameter analysis. The strongest prompted configuration reaches 0.477 accuracy on a stratified 1,000-ticket test subset, versus 0.879 for fine-tuned DistilBERT on the same tickets. Isotonic lowers expected calibration error without reliably improving discrimination: GPT-4o-mini few-shot has one confidence value before and after recalibration and correctness AUROC 0.500. We therefore report correctness AUROC and tie-aware risk-coverage area alongside ECE. At the analytically derived break-even probability 0.80, seven prompted configurations defer all tickets; Haiku few-shot routes only 19/1,000. An LLM-only agreement control and margin/entropy rejection baselines further separate calibration from discrimination. The findings are scoped to this dataset, prompt design, model endpoints, and illustrative costs; the work is an evaluation framework, not a new abstention algorithm or universal deployment certification.",
-        "authors": [
-          "Sachin Gupta"
-        ],
-        "published": "2026-10-22T17:58:52Z"
-      },
-      {
-        "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
-        "url": "http://arxiv.org/abs/2610.31656v1",
-        "summary": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from past trajectories at quadratic memory and computation cost. In this work, we propose Memory-Enhanced Test-Time Adaptation (METTA) for meta-reinforcement learning. It decomposes the fast adaptation phase into two temporal scales: a causal neural memory performs fine-grained within-episode adaptation with linear sequence complexity, while compact episode-level summaries support long-range cross-episode task inference without attending over the full interaction history. Moreover, equipping agents with neural memory provides sufficient expressive capacity and test-time training capability, enabling effective adaptation to unseen held-out tasks and task families at meta-test time. On unseen held-out Meta-World ML10/45 test environments, METTA achieves a success rate over $50\\%$ while maintaining a low training budget and short wall-clock time. On long-context sparse-reward PointMaze tasks, it outperforms transformer-based baselines by exhibiting more structured exploration behavior. These results show that METTA provides an efficient path toward more adaptive and scalable long-context meta-RL.",
-        "authors": [
-          "Ali Najar",
-          "Hosein Hasani",
-          "Amir Kooshan Fattah",
-          "Yasamin Rajabi",
-          "Mahdieh Soleymani Baghshah"
-        ],
-        "published": "2026-10-22T17:58:27Z"
-      },
-      {
-        "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
-        "url": "http://arxiv.org/abs/2610.31650v1",
-        "summary": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \\bench{}, an executable benchmark for evaluating unsafe execution, safety boundaries, and evidence recovery in LLM agents under missing evidence. It contains 300 matched unsafe/safe task pairs across six domains. By systematically suppressing critical facts, the benchmark measures unsafe execution under critical evidence omission and determines the minimum observed failure cardinality, including failures with full evidence and cases with no observed failure after exhaustive testing. An independent audit tool tests whether agents seek missing facts and then withhold prohibited actions while completing permissible tasks. The benchmark reveals substantial variation across the ten models in omission robustness, evidence acquisition, and appropriate action. Resistance to missing evidence does not necessarily translate into useful recovery. Recovery access reduces unsafe execution for all ten models, but agents differ in whether they actively obtain the missing facts and use them to act appropriately in both worlds.",
-        "authors": [
-          "Qijin Zhang",
-          "Hanzhen Wang",
-          "Yuehan Zhao",
-          "Haoyu Dai",
-          "Yao Shu",
-          "Zhongxiang Dai",
-          "Shuang Qiu"
-        ],
-        "published": "2026-10-22T17:57:04Z"
-      },
-      {
-        "title": "Low-Bit N-Gram Embeddings for Language Models",
-        "url": "http://arxiv.org/abs/2610.31646v1",
-        "summary": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive tokens, which the model retrieves during processing. However, they can require substantial memory: DeepSeek-V4.1-Flash, for example, allocates 196 billion parameters to its Engram n-gram memory. We therefore investigate whether this memory cost can be reduced while preserving the performance improvement that the tables provide. We propose storing n-gram embeddings at low precision and systematically investigate different quantization methods and bit allocations across tables. Across nanochat-, Llama-, and GPT-2-family models trained from scratch, four-bit tables save approximately 75% of table memory while preserving more than 99% of the validation-loss improvement from adding the tables. Using fewer bits leads to a larger drop in performance, although we find that a short fine-tuning phase recovers a significant part of this loss. In addition, reinvesting the saved memory in larger tables can improve performance beyond that of the original full-precision tables while still using less memory. These table memory savings also extend to large existing models: on DeepSeek-V4.1-Flash and Qwen3.8-Flash-Next, low-bit tables save 47-55% of table memory, with perplexity increases of less than 1.2% and largely preserved downstream task performance. These findings establish low-bit precision as a practical way to reduce the memory requirements of n-gram embeddings and use the saved capacity to improve model performance.",
-        "authors": [
-          "Stephen Chung",
-          "Wenyu Du"
-        ],
-        "published": "2026-10-22T17:56:13Z"
-      },
-      {
-        "title": "A Fix for Softmax and Cross-Entropy",
-        "url": "http://arxiv.org/abs/2610.31642v1",
-        "summary": "Standard implementations of softmax, log-softmax, and cross-entropy have two numerical bugs. The first bug, Softmax Collapse, rounds the target logit's gradient to zero if that one logit is much larger than the others, resulting in gradients that no longer sum to zero. The second bug, Softmax Cancellation, occurs when student logits are close to teacher logits, and produces non-zero gradients even when the student and teacher logits are equal. We present simple implementations of log-softmax, softmax, and cross-entropy that fix both bugs. Our fix eliminates the previously-observed \"Slingshot\" phenomenon, speeds up grokking with weight decay, prevents accuracy collapse without weight decay, stops student networks from drifting away from the teacher during distillation, and shows that after memorization, logit growth is bounded by an equilibrium between weight decay and Adam's $\u03b5$ hyperparameter.",
-        "authors": [
-          "Jonathan T. Barron",
-          "Dan Gnanapragasam",
-          "Michael Tschannen"
-        ],
-        "published": "2026-10-22T17:54:56Z"
-      },
-      {
-        "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
-        "url": "http://arxiv.org/abs/2610.31639v1",
-        "summary": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, dense attention allows each reasoning step to attend to the full context, enabling the model to derive answers through direct lookup while generating plausible-sounding but post-hoc justifications. We introduce CausalCoT, an inference framework that enforces causal transparency by decomposing problems into a directed acyclic graph of atomic sub-questions, evaluating each node in an isolated context containing only its direct causal parents. This Markovian structure removes attention pathways to non-parent content, making downstream predictions sensitive to local reasoning rather than global context leakage. Across a diverse suite of reasoning benchmarks, CausalCoT preserves competitive predictive performance while improving explanation faithfulness, increasing causal sensitivity of intermediate reasoning steps by an average of 12 and up to 21 percentage points over the strongest baseline. The structured dependency graph additionally enables test-time interventions in which local corrections propagate predictably through downstream reasoning.",
-        "authors": [
-          "Gabriele Dominici",
-          "Teague McMillan",
-          "Fazl Barez",
-          "Marc Langheinrich",
-          "Martin Gjoreski"
-        ],
-        "published": "2026-10-22T17:52:56Z"
-      },
-      {
-        "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
-        "url": "http://arxiv.org/abs/2610.31636v1",
-        "summary": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather than a classifier: a tool-using agent explores the corpus through a read-only, budgeted API and compiles each finding into an executable test, which a native speaker then validates. On the 26.5M-document Slovak portion of FineWeb2, three runs costing \\$2.21-\\$2.84 each found seven findings over four phenomena. The largest is a machine-generated content farm of 1,408,437 documents (5.32%) that passed the pipeline's filters, 86.6% of it passing even stricter thresholds. Blinded labels support 6 of the 7 findings (defect rates .53-1.00 against .08 in a random control) and do not support one. The compiled suite scans the full corpus in 0.7 s of wall-clock time without a GPU, against \\$12k-\\$90k per LLM classification pass. The best static sampling baseline validates more selectors than any agent run, at under half the cost. The agent contributes exact prevalence, a precision estimate checked against sampled documents, an account of why the pipeline missed each slice, and a reusable test. We release the framework, Slovak test suite, validation data and agent trajectories.",
-        "authors": [
-          "Marek \u0160uppa",
-          "Ivan Vykopal",
-          "Jaroslav Kop\u010dan"
-        ],
-        "published": "2026-10-22T17:52:22Z"
-      },
-      {
-        "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing",
-        "url": "http://arxiv.org/abs/2610.31633v1",
-        "summary": "Looped architectures scale quality while keeping parameter count fixed by repeatedly passing activations through the same block of layers. During inference, each recurrence generates independent KV-caches, causing memory to grow linearly. To address this challenge, prior work has proposed KV-sharing (i.e., sharing KV-caches across depth), finding that, in some cases, the KV-cache of the final recurrence can be shared with the earlier recurrences without quality loss, a property we denote as KV-shareability. However, the mechanisms underlying KV-shareability remain poorly understood, with even identically trained looped architectures not consistently exhibiting it. In this paper, we study how KV-shareability can be enabled in looped models. We propose a two-stage method: in the first stage, we use stochastic depth during pretraining, which induces contractive residual dynamics that drive representations toward a common limit across recurrences. In the second stage, we propose BeNice!, a post-training method that broadcasts the final recurrence's KV-cache into the first recurrence, training it to produce compatible residuals while preserving the original model's quality. As a result, BeNice! enables KV-shareability while matching standard finetuning's unshared validation perplexity. Using BeNice!, we show that KV-sharing is complementary to alternative KV-compression methods, composing with memory-efficient sequence mixers (e.g., multi-latent attention, Kimi delta attention) and low-precision KV-cache quantization (e.g., fp8, mxfp8, nvfp4). Finally, in simulated low-memory, long-context inference, KV-sharing improves cache hit rates by up to 31.4%, increases throughput by up to 23.6%, and reduces p90 time-to-first-token by up to 83.6%.",
-        "authors": [
-          "Hayden Prairie",
-          "Jacob M. Ryan",
-          "Taylor Berg-Kirkpatrick",
-          "Daniel Y. Fu"
-        ],
-        "published": "2026-10-22T17:49:44Z"
-      },
-      {
-        "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
-        "url": "http://arxiv.org/abs/2610.31624v1",
-        "summary": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the first stage of post-training that directly optimizes behavior against an objective; therefore, it is the stage where convergent instrumental behavior, on IC grounds, likely to appear. Does reinforcement learning with verifiable rewards (RLVR) make a model more likely to express instrumental-convergence behavior, or does this depend on the training regime, evaluation frame, and stage of post-training? We study this question as a checkpoint-conditioned behavioral trajectory rather than as a single before/after safety score. Using InstrumentalEval, we evaluate OLMo-3-7B-Think across SFT, DPO, 13 intermediate RLVR checkpoints, and the final RLVR model. The trajectory is nonmonotonic: instrumental rate rises from 25.0% at SFT to 46.1% near RLVR step 200, then falls to 11.8% at the final checkpoint. Paired item-level tests and step-wise regression support the final SFT-to-RLVR reduction. Prompt framing does not explain this pattern: a harmful-prompt indicator combined with other framing effects explains only 15% of within-checkpoint score variance on average, and Iterative Null-space Projection (INLP) removes a detectable framing direction without changing the SFT-to-final-RLVR gap. Together with preliminary 32B endpoint results (35.53% SFT to 22.37% RLVR final), these findings indicate that RLVR does not monotonically increase instrumental behavior in this setting: the rate rises early, then falls below the SFT baseline. The result is specific to this model family and benchmark, and judge agreement is moderate, so absolute rates should be read cautiously.",
-        "authors": [
-          "Bar\u0131\u015f Alparslan",
-          "Sandy Tanwisuth",
-          "Caleb Petterson"
-        ],
-        "published": "2026-10-22T17:44:41Z"
-      },
-      {
-        "title": "Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading",
-        "url": "http://arxiv.org/abs/2610.31620v1",
-        "summary": "While monolingual language model (LM) surprisal is widely established as a predictor of reading times, it cannot capture the non-native (L2) reading dynamics that are shaped by the reader's first language (L1). In this work, we investigate whether the cross-lingual transfer within bilingual models aligns with human L1-driven biases during L2 reading. We evaluate bilingual models on eye-tracking data of readers from 12 diverse L1 backgrounds reading English texts. To isolate L1-specific transfer, we compare bilingual models trained on an L1 that matches the readers' L1 background to both a monolingual English baseline and bilingual models trained on other L1s. We demonstrate that matching the readers' L1 improves the prediction of L2 reading times. This predictive advantage is concentrated in late-stage eye-tracking measures, modulated by L1-L2 script overlap, and peaks among intermediate-proficiency readers. These findings provide evidence that bilingual LMs capture aspects of cross-linguistic influence, and that such influence is present in L2 reading behavior.",
-        "authors": [
-          "Abderrahmane Issam",
-          "Irene E. Winther",
-          "Stefan L. Frank"
-        ],
-        "published": "2026-10-22T17:42:06Z"
-      },
-      {
-        "title": "OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation",
-        "url": "http://arxiv.org/abs/2610.31616v1",
-        "summary": "On-policy distillation has been widely adopted for alleviating the distribution mismatch of off-policy distillation. Self-distillation further removes the need for an external teacher by using the student's own outputs, enhanced with extra context or demonstrations, as supervision. This teacher-free design makes on-policy self-distillation practical, yet its privacy risks remain largely unexplored. In particular, using two coupled views of the same training example may strengthen its memorization. Motivated by this, we present the first study of membership inference attacks against on-policy self-distillation. We investigate both gray-box and black-box threat models and propose a unified attack framework, named OP-Print. OP-Print builds on our finding that the supervision imprint in on-policy self-distillation is sparse and structured, concentrating on uncertainty-sensitive correction sites rather than across the entire rollout. Exploiting this property, we construct attack signals tailored to the two access levels: in the gray-box setting, OP-Print directly aggregates the privileged teacher-student residual correction along the same rollout; in the black-box setting, it measures restart-based output-basin stability as an observable surrogate for the hidden correction process. Across diverse models and distillation schemes, all baseline attacks remain essentially at random guessing even under gray-box access, whereas OP-Print is broadly validated to be effective in both gray-box and black-box settings.",
-        "authors": [
-          "Qi Li",
-          "Xinchao Wang"
-        ],
-        "published": "2026-10-22T17:41:04Z"
-      },
-      {
-        "title": "Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy",
-        "url": "http://arxiv.org/abs/2610.31612v1",
-        "summary": "We study learning a discrete distribution under person-level differential privacy in the batched setting. Given $n$ users, each contributing $m$ i.i.d. samples from an unknown distribution $\u03bc$ over $[k]$, we seek an estimate of $\u03bc$ with total-variation error $\u03b1$. We give polynomial-time algorithms under both pure and approximate differential privacy. Under pure $(\\varepsilon,0)$-DP, we achieve $n = \\widetilde O(k/(\u03b1^2 m)+k/(\u03b1\\sqrt{m}\\varepsilon)+k/\\varepsilon)$, the first polynomial-time pure-DP guarantee matching the information-theoretic optimum up to logarithmic factors. Under approximate $(\\varepsilon,\u03b4)$-DP, we achieve $n = \\widetilde O(k/(\u03b1^2 m)+k/(\u03b1\\sqrt{m}\\varepsilon)+k+\\log(1/\u03b4)/\\varepsilon)$. At $\u03b4=2^{-\u0398(k)}$, this is $\\widetilde O(k)$ for fixed $\u03b1,\\varepsilon,m$ and failure probability. Our algorithms use a new degree-6 sum-of-squares estimator for learning from untrusted batches. Its key ingredient is a trace-bounded diagonal majorizer for the difference between the empirical covariance of the repaired batch averages and the multinomial covariance predicted by their mean. We prove that clean data admit this certificate through semidefinite-programming duality and a new application of the stronger symmetric form of Grothendieck's inequality due to Friedland and Lim. The certificate preserves the mean-dependent variance of multinomial batch averages, yielding the near-optimal robust rate $O(\u03b7\\sqrt{\\log(1/\u03b7)/m})$ and providing the score required by the privacy reduction. We also prove a statistical query lower bound ruling out a uniformly smaller order of error under fixed polynomial SQ resource bounds.",
-        "authors": [
-          "Gautam Kamath",
-          "Mahbod Majid",
-          "Ankur Moitra",
-          "Argyris Mouzakis",
-          "Jonathan Ullman"
-        ],
-        "published": "2026-10-22T17:40:13Z"
-      },
-      {
-        "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
-        "url": "http://arxiv.org/abs/2610.31606v1",
-        "summary": "Purpose: To describe an evidence-aware retrieval evaluation protocol for a clinical retrieval-augmented generation (RAG) system over breast lesion management literature, addressing the dependence of retrieval scores on annotation coverage. Methods: An 18-document corpus and an 18-query development benchmark, with one Yes/No or WH-question per document, were used. Retrieval combined dense embeddings, BM25, and cross-encoder reranking. Chunk sizes of 128 to 1024 tokens, overlaps of 0 to 20%, and four retriever configurations were evaluated. Relevance was defined by evidence spans mapped to all containing chunks, treating overlapping chunks with equivalent evidence as relevant. Retrieval was evaluated using R-Precision, Recall@K, MRR, and nDCG@K. Separately, generation was assessed on a 512-token index at K=1 to 5 using DeepEval claim-level metrics, with deepseek-v4-pro as the LLM judge, and BLEU/ROUGE metrics. Results: The selected hybrid retriever, using 384-token chunks and 20% overlap, retrieved accepted evidence in the top three results for 17 of 18 queries. Recall@3, R-Precision, MRR@3, and nDCG@3 each reached 0.94. Ground-truth curation increased evidence spans from 25 to 37 and accepted chunk targets from 36 to 51 without changing retrieval rankings. Conclusion: Cross-encoder reranking achieved the highest retrieval scores. Expanded relevance annotations increased recognized evidence without changing rankings, highlighting annotation sensitivity. The small development set and retrieval-informed curation require independent validation, including radiologist assessment of evidence sufficiency.",
-        "authors": [
-          "Miguel Mochizuki Silva",
-          "Samuel Ismael",
-          "Mateus C. Dias",
-          "Tha\u00eds Gaud\u00eancio",
-          "Yuri Malheiros",
-          " Barufaldi"
-        ],
-        "published": "2026-10-22T17:36:14Z"
-      },
-      {
-        "title": "CRANE: Post-Hoc Counterfactual Retrieval for Multimodal Classifiers",
-        "url": "http://arxiv.org/abs/2610.31594v1",
-        "summary": "Counterfactual explanation methods have been introduced for unimodal settings, with dedicated frameworks for tabular, timeseries, text, and image data, yet no post-hoc method has been designed for classifiers that learn from multimodal inputs. Existing explainability methods for multimodal classifiers apply modality-specific attribution independently to each input, which fails to yield coherent explanations and does not transfer to arbitrary pre-trained multimodal architectures. To address these shortcomings, we present CRANE (Counterfactual Retrieval via Agnostic Nearest-neighbour Explanations), the first post-hoc, model-agnostic framework for nearest-neighbour multimodal counterfactual generation that retrieves real training examples from the target class as candidate explanations, ensuring plausibility by construction. Across four heterogeneous datasets and three fusion strategies, we show that Multimodal Consensus Retrieval (MC-R), which intersects per-modality neighbour sets to identify instances jointly close to the query in every modality, emerges as the strongest multimodal strategy, achieving the best or joint-best outcome on three of four datasets while grounding every explanation in the joint training distribution. Unimodal strategies remain competitive when a single modality dominates the decision boundary.",
-        "authors": [
-          "Franco Rugolon",
-          "Ioanna Miliou",
-          "Panagiotis Papapetrou"
-        ],
-        "published": "2026-10-22T17:26:58Z"
-      },
-      {
-        "title": "Simulated Control Evals",
-        "url": "http://arxiv.org/abs/2610.31593v1",
-        "summary": "Control evaluations measure whether safeguards can prevent an AI model from causing undesired outcomes even when it is intentionally trying to do so. These evaluations typically use purpose-built control settings and extrapolate their results to a model's deployment. However, the effectiveness of safeguards in deployment can depend on features of environments and tasks that control settings do not represent. To broaden where control evaluations can be run, we introduce simulated control evaluations (SCEs), which use a language model to simulate tool responses in place of an environment. We evaluate SCEs on LinuxArena, where execution provides ground-truth outcomes. We compare SCE prediction errors with those from a separate control setting, BashArena, and with variation in control metrics within LinuxArena. For independently sampled evaluation and deployment task sets, SCEs predict safety with a root mean squared error of 3.6 percentage points across five monitors at a 5% audit budget, compared with 10.1 for BashArena. SCEs closely reproduce distributions of attack strategies, attacker reasoning, and monitor reasoning, with over tenfold lower KL divergence from execution than BashArena. SCEs explain 78-85% of the between-environment variance in attack success, monitor scores, and safety. This accuracy is sample efficient: SCEs predict safety with less error than BashArena using fewer than 5% as many task-pair draws as the deployment task set. Strategies discovered through simulation also improve monitor performance on held-out LinuxArena attacks, outperforming BashArena and approximately matching improvement from executed strategies. These results suggest that deployment-specific SCEs can be more predictive than control evaluations executed in separate control settings.",
-        "authors": [
-          "Jeffrey Olmo",
-          "David Zhang",
-          "Tyler Tracy"
-        ],
-        "published": "2026-10-22T17:26:42Z"
-      },
-      {
-        "title": "Beyond Best-of-$k$: Prior-Consistent DAPS for Ambiguous Nonlinear Inverse Problems",
-        "url": "http://arxiv.org/abs/2610.31592v1",
-        "summary": "Diffusion models have become strong priors for solving inverse problems. However, nonlinear inverse problems such as phase retrieval remain challenging when multiple measurement-consistent solutions are distinguishable only by the prior; we call such measurements ambiguous. Existing diffusion-based samplers rely on local approximations during reconstruction. For an ambiguous measurement, these approximations can allow measurement guidance to favor a measurement-consistent mode that is close to a prior-supported mode but is itself not supported by the prior. Evaluation often masks this type of failure by reporting the best-of-$k$ runs, where the best is selected by comparison to the ground truth. We introduce Prior-Consistent DAPS (PC-DAPS), a variant of Decoupled Annealing Posterior Sampling (DAPS) designed to address this failure case by maintaining multiple candidate solutions within a single sampling run. As annealing noise decreases, PC-DAPS prunes and replaces weaker candidates according to their prior consistency, without any ground-truth access. PC-DAPS reduces the incidence of prior-inconsistent samples and improves sample quality on nonlinear inverse problems while preserving sample quality and diversity on linear inverse problems.",
-        "authors": [
-          "Merve Kocabas",
-          "Benjamin A. Burns",
-          "Andreas Geiger",
-          "Kent Gauen",
-          "Sara Fridovich-Keil"
-        ],
-        "published": "2026-10-22T17:26:34Z"
-      },
-      {
-        "title": "VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act",
-        "url": "http://arxiv.org/abs/2610.31588v1",
-        "summary": "Institutions that deploy large language models in regulated settings often need technical evidence of responsible AI practices before approving a deployment. COMPL-AI provides a technical interpretation of the EU AI Act that organises this evidence under six principle groups and eighteen technical requirements, twelve of which current benchmarks can measure. The benchmark suites that produce this evidence are typically operated from a command line, while the staff who approve deployments are non-engineers. We present VERA, an open-source self-hosted dashboard deployed to facilitate responsible AI processes within a large European bank. A reviewer selects a model and runs public benchmarks against it. VERA scores the twelve requirements that current benchmarks can measure and instruments the energy consumed by each evaluation, adding run-level evidence for environmental impact. We run four served open-weight models through the requirement pipeline, and the dashboard displays a score for each measurable requirement. A within-subject study then compares how participants read these benchmark results: from the raw output files in one condition, and through the VERA dashboard in the other. The dashboard reduced the time needed to perform the responsible AI assessment, reducing the time required from 56 seconds using raw files to 30 seconds using our dashboard, on average. Our dashboard scored highly (4.36 out of 5) on usefulness in the survey conducted within the organization. The dashboard and the study material are released publicly to promote replicability and reproducibility in different organisational contexts.",
-        "authors": [
-          "Robin Qu\u00e9riaux",
-          "Solveig Bachellery",
-          "L\u00e9a D\u00e9l\u00e9ris",
-          "Saurabhsingh Rajput",
-          "Mariam Barry",
-          "Tushar Sharma",
-          "J\u00e9r\u00f4me Lebecq"
-        ],
-        "published": "2026-10-22T17:23:39Z"
-      },
-      {
-        "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
-        "url": "http://arxiv.org/abs/2610.31586v1",
-        "summary": "Accuracy on medical examinations is common evidence offered for the clinical use of language models, yet a health system that intends to run an open model on its own hardware needs to know considerably more: whether the model recognizes when it is likely to be wrong, whether medical fine-tuning improves this ability, whether its correct answers rest on sound clinical reasoning, or whether it actually uses the images it is given. We examine these questions for four open models of 8 to 27 billion parameters on the Spanish MIR residency examination, scoring 1,552 questions from eight editions under the exam's own rules. Answering every question, the three larger models would rank among roughly the first 600 to 3,000 candidates, with 41 to 43 specialties still open to them. Abstention, however, never pays, because even their least confident answers are right more often than the 25% break-even. Medical fine-tuning reduced overconfidence at the cost of accuracy, without improving how well confidence separates right from wrong answers. Moreover, 13-38% of correct answers rejected a distractor for a clinically unsound reason that confidence did not reflect, and removing or swapping the provided contextual images left accuracy unchanged.",
-        "authors": [
-          "Miguel Fernandez-de-Retana",
-          "Unai Zulaika",
-          "Ruben Sanchez-Corcuera",
-          "Aritz Bilbao-Jayo",
-          "Aitor Almeida"
-        ],
-        "published": "2026-10-22T17:23:11Z"
-      },
-      {
-        "title": "Action Learning for Scientific Simulations",
-        "url": "http://arxiv.org/abs/2610.31585v1",
-        "summary": "Understanding and controlling how systems evolve is central to science and engineering, where many problems require reasoning about complete trajectories. Existing approaches typically learn local dynamics or generate trajectories, but objectives constructed from individual transitions can miss dependencies across time, while generative models do not necessarily provide a tractable objective for evaluating and optimizing arbitrary paths. We study $\\textit{action learning}$, the problem of recovering a stochastic action from trajectory observations, yielding a common objective for reasoning about dynamical systems. We introduce $\\textbf{LEAP}$ ($\\textbf{L}$earned $\\textbf{E}$nergy on $\\textbf{A}$ction $\\textbf{P}$aths), which anchors the unknown action to a tractable reference process and learns the remaining correction by comparing observed trajectories with reference trajectories. This construction yields a differentiable objective on path space that can capture both local dynamical structure and nonadditive dependencies across time. Once learned, the same action can be flexibly reused for path ranking and inference, mechanism steering, constrained optimization and sampling. Across stochastic physical systems, many-body orbital dynamics and molecular simulations, LEAP recovers underlying dynamics, captures dependencies across time and enables transfer across inference objectives and physical conditions. We show that $\\textit{action learning}$ is a promising framework for turning trajectory observations into reusable objectives for scientific inference and control.",
-        "authors": [
-          "Sarah Liaw",
-          "Yuanqi Du",
-          "Yilun Du"
-        ],
-        "published": "2026-10-22T17:22:08Z"
-      },
-      {
-        "title": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
-        "url": "http://arxiv.org/abs/2610.31579v1",
-        "summary": "Research on sycophancy asks whether large language models (LLMs) bend towards what their users want to hear. We ask the reverse question: when an LLM is confident, consistent, and wrong, do users bend towards it? In a within-subjects experiment, 32 participants learned up to five science topics by chatting with five assistants built on the same model (GPT-5-mini). Unknown to participants, each assistant's briefing had 0, 25, 50, 75, or 100% of its facts replaced by plausible falsehoods, and every assistant spoke with full confidence. A surprise quiz after each topic offered the correct fact, the planted falsehood, and two distractors, with a confidence rating for every answer. Across 104 quizzes and 1,040 answers, scores fell from 7.4 to 2.9 out of 10, and the planted option was chosen on 60% of falsified items against 11% of correctly taught ones (odds ratio 12.5). Transcript coding showed that whenever the assistant stated a falsehood, it was adopted about 65% of the time at every falsification level. Absorbed falsehoods were held with high confidence (8.4/10), the modeled confidence advantage of right over wrong answers vanished, and the discrimination of confidence for correctness fell from an AUROC of 0.70 to chance, while post-task trust ratings barely moved. Participants tended to return to the chat more when the assistant was worse, but returning went with more absorption, not less, and 30% of all turns pasted quiz questions back to the source being checked. The assistant itself was almost never sycophantic and never conceded under pushback. We introduce a baseline-corrected Human Deference Index to quantify this human-side sycophancy and argue that trustworthiness is a property of the human-AI pair, that sycophancy evaluations should measure both directions, and that learning interfaces must make reliability legible claim by claim.",
-        "authors": [
-          "Deepthika S",
-          "Pawni Yadav",
-          "B. Sankar"
-        ],
-        "published": "2026-10-22T17:15:59Z"
-      },
-      {
-        "title": "What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models",
-        "url": "http://arxiv.org/abs/2610.31576v1",
-        "summary": "Masked diffusion language models generate tokens in parallel, but their efficiency depends on which predictions are committed. Learned unmasking policies improve the speed--accuracy trade-off, yet differ in supervision, inputs, and capacity, obscuring which choices matter. We view supervised policies as distilling a decoding procedure through a teacher and examine independently what the teacher labels as committable, on which states the policy imitates it, what the policy observes, and how much the number of function evaluations (NFE) must decrease to offset policy overhead. We find that labeling predictions matching the final output is overly permissive at low NFE, and hidden states are weak alone but can complement confidence. About a 10% NFE reduction suffices to offset policy overhead for policies up to 7.5M parameters across tested settings. We therefore train a policy on trajectory-contraction targets, which accept only commitments staying on a reference trajectory, using confidence and hidden states. On LLaDA-8B-Instruct, the resulting 856K-parameter policy achieves the best accuracy--NFE frontier and highest throughput on GSM8K, is competitive at moderate targets on MATH-500 and HumanEval, and largely transfers to Dream-7B-Instruct.",
-        "authors": [
-          "Jinya Sakurai",
-          "Xun Xu",
-          "Jaehong Yoon"
-        ],
-        "published": "2026-10-22T17:15:04Z"
-      },
-      {
-        "title": "Rethinking Sequence Compression with Test-time Regression",
-        "url": "http://arxiv.org/abs/2610.31574v1",
-        "summary": "Sequence compression is a fundamental operation and a critical information bottleneck in efficient language and multimodal models, and yet prevailing approaches based on pooling or learned projections remain underperforming. We revisit sequence compression through the lens of test-time regression: input tokens define a regression problem whose fitted coefficients form the compressed representation. Importantly, the regression problem is learned end-to-end via backpropagation, while its coefficients are computed efficiently in closed form during the forward pass. This leads to TTR-Compressor, a general alternative to conventional pooling and projection-based compression. We evaluate TTR-Compressor as the compressor for block-wise sparse attention and the visual token merger for multimodal large language models. On block-wise sparse attention, TTR-Compressor improves RULER performance over attention-based compressors by a large margin. For visual token merging, it consistently outperforms the standard MLP merger and matches its performance with 55.6% fewer visual tokens. These results establish test-time regression as an effective primitive for sequence compression in efficient language and multimodal models.",
-        "authors": [
-          "Sihan Yang",
-          "Jie Huang",
-          "Hanxuan Li",
-          "Yifan Guo",
-          "Weigao Sun",
-          "Yiran Zhong",
-          "Weiyang Liu"
-        ],
-        "published": "2026-10-22T17:14:38Z"
-      },
-      {
-        "title": "Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure",
-        "url": "http://arxiv.org/abs/2610.31573v1",
-        "summary": "In the post-API landscape, social-media profiling has become inexpensive and automated: Large Language Models (LLMs) can extract structured information from unstructured content and deduce attributes users never disclosed. A person's true exposure is not what they post but what can be inferred from it. As these practices become routine, exposure to social engineering attacks becomes an operational certainty, demanding a shared framework for assessment and mitigation. We make this exposure measurable by quantifying how accurately a target can be profiled, and how far that profile enables social engineering attacks. Because no existing model fully spans this continuum, we unify Social Media Intelligence (SOCMINT) and Cyber Human Intelligence (Cyber-HUMINT), two individual-focused disciplines that evolved separately, into a single doctrine-grounded taxonomy of 38 capabilities across the Cyber Threat Intelligence lifecycle, where user profiling bridges passive collection and active engagement. Domain experts validated the taxonomy (Fleiss' $\u03ba$ = 0.92). We operationalize its core path (extraction, inference, and susceptibility assessment) as an LLM-augmented multi-agent pipeline, evaluated on real participants' public data. Susceptibility is assessed indirectly: the pipeline predicts how each target would rank personalized engagement options, matching their actual choices significantly above chance. This ranking capacity captures the personalization on which tailored attacks depend. The underlying profiles are accurate: extraction reaches F1 = 97.3%, and inferred attributes score 4.73/5, both far above rule-based and NER-based baselines at negligible cost. The framework augments security analysts' tradecraft rather than replacing it and enables defenders to gauge their own exposure before an adversary does.",
-        "authors": [
-          "Pellegrino Casoria",
-          "Simon Pietro Romano"
-        ],
-        "published": "2026-10-22T17:13:46Z"
-      },
-      {
-        "title": "On the Token Collapse Phenomenon in Textual Graph Soft Prompting",
-        "url": "http://arxiv.org/abs/2610.31572v1",
-        "summary": "Recent methods for injecting graph structure into LLM prompts include graph soft prompting, in which a graph neural network (GNN) learns graph-specific tokens that capture relational information among entities in textual prompts. G-Retriever combines graph soft prompts with a verbalized description of the same graph to strengthen the textual prompt signal. We conduct an in-depth analysis of G-Retriever and uncover a pathological behavior we term token collapse. Across three benchmarks, three graph encoders, two LLM families, and both frozen and LoRA-adapted models, G-Retriever's graph tokens become almost indistinguishable across inputs. We provide evidence that the same failure is inherited by subsequent methods, even with multi-token pooling. Under the standard setup, swapping a token with the dataset mean, a token from another example, or one derived from a corrupted graph produces no resolved answer-level effect in accuracy. Moreover, a learned constant prompt that never accesses the graph matches or surpasses G-Retriever on all three benchmarks. These findings indicate that, rather than conveying graph content as intended, the collapsed token functions primarily as a generic soft prompt. We also examine conditions linked to this collapse and propose a two-stage procedure that yields non-collapsed tokens while maintaining competitive performance in most cases. However, token variability alone does not prove that the model uses graph information: via interventions and decoding probes, we show that depending on the configuration, a token can reflect the question, an answer prior, or graph-derived content that the LLM may or may not use. Overall, our results offer a practical approach to evaluating graph-token alignment rather than inferring it from task accuracy alone. Code to reproduce our experiments is available at https://github.com/difra100/Token_Collapse_KGQA.",
-        "authors": [
-          "Andrea Giuseppe Di Francesco",
-          "Rishabh Jain",
-          "Franco Maria Nardini",
-          "Nicola Tonellotto",
-          "Pietro Li\u00f2",
-          "Fabrizio Silvestri"
-        ],
-        "published": "2026-10-22T17:13:03Z"
-      },
-      {
-        "title": "When to Follow the Teacher: Advantage-Based On-Policy Distillation",
-        "url": "http://arxiv.org/abs/2610.31563v1",
-        "summary": "Online Policy Distillation (OPD) often outperforms offline methods such as Supervised Fine-Tuning (SFT) by training on trajectories sampled directly from the student. However, standard OPD trains the student to follow the teacher at every state of the trajectory, assuming that teacher guidance is always beneficial. We instead distinguish between what the teacher prefers and what actually helps the current student succeed. We introduce Advantage-Based On-Policy Distillation (AOPD), which weights teacher actions by their counterfactual advantage under the student. Teacher actions that improve the student's expected outcome are reinforced, while those that do not are downweighted. Directly computing these advantages requires trying alternative teacher actions at each step and running new rollouts from each. Instead, we show that the AOPD objective can be estimated using only standard student rollouts and their terminal rewards. Our estimator uses teacher importance weights on the student-sampled actions to provide unbiased advantage-weighted supervision, without any additional rollouts or reward evaluations. This allows AOPD to focus teacher supervision on actions that help the current student while preserving the rollout efficiency of standard OPD. Experiments on math, coding, and Medqa show gains over distillation and RL baselines in both external-teacher and self-distillation settings.",
-        "authors": [
-          "Mahdi Sabbaghi",
-          "George Pappas",
-          "Hamed Hassani",
-          "Adel Javanmard"
-        ],
-        "published": "2026-10-22T17:05:21Z"
-      }
-    ],
+    "arxiv": [],
     "github_trending": [
       {
         "name": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "language": "TypeScript",
-        "stars_this_week": "372,663"
+        "stars_this_week": "373,840"
       },
       {
         "name": "anthropics/claude-plugins-official",
         "url": "https://github.com/anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "language": "Python",
-        "stars_this_week": "44,099"
+        "stars_this_week": "44,159"
       },
       {
         "name": "ruvnet/ruflo",
         "url": "https://github.com/ruvnet/ruflo",
         "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
         "language": "TypeScript",
-        "stars_this_week": "78,750"
+        "stars_this_week": "78,820"
       },
       {
         "name": "android/skills",
         "url": "https://github.com/android/skills",
         "description": null,
         "language": "Kotlin",
-        "stars_this_week": "9,396"
+        "stars_this_week": "9,459"
       },
       {
         "name": "anomalyco/opencode",
         "url": "https://github.com/anomalyco/opencode",
         "description": "The open source coding agent.",
         "language": "TypeScript",
-        "stars_this_week": "220,579"
+        "stars_this_week": "220,686"
       },
       {
         "name": "stablyai/orca",
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "language": "TypeScript",
-        "stars_this_week": "103,702"
+        "stars_this_week": "104,017"
       },
       {
         "name": "cursor/plugins",
         "url": "https://github.com/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "stars_this_week": "13,769"
+        "stars_this_week": "13,802"
       },
       {
         "name": "akitaonrails/ai-memory",
         "url": "https://github.com/akitaonrails/ai-memory",
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "language": "Rust",
-        "stars_this_week": "13,000"
+        "stars_this_week": "13,086"
       },
       {
         "name": "HKUDS/CLI-Anything",
         "url": "https://github.com/HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "language": "Python",
-        "stars_this_week": "56,543"
+        "stars_this_week": "56,645"
       },
       {
         "name": "Comfy-Org/ComfyUI",
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
         "language": "Python",
-        "stars_this_week": "142,320"
+        "stars_this_week": "142,390"
       },
       {
         "name": "debpalash/VoiceStudio",
         "url": "https://github.com/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_this_week": "83,090"
+        "stars_this_week": "83,532"
       },
       {
         "name": "heygen-com/hyperframes",
         "url": "https://github.com/heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "language": "TypeScript",
-        "stars_this_week": "70,718"
+        "stars_this_week": "70,890"
       },
       {
         "name": "K-Dense-AI/scientific-agent-skills",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
         "language": "Python",
-        "stars_this_week": "54,182"
+        "stars_this_week": "54,268"
       },
       {
         "name": "NationalSecurityAgency/ghidra",
         "url": "https://github.com/NationalSecurityAgency/ghidra",
         "description": "Ghidra is a software reverse engineering (SRE) framework",
         "language": "Java",
-        "stars_this_week": "93,602"
+        "stars_this_week": "93,696"
       },
       {
         "name": "elie222/rakazo",
         "url": "https://github.com/elie222/rakazo",
         "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
         "language": "TypeScript",
-        "stars_this_week": "5,416"
+        "stars_this_week": "5,472"
       }
     ],
     "twitter": []
