@@ -1,149 +1,149 @@
 {
   "topic": "AI",
-  "generated_at": "2026-11-15T22:38:53.531117+00:00",
+  "generated_at": "2026-11-16T05:43:22.262043+00:00",
   "lookback_days": 7,
   "sources": {
     "reddit": [],
     "hackernews": [
       {
-        "title": "Improve perception in robots by building around the optics instead",
-        "url": "https://opdo.ai/insights/how-to-design-camera-data-center-robot",
+        "title": "Qwen4 Max: Intelligence, Performance and Price Analysis",
+        "url": "https://artificialanalysis.ai/models/qwen4-max",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-15T22:36:26Z"
+        "published": "2026-11-16T05:37:04Z"
       },
       {
-        "title": "Thales unveils software protection against AI-led reverse engineering",
-        "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
+        "title": "Show HN: OpenButterfly \u2013 Tracking the environmental impact of the AI ecosystem",
+        "url": "https://openbutterfly.com",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-15T22:35:38Z"
+        "published": "2026-11-16T05:06:56Z"
       },
       {
-        "title": "Technocracy, AI, and the End of the World",
-        "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-15T22:27:07Z"
-      },
-      {
-        "title": "Delaware considers AI-managed companies",
-        "url": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-11-15T22:05:04Z"
-      },
-      {
-        "title": "Sandboxes for AI Agents",
-        "url": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-11-15T22:02:01Z"
-      },
-      {
-        "title": "Duffy pins ground stop on Congress's lack of funding",
-        "url": "https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/",
-        "points": 1,
-        "comments": 3,
-        "published": "2026-11-15T21:53:10Z"
-      },
-      {
-        "title": "The AI-Box Experiment (2002)",
-        "url": "https://www.yudkowsky.net/singularity/aibox",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-15T21:43:35Z"
-      },
-      {
-        "title": "Current human speed versus AI speed [video]",
-        "url": "https://www.youtube.com/watch?v=9PznwFjA4to",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-15T21:30:24Z"
-      },
-      {
-        "title": "Show HN: Semantic/Structural diffs powered by Jev",
-        "url": "https://github.com/plannotator/sem-jiff",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-15T21:28:26Z"
-      },
-      {
-        "title": "When Tech 'Upgrades' Go Awry",
-        "url": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
+        "title": "Google AI Ultra Subscription Not Worth It",
+        "url": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/",
         "points": 3,
         "comments": 0,
-        "published": "2026-11-15T21:23:30Z"
+        "published": "2026-11-16T04:59:22Z"
       },
       {
-        "title": "AI rivals tackle one of physics' deepest mathematical challenges",
-        "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
-        "points": 2,
+        "title": "Jensen Huang's downfall will accelerate US-China 'great decoupling'",
+        "url": "https://www.channelnewsasia.com/commentary/nvidia-jensen-huang-affair-us-china-ai-tech-decoupling-6552516",
+        "points": 1,
         "comments": 0,
-        "published": "2026-11-15T20:53:28Z"
+        "published": "2026-11-16T04:59:19Z"
       },
       {
-        "title": "Ask HN: What do coding interviews look like in the age of AI?",
-        "url": "https://news.ycombinator.com/item?id=50510540",
+        "title": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
+        "url": "https://github.com/shubhamjoshipromail-svg/software-world-model",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-16T04:49:45Z"
+      },
+      {
+        "title": "A Local-First Agent for Private Knowledge Work",
+        "url": "https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-16T04:08:35Z"
+      },
+      {
+        "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+        "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+        "points": 6,
+        "comments": 0,
+        "published": "2026-11-16T04:03:51Z"
+      },
+      {
+        "title": "Show HN: Free AI Background Remover with Local Browser Privacy Mode (No Sign-Up)",
+        "url": "https://toolifyhub.tools/tools/background-remover",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-16T04:01:19Z"
+      },
+      {
+        "title": "Muse Voice Transcribe",
+        "url": "https://research.meta.ai/blog/introducing-muse-voice-transcribe",
+        "points": 1,
+        "comments": 1,
+        "published": "2026-11-16T03:53:48Z"
+      },
+      {
+        "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+        "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
         "points": 7,
-        "comments": 3,
-        "published": "2026-11-15T20:45:34Z"
+        "comments": 1,
+        "published": "2026-11-16T03:34:55Z"
       },
       {
-        "title": "Inference Gateway Desktop, an AI client for any model provider",
-        "url": "https://github.com/inference-gateway/desktop",
+        "title": "Show HN: Memeo \u2013 Turn static photos into lip-synced AI meme videos in seconds",
+        "url": "https://memeo.app/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-16T03:18:30Z"
+      },
+      {
+        "title": "Mapping cyber risk in the era of AI: Which industries are most exposed?",
+        "url": "https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-16T03:04:42Z"
+      },
+      {
+        "title": "Putting Task Expertise into RL Achieves SOTA Performance on Text-to-SQL",
+        "url": "https://thinkingmachines.ai/news/putting-task-expertise-into-rl/",
         "points": 2,
-        "comments": 1,
-        "published": "2026-11-15T20:36:06Z"
+        "comments": 0,
+        "published": "2026-11-16T02:42:16Z"
       },
       {
-        "title": "A browser API for choosing and running local AI models",
-        "url": "https://www.webmodels.dev/",
-        "points": 1,
-        "comments": 1,
-        "published": "2026-11-15T20:35:53Z"
-      },
-      {
-        "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
-        "url": "https://www.getlivewire.app/",
+        "title": "AI and the City",
+        "url": "https://www.stripeeconomics.com/p/ai-and-the-city",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-15T20:27:24Z"
+        "published": "2026-11-16T02:23:03Z"
       },
       {
-        "title": "AXI Framework: The Cure for the Cost Crisis in AI",
-        "url": "https://zenodo.org/records/23958737",
-        "points": 1,
+        "title": "Qwen4-Max",
+        "url": "https://qwen.ai/blog?id=qwen4-max",
+        "points": 282,
+        "comments": 93,
+        "published": "2026-11-16T02:14:44Z"
+      },
+      {
+        "title": "Show HN: AquarIum \u2013 pick your favorite (AI-generated) fish tank",
+        "url": "https://galleries.artfish.ai/aquarium/",
+        "points": 4,
         "comments": 0,
-        "published": "2026-11-15T20:27:00Z"
+        "published": "2026-11-16T01:56:34Z"
       },
       {
-        "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
-        "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+        "title": "Will the AI boom continue? Forecasting the trajectory of the AI industry",
+        "url": "https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting",
+        "points": 4,
+        "comments": 0,
+        "published": "2026-11-16T01:54:34Z"
+      },
+      {
+        "title": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
+        "url": "https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/",
+        "points": 4,
+        "comments": 0,
+        "published": "2026-11-16T01:53:01Z"
+      },
+      {
+        "title": "Apple launches research study to explore the use of AI for health",
+        "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
         "points": 2,
-        "comments": 1,
-        "published": "2026-11-15T20:17:21Z"
+        "comments": 0,
+        "published": "2026-11-16T01:43:47Z"
       },
       {
-        "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
-        "url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
-        "points": 1,
-        "comments": 1,
-        "published": "2026-11-15T20:09:52Z"
-      },
-      {
-        "title": "Animating Bad Apple with No JavaScript, No CSS, & Minimal HTML",
-        "url": "http://badapple.rose.systems",
+        "title": "How NewsNinja syncs all its data in less than 1 MB of iCloud",
+        "url": "https://ainews.ninja/blog/icloud-key-value-store-sync/",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-15T20:06:28Z"
-      },
-      {
-        "title": "OBR: Britain faces 'painful' job losses from AI",
-        "url": "https://www.telegraph.co.uk/business/2026/11/13/britain-faces-very-painful-job-losses-from-ai-obr-chief-war/",
-        "points": 5,
-        "comments": 0,
-        "published": "2026-11-15T20:00:03Z"
+        "published": "2026-11-16T01:32:58Z"
       }
     ],
     "github_repos": [
@@ -151,103 +151,95 @@
         "name": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "stars": 461837,
+        "stars": 462382,
         "language": "TypeScript",
-        "pushed_at": "2026-11-15T22:38:51Z"
+        "pushed_at": "2026-11-16T05:43:11Z"
       },
       {
         "name": "openclaw/openclaw",
         "url": "https://github.com/openclaw/openclaw",
         "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
-        "stars": 394531,
+        "stars": 394547,
         "language": "TypeScript",
-        "pushed_at": "2026-11-15T22:38:23Z"
+        "pushed_at": "2026-11-16T05:33:06Z"
       },
       {
         "name": "NousResearch/hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stars": 263624,
+        "stars": 263691,
         "language": "Python",
-        "pushed_at": "2026-11-15T22:29:24Z"
+        "pushed_at": "2026-11-16T05:34:12Z"
       },
       {
         "name": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 210608,
+        "stars": 210609,
         "language": "TypeScript",
-        "pushed_at": "2026-11-15T19:21:55Z"
+        "pushed_at": "2026-11-16T02:36:51Z"
       },
       {
         "name": "firecrawl/firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
         "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. \ud83d\udd25",
-        "stars": 202046,
+        "stars": 202121,
         "language": "TypeScript",
-        "pushed_at": "2026-11-15T13:01:57Z"
+        "pushed_at": "2026-11-16T00:15:37Z"
       },
       {
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "stars": 188044,
+        "stars": 188046,
         "language": "Python",
-        "pushed_at": "2026-11-15T22:32:51Z"
+        "pushed_at": "2026-11-16T04:08:50Z"
       },
       {
         "name": "f/prompts.chat",
         "url": "https://github.com/f/prompts.chat",
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-        "stars": 177557,
+        "stars": 177585,
         "language": "MDX",
-        "pushed_at": "2026-11-15T07:04:27Z"
-      },
-      {
-        "name": "msitarzewski/agency-agents",
-        "url": "https://github.com/msitarzewski/agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stars": 168575,
-        "language": "Shell",
-        "pushed_at": "2026-11-09T00:27:04Z"
+        "pushed_at": "2026-11-16T03:14:07Z"
       },
       {
         "name": "langgenius/dify",
         "url": "https://github.com/langgenius/dify",
         "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-        "stars": 161210,
+        "stars": 161232,
         "language": "Python",
-        "pushed_at": "2026-11-15T17:02:12Z"
+        "pushed_at": "2026-11-16T05:41:21Z"
       },
       {
         "name": "open-webui/open-webui",
         "url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stars": 158750,
+        "stars": 158778,
         "language": "Svelte",
-        "pushed_at": "2026-11-15T08:35:45Z"
+        "pushed_at": "2026-11-16T05:41:43Z"
       },
       {
         "name": "langflow-ai/langflow",
         "url": "https://github.com/langflow-ai/langflow",
         "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": 156681,
+        "stars": 156688,
         "language": "Python",
-        "pushed_at": "2026-11-15T20:19:24Z"
+        "pushed_at": "2026-11-16T05:27:34Z"
       },
       {
         "name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "stars": 149942,
+        "stars": 150048,
         "language": "Python",
-        "pushed_at": "2026-11-15T22:07:39Z"
+        "pushed_at": "2026-11-16T04:10:04Z"
       },
       {
         "name": "github/spec-kit",
         "url": "https://github.com/github/spec-kit",
         "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
-        "stars": 149931,
+        "stars": 149964,
         "language": "Python",
         "pushed_at": "2026-11-12T21:54:10Z"
       },
@@ -255,23 +247,23 @@
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
         "description": "The agent engineering platform.",
-        "stars": 149574,
+        "stars": 149600,
         "language": "Python",
-        "pushed_at": "2026-11-15T22:38:02Z"
+        "pushed_at": "2026-11-15T23:07:39Z"
       },
       {
         "name": "Comfy-Org/ComfyUI",
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "stars": 147019,
+        "stars": 147069,
         "language": "Python",
-        "pushed_at": "2026-11-15T22:16:23Z"
+        "pushed_at": "2026-11-16T01:41:32Z"
       },
       {
         "name": "Shubhamsaboo/awesome-llm-apps",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-        "stars": 144725,
+        "stars": 144791,
         "language": "Python",
         "pushed_at": "2026-11-15T20:56:20Z"
       },
@@ -279,7 +271,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
         "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "stars": 143798,
+        "stars": 143862,
         "language": "Python",
         "pushed_at": "2026-11-13T15:14:28Z"
       },
@@ -287,7 +279,7 @@
         "name": "shadcn-ui/ui",
         "url": "https://github.com/shadcn-ui/ui",
         "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
-        "stars": 128252,
+        "stars": 128278,
         "language": "TypeScript",
         "pushed_at": "2026-11-13T10:58:16Z"
       },
@@ -295,7 +287,7 @@
         "name": "microsoft/generative-ai-for-beginners",
         "url": "https://github.com/microsoft/generative-ai-for-beginners",
         "description": "21 Lessons, Get Started Building with Generative AI ",
-        "stars": 123606,
+        "stars": 123624,
         "language": "Jupyter Notebook",
         "pushed_at": "2026-11-12T03:43:22Z"
       },
@@ -303,9 +295,17 @@
         "name": "earendil-works/pi",
         "url": "https://github.com/earendil-works/pi",
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "stars": 122158,
+        "stars": 122215,
         "language": "TypeScript",
-        "pushed_at": "2026-11-15T22:30:46Z"
+        "pushed_at": "2026-11-15T23:11:35Z"
+      },
+      {
+        "name": "browser-use/browser-use",
+        "url": "https://github.com/browser-use/browser-use",
+        "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+        "stars": 121140,
+        "language": "Python",
+        "pushed_at": "2026-11-16T05:41:26Z"
       }
     ],
     "youtube": [],
@@ -313,38 +313,38 @@
       {
         "title": "Will Anthropic have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.085\", \"0.915\"]",
-        "volume": "349968.03528299986"
+        "price": "[\"0.095\", \"0.905\"]",
+        "volume": "357402.0372719999"
       },
       {
         "title": "Will Meta have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "147942.38645599998"
+        "volume": "147982.386456"
       },
       {
         "title": "Will Google have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.875\", \"0.125\"]",
-        "volume": "316147.39661899995"
+        "price": "[\"0.88\", \"0.12\"]",
+        "volume": "318010.60040199995"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "162452.09116399998"
+        "volume": "169791.326164"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "50488.276324000006"
+        "volume": "60488.276324000006"
       },
       {
         "title": "Will OpenAI have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.0115\", \"0.9885\"]",
-        "volume": "187329.838364"
+        "price": "[\"0.0155\", \"0.9845\"]",
+        "volume": "187470.42836400002"
       },
       {
         "title": "Will Baidu have the best AI model at the end of November 2026?",
@@ -356,25 +356,25 @@
         "title": "Will Z.ai have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "99761.97313099999"
+        "volume": "99811.922131"
       },
       {
         "title": "Will Xiaomi have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "38394.72195000001"
+        "volume": "48444.72195"
       },
       {
         "title": "Will SpaceXAI have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "132038.62073300002"
+        "volume": "132038.620733"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "79563.487374"
+        "price": "[\"0.001\", \"0.999\"]",
+        "volume": "93413.562374"
       },
       {
         "title": "Will Amazon have the best AI model at the end of November 2026?",
@@ -521,58 +521,202 @@
         "volume": "0"
       },
       {
-        "title": "FAA outage attributed to AI?",
-        "url": "https://polymarket.com/event/faa-outage-attributed-to-ai",
-        "price": "[\"0.02\", \"0.98\"]",
-        "volume": "45961.808171"
+        "title": "Will Alibaba have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.35\", \"0.65\"]",
+        "volume": "31770.422899999998"
+      },
+      {
+        "title": "Will Moonshot have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.015\", \"0.985\"]",
+        "volume": "16717.644102"
+      },
+      {
+        "title": "Will Baidu have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.014\", \"0.986\"]",
+        "volume": "12941.067532"
+      },
+      {
+        "title": "Will Z.ai have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.048\", \"0.952\"]",
+        "volume": "15595.001564"
+      },
+      {
+        "title": "Will Xiaomi have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5655\", \"0.4345\"]",
+        "volume": "26413.231644"
+      },
+      {
+        "title": "Will DeepSeek have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.0155\", \"0.9845\"]",
+        "volume": "10901.428858"
+      },
+      {
+        "title": "Will ByteDance have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.0035\", \"0.9965\"]",
+        "volume": "9218.622019"
+      },
+      {
+        "title": "Will MiniMax have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.008\", \"0.992\"]",
+        "volume": "13760.682216000001"
+      },
+      {
+        "title": "Will Meituan have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "1961.4022049999999"
+      },
+      {
+        "title": "Will Tencent have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.031\", \"0.969\"]",
+        "volume": "13920.878843"
+      },
+      {
+        "title": "Will StepFun have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "2419.2709999999997"
+      },
+      {
+        "title": "Will any other company have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company A have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company B have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company C have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company D have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company E have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company F have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company G have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company H have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company I have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company J have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company K have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company L have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
+      },
+      {
+        "title": "Will Company M have the best Chinese AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-november",
+        "price": "[\"0.5\", \"0.5\"]",
+        "volume": "0"
       },
       {
         "title": "Will Google have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.765\", \"0.235\"]",
-        "volume": "664490.859434"
+        "volume": "665483.784308"
       },
       {
         "title": "Will Anthropic have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.19\", \"0.81\"]",
-        "volume": "582306.861458"
+        "price": "[\"0.185\", \"0.815\"]",
+        "volume": "583697.982457"
       },
       {
         "title": "Will OpenAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.033\", \"0.967\"]",
-        "volume": "320891.942157"
+        "price": "[\"0.031\", \"0.969\"]",
+        "volume": "321193.314536"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.003\", \"0.997\"]",
-        "volume": "282190.00655899994"
+        "volume": "282445.556559"
       },
       {
         "title": "Will Z.ai have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "268316.612116"
+        "volume": "268972.18211600004"
       },
       {
         "title": "Will xAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "271038.774811"
+        "volume": "271357.905808"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "232431.41074700002"
+        "volume": "232874.20424700005"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "245685.82391500004"
+        "volume": "248124.82391500002"
       },
       {
         "title": "Will Mistral have the best AI model at the end of December 2026?",
@@ -596,7 +740,7 @@
         "title": "Will Meta have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0125\", \"0.9875\"]",
-        "volume": "326564.91657999996"
+        "volume": "326906.086661"
       },
       {
         "title": "Will Amazon have the best AI model at the end of December 2026?",
@@ -683,814 +827,580 @@
         "volume": "0"
       },
       {
-        "title": "Will Anthropic have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.075\", \"0.925\"]",
-        "volume": "10822.18127"
+        "title": "Will Anthropic have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.165\", \"0.835\"]",
+        "volume": "26355.795057"
       },
       {
-        "title": "Will Meta have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.011\", \"0.989\"]",
-        "volume": "1794.793686"
+        "title": "Will Meta have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0075\", \"0.9925\"]",
+        "volume": "5586.171926999999"
       },
       {
-        "title": "Will Google have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.835\", \"0.165\"]",
-        "volume": "4552.748386"
+        "title": "Will Google have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.755\", \"0.245\"]",
+        "volume": "18774.593738000003"
       },
       {
-        "title": "Will Alibaba have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "1340.6789999999999"
-      },
-      {
-        "title": "Will Moonshot have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "1181.44885"
-      },
-      {
-        "title": "Will OpenAI have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.024\", \"0.976\"]",
-        "volume": "2899.1771019999996"
-      },
-      {
-        "title": "Will Baidu have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
+        "title": "Will Moonshot have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.003\", \"0.997\"]",
-        "volume": "1259.456589"
+        "volume": "2074.247999"
       },
       {
-        "title": "Will Z.ai have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "1133.804"
+        "title": "Will OpenAI have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0095\", \"0.9905\"]",
+        "volume": "3719.7798940000002"
       },
       {
-        "title": "Will Xiaomi have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "1782.4098240000003"
-      },
-      {
-        "title": "Will SpaceXAI have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.005\", \"0.995\"]",
-        "volume": "959.826"
-      },
-      {
-        "title": "Will DeepSeek have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.003\", \"0.997\"]",
-        "volume": "912.758"
-      },
-      {
-        "title": "Will Amazon have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "1042.314"
-      },
-      {
-        "title": "Will ByteDance have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.002\", \"0.998\"]",
-        "volume": "1212.803021"
-      },
-      {
-        "title": "Will Nvidia have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
+        "title": "Will Alibaba have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "642.775"
+        "volume": "2085.541666"
       },
       {
-        "title": "Will Thinky have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
+        "title": "Will SpaceXAI have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0025\", \"0.9975\"]",
+        "volume": "2166.3125"
+      },
+      {
+        "title": "Will Z.ai have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "544.652"
+        "volume": "1676.7959999999998"
       },
       {
-        "title": "Will MiniMax have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "1122.8216659999998"
-      },
-      {
-        "title": "Will Mistral have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "1131.986715"
-      },
-      {
-        "title": "Will Meituan have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.003\", \"0.997\"]",
-        "volume": "982.8131999999999"
-      },
-      {
-        "title": "Will Tencent have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.003\", \"0.997\"]",
-        "volume": "893.1539999999999"
-      },
-      {
-        "title": "Will StepFun have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.003\", \"0.997\"]",
-        "volume": "965.0470459999999"
-      },
-      {
-        "title": "Will Microsoft have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "1588.1729"
-      },
-      {
-        "title": "Will Company A have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company B have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company C have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company D have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company E have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company F have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company G have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company H have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company I have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company J have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company K have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company L have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Company M have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will any other company have the best AI model on December 15, 2026?",
-        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-december-15-2026",
-        "price": "[\"0.5\", \"0.5\"]",
-        "volume": "0"
-      },
-      {
-        "title": "Will Anthropic be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.43\", \"0.57\"]",
-        "volume": "5204.054189"
-      },
-      {
-        "title": "Will Meta be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.19\", \"0.81\"]",
-        "volume": "3231.9077270000002"
-      },
-      {
-        "title": "Will Google be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.205\", \"0.795\"]",
-        "volume": "4373.4091100000005"
-      },
-      {
-        "title": "Will Moonshot be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.035\", \"0.965\"]",
-        "volume": "651.2610500000001"
-      },
-      {
-        "title": "Will OpenAI be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.0165\", \"0.9835\"]",
-        "volume": "624.153092"
-      },
-      {
-        "title": "Will Alibaba be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.017\", \"0.983\"]",
-        "volume": "581.13906"
-      },
-      {
-        "title": "Will SpaceXAI be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.027\", \"0.973\"]",
-        "volume": "548.4146000000001"
-      },
-      {
-        "title": "Will Z.ai be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.0375\", \"0.9625\"]",
-        "volume": "734.351855"
-      },
-      {
-        "title": "Will Baidu be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "612.120634"
-      },
-      {
-        "title": "Will Xiaomi be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.033\", \"0.967\"]",
-        "volume": "623.204003"
-      },
-      {
-        "title": "Will DeepSeek be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.016\", \"0.984\"]",
-        "volume": "758.4215320000001"
-      },
-      {
-        "title": "Will ByteDance be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "796.3611259999999"
-      },
-      {
-        "title": "Will MiniMax be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.004\", \"0.996\"]",
-        "volume": "599.831127"
-      },
-      {
-        "title": "Will Thinky be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "418.97249999999997"
-      },
-      {
-        "title": "Will Meituan be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "613.9214999999999"
-      },
-      {
-        "title": "Will Mistral be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Baidu have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "306.38"
+        "volume": "301.11"
       },
       {
-        "title": "Will Amazon be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.0105\", \"0.9895\"]",
-        "volume": "579.937551"
+        "title": "Will Xiaomi have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "545.804"
       },
       {
-        "title": "Will Nvidia be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "662.487052"
+        "title": "Will DeepSeek have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "1412.1670000000001"
       },
       {
-        "title": "Will Tencent be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "396.337843"
+        "title": "Will ByteDance have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "292.16"
       },
       {
-        "title": "Will StepFun be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.017\", \"0.983\"]",
-        "volume": "1261.0796950000001"
+        "title": "Will MiniMax have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "702.56"
       },
       {
-        "title": "Will Microsoft be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
-        "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "946.607229"
+        "title": "Will Thinky have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "1047.21675"
       },
       {
-        "title": "Will Company A be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Meituan have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "1093.1369989999998"
+      },
+      {
+        "title": "Will Mistral have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "529.02"
+      },
+      {
+        "title": "Will Amazon have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "973.181"
+      },
+      {
+        "title": "Will Nvidia have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "625.55"
+      },
+      {
+        "title": "Will Tencent have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "981.05"
+      },
+      {
+        "title": "Will StepFun have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "818.1096660000001"
+      },
+      {
+        "title": "Will Microsoft have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
+        "price": "[\"0.0005\", \"0.9995\"]",
+        "volume": "840.147866"
+      },
+      {
+        "title": "Will any other company have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company B be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company A have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company C be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company B have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company D be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company C have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company E be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company D have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company F be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company E have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company G be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company F have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company H be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company G have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company I be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company H have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company J be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company I have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company K be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company J have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company L be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company K have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will Company M be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company L have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
       },
       {
-        "title": "Will any other AI lab/company be the #2 AI lab at the end of January 2027?",
-        "url": "https://polymarket.com/event/2-ai-lab-end-of-january-2027-style-control-on",
+        "title": "Will Company M have the #1 AI model at the end of November 2026?",
+        "url": "https://polymarket.com/event/which-company-has-1-ai-model-end-of-november-style-control-on",
         "price": "[\"0.5\", \"0.5\"]",
         "volume": "0"
+      },
+      {
+        "title": "FAA outage attributed to AI?",
+        "url": "https://polymarket.com/event/faa-outage-attributed-to-ai",
+        "price": "[\"0.02\", \"0.98\"]",
+        "volume": "45961.808171"
       }
     ],
     "arxiv": [
       {
-        "title": "Unbundling Multimodal Vision Encoding",
-        "url": "http://arxiv.org/abs/2611.17334v1",
-        "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone). Because published models also differ in data, architecture, and compute, comparing them cannot isolate the effect of each choice. We disentangle these choices via a controlled framework where we pretrain all models from scratch on common data and compare them on visual question answering and language benchmarks at matched lifetime compute. We find that the visual prior is not necessary; an encoder trained jointly from scratch is on par with a pretrained one, without a separate training stage. What matters instead is dedicated vision capacity: an encoder-free model trails on visual understanding even when its backbone is enlarged by the encoder's parameter count. Yet that capacity need not precede multimodal fusion, as vision-only modules added in-fusion to early backbone layers perform comparably to a pre-fusion encoder and can lower time to first token. These results also hold across backbone sizes, when encoder pretraining is treated as free, and when starting from a pretrained language model. Overall, our findings favor dedicated vision capacity trained jointly with the backbone and placed early within it.",
+        "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+        "url": "http://arxiv.org/abs/2611.18563v1",
+        "summary": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, space-based radio frequency (RF) observations provide an independent source of vessel activity but lack ship identification and therefore cannot identify vessels on their own. Following the CRISP-DM process, this study applies a Pair Hidden Markov Model (PHMM) to align individual RF detections with AIS trajectories, using temporal and spatial information while modeling noise and timing discrepancies. We evaluate it on NOAA AIS data with synthetic RF detections against nearest-neighbor baselines and analyze its errors with bias tests on trajectory length, sampling density, stationarity and AIS--RF distance. The length-corrected Forward score reaches a top-1 precision of $0.7776$ on the validation split of multi-candidate detections, where errors are possible, and an AUC of $0.637$ for detecting dark vessels among the detections that pass the prefilter. With a single RF detection, the score mostly reflects the AIS trajectory itself, and its errors favor longer and more stationary trajectories. A log-odds score, which compares the full model with a null model without match transitions, raises precision to $0.8580$ and AUC to $0.852$. Its length-corrected variant no longer shows a significant bias towards stationary trajectories and short inter-message distances, but still favors candidates farther from the RF detection. A time-weighted nearest-neighbor baseline without fitting remains ahead (precision $0.9013$, AUC $0.904$), so this single-detection, hand-designed PHMM formulation approaches but does not beat it.",
         "authors": [
-          "Ellis Brown",
-          "Chris Hoang",
-          "Shengyi Qian",
-          "Shang-Wen Li",
-          "Mike Lewis",
-          "Marjan Ghazvininejad",
-          "Luke Zettlemoyer",
-          "Lucas Beyer",
-          "Mengye Ren",
-          "Jakob Verbeek",
-          "Saining Xie",
-          "Hu Xu"
+          "Daniel Grimm",
+          "Kyra Jongman",
+          "Renato Cordeiro Ferreira",
+          "Giuseppe Cascavilla",
+          "Alfredo Cuzzocrea",
+          "Willem-Jan Van Den Heuvel"
         ],
-        "published": "2026-11-12T18:59:54Z"
+        "published": "2026-11-13T18:59:43Z"
       },
       {
-        "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
-        "url": "http://arxiv.org/abs/2611.17332v1",
-        "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent baselines often restrict evaluations to small-scale, single-point comparisons, making it difficult to establish whether improvements hold at larger scales or translate into broader impact. ArchSpace addresses both gaps as a public platform for Recording, Reviewing, and Referencing Architecture Researc}: each proposal is recorded with its experiments and reasoning, reviewed by the community, and referenced by later work. To evaluate ideas before costly large-scale training, ArchSpace leverages scaling laws to predict model loss at larger scales from smaller experiments, a practice widely adopted in industry. We provide initial references that make the platform usable: Qwen3.5 and OLMo3 baselines, fitted scaling laws, and a reusable training recipe. Ideas validated through this review can in turn become new baselines, and ArchSpace thereby aims to broaden the range of ideas that shape the next generation of models.",
+        "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+        "url": "http://arxiv.org/abs/2611.18561v1",
+        "summary": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attempted speech into text by relying on language priors to achieve high decoding accuracy. This performance currently comes at the cost of using a compute-intensive language modeling stack, presenting a major bottleneck for real-world use. Further, current language models incur highly variable and disruptive inference latencies, limiting communication throughput and preventing users from reliably participating in natural conversation. We introduce FETTUCCINE, an end-to-end brain-to-text framework that leverages the speed and portability of automatic speech recognition (ASR) models to address the aforementioned practical challenges, while achieving usable (<10%) word error rates (WER), efficient adaptation to neural non-stationarities, and reliable performance on mobile devices. When evaluated using publicly available data from an intracortical speech neuroprosthesis user, FETTUCCINE outperforms previous end-to-end methods, achieving as low as 4.39% WER. Most notably, our models successfully run on a commercially-available mobile device with throughput reaching up to 370x real-time, providing the first demonstration of brain-to-text decoding on a mobile device. We also show that our models can be successfully finetuned to extend usable performance to future days. Beyond performance, our approach enables localization of the neural features most relevant for decoding via gradient-based saliency maps, which we show align with well-established physiological priors across different ASR model families. Taken together, our results show that FETTUCCINE overcomes core infrastructural and computational barriers, yielding a new class of portable brain-to-text communication.",
         "authors": [
-          "Jie Wang",
-          "Tong Zhu",
-          "JiaHao Kuang",
-          "Zhe Xu",
-          "Yunkai Chai",
-          "Dehong Zheng",
-          "Yu Cheng",
-          "Tao Ji",
-          "ZhouHan Lin",
-          "Qi Zhang",
-          "Bowen Zhou"
+          "Jonathan D. McCart",
+          "Pranav I. Deevi",
+          "Mehdi Azabou",
+          "Nanda H. Krishna",
+          "Caleb A. McKinney",
+          "Nicholas S. Card",
+          "Sergey D. Stavisky",
+          "Chethan Pandarinath"
         ],
-        "published": "2026-11-12T18:59:52Z"
+        "published": "2026-11-13T18:59:02Z"
       },
       {
-        "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
-        "url": "http://arxiv.org/abs/2611.17329v1",
-        "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world deployment. Existing neurosymbolic methods such as Probabilistic Logic Policy Gradient (PLPG) offer constraint-satisfying reinforcement learning (RL) via differentiable symbolic supervision but assume a finite, discrete action space. We present a PLPG-inspired continuous allocation method that estimates the probability that the policy's own executed action satisfies the investment mandate, using reparameterized Monte Carlo sampling, and adds it to the training objective. No post-hoc enforcement mechanism intercepts actions at inference time and compliance is learned by the agent. Audited directly on deterministic mean actions with no correction, the policy reduces violations of a six-rule regime-conditional mandate from 96-98% for unconstrained RL and 33.4% for a reward-penalty baseline to 4.8%, showing that a continuous-action neurosymbolic policy can substantially internalize a symbolic mandate.",
+        "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+        "url": "http://arxiv.org/abs/2611.18562v1",
+        "summary": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less capable. We show that an open-weight 27B reasoning model can be trained to use real robots natively through reinforcement learning, entirely in simulation and without demonstrations. Like a computer-use agent (CUA), the model observes the environment, reasons in a chain of thought, and generates the next end-effector pose, without any harness. We build a Post-training Engine for Agentic Robotics (PEAR) and use it to train the model on simulated robot tasks at scale with robot-use reinforcement learning (RURL), mirroring how frontier models acquire computer use. We find that the skills acquired in simulation generalize well beyond the training tasks: they transfer to an unseen robot, to the real world, and to novel instructions. After training on LIBERO and RoboDojo in simulation, the model succeeds in 60% of our trials on a real dual-arm robot, whereas the base model succeeds in none. On LIBERO, training raises the success rate from 1.6% to 74.4%, approaching GPT-6 Astra and GPT-6.1 Sol at maximum reasoning effort. Compared with $\u03c0_{0.5}$, a vision-language-action model fine-tuned on demonstrations, our model is substantially more robust to changes in the task itself. On LIBERO-Pro, $\u03c0_{0.5}$ succeeds in only 0.75% of episodes when assigned a new task in a familiar scene whereas our model succeeds in 57.4%. Finally, the model retains its general capabilities, with no measurable degradation on nine reasoning, coding and vision benchmarks. These results highlight robot-use reinforcement learning as a promising component of foundation-model post-training.",
         "authors": [
-          "Zeynep Y\u0131ld\u0131z",
-          "Satchit Chatterji",
-          "Ercan Atam",
-          "Erman Acar"
+          "Jiaming Tang",
+          "Zhuoyang Zhang",
+          "Junxian Guo",
+          "Fangzhou Zhao",
+          "Yilong Zhao",
+          "Zekai Li",
+          "Xingyang Li",
+          "Yuyang Zhao",
+          "Song Bian",
+          "Zhijian Liu",
+          "Song Han"
         ],
-        "published": "2026-11-12T18:59:37Z"
+        "published": "2026-11-13T18:59:02Z"
       },
       {
-        "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
-        "url": "http://arxiv.org/abs/2611.17323v1",
-        "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSSL), framing SSL as a program search problem and studying how agents navigate this space under limited supervision. We find that even under weak feedback and matched compute, agents can synthesize code that combines and adapts established SSL techniques, exceeding the strongest human-engineered baselines in 8 of 12 settings by up to +21.8%. However, our results identify program selection as a critical bottleneck in AgentSSL, where performance drops by as much as 47% when selecting based on the agent's feedback metric. To systematically study this bottleneck, we introduce ProgramSelectBench, a large-scale benchmark with a combined total of 16,977 agent-generated and human-engineered SSL programs, and evaluate both unsupervised and active program selection methods. We further evaluate AgentSSL on real-world ecology detection tasks, highlighting the opportunities and challenges of transferring agent-discovered strategies beyond controlled benchmarks.",
+        "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+        "url": "http://arxiv.org/abs/2611.18559v1",
+        "summary": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., invariance to augmentation within a certain range or recoverability of masked regions at a certain temporal scale, introducing heuristic hyperparameters that make the learned semantics sensitive to their settings. We propose BAL, a self-supervised framework that instead exploits supervision intrinsic to human movement: the natural ordering structure of everyday behavior. BAL autoregressively predicts in a semantically abstract latent space, analogous to how humans anticipate others' actions rather than their precise joint configurations. Bidirectional autoregressive prediction, both forward and backward in time, fully leverages these ordering constraints while enabling representation extraction using both past and future context at inference. To suppress representation collapse, BAL decomposes each prediction target into a global component capturing sequence-level semantics and a local component capturing context-independent movement. We prove that the local targets retain nontrivial angular diversity unless the representations are completely collapsed, preserving a meaningful training signal. Experiments on large-scale datasets demonstrate that BAL's representations are highly effective for motion captioning, forecasting, and interpolation, outperforming baselines on most evaluation metrics.",
         "authors": [
-          "Ethan Lin",
-          "Akanksha Sarkar",
-          "Ziang Liu",
-          "Kristin Branson",
-          "Jennifer J. Sun"
+          "Genki Kinoshita",
+          "Ko Nishino"
         ],
-        "published": "2026-11-12T18:59:06Z"
+        "published": "2026-11-13T18:58:54Z"
       },
       {
-        "title": "Learning When Diffusion Language Models Should Regenerate",
-        "url": "http://arxiv.org/abs/2611.17320v1",
-        "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain error information that token confidence does not reliably expose, and remasking an isolated error usually reproduces it when the surrounding context remains fixed. These findings motivate DiVR , a verifier that predicts whether a partially generated sequence will reach a correct answer. Trained on the final correctness of the model's own trajectories, DiVR decides when to regenerate a block and which alternative to retain, while the generator itself stays unchanged. On five reasoning benchmarks with LLaDA-8B-Base, DiVR raises the average accuracy of the fine-tuned generator from 35.3\\% to 43.4\\% at $1.9$-$3.5\\times$ the cost of greedy decoding, above search baselines that use $3.8$-$7.4\\times$. It also complements post-training such as supervised fine-tuning and reinforcement learning, and generalizes to other generators, including Dream.",
+        "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+        "url": "http://arxiv.org/abs/2611.18553v1",
+        "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (WSP). Exploring this new paradigm systematically requires a robust benchmark. We introduce WEIGHTBENCH, a benchmark that evaluates LLMs of increasing capability on 42 WSP tasks across five tracks: reading, fixing and writing weights, recognizing edits that are impossible, and data-free compression. The networks whose weights the LLMs read and edit range from 2K-parameter control policies to 7B-parameter language models. Experimental benchmark results show that frontier agents can already read small networks and write working control policies without ever running them, but cannot yet patch language models, compress them without data, or tell an impossible edit from a hard one. On all 42 tasks, Claude Opus 5.5 reaches a macro score of 0.535 (Sonnet 5.5 0.466, Haiku 5.5 0.402, DeepSeek v4-flash 0.215); on the 38 tasks it was run on, GPT-6.1-sol reaches 0.568 against Opus's 0.546. Code, the task registry, our OS-level sandbox harness, and the live leaderboard are publicly available at https://github.com/Aayush-Marasini/WeightBench.",
         "authors": [
-          "Minhae Oh",
-          "Jeonghye Kim",
-          "Jinwoo Koo",
-          "Yeongoon Kim",
-          "Jimin Seo",
-          "Minsik Seol",
-          "Jungwoo Lee"
+          "Aayush Marasini",
+          "Barsat Khadka",
+          "Nick Rahimi"
         ],
-        "published": "2026-11-12T18:58:50Z"
+        "published": "2026-11-13T18:58:08Z"
       },
       {
-        "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
-        "url": "http://arxiv.org/abs/2611.17316v1",
-        "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness against the costs of writing and reading it. The actor must also decide when acting on available memory saves effort as the task unfolds. We introduce Coding-Repository Memory (CoReMem), a cost-internalizing framework that guides memory design and actor adaptation through measured memory value on the next task. Prospective segment valuation compares runs of the next task with and without individual trajectory segments from the same inherited repository state, guiding a compact memory built around anchors: repository locations and executable checks. Actor adaptation estimates on-policy memory value within rollout groups with and without memory, using a reward that prioritizes resolution and penalizes step count in successful runs. Provenance-gated value credit assigns the additional value term to steps identified as using memory-supplied anchors, while every step retains outcome credit. On ChainSWE, CoReMem raises the 27B actor's resolve rate from 21.0% to 25.7%, with 17% fewer steps and 11% fewer total cache-aware tokens, including memory-module calls, relative to the untrained actor model without memory.",
+        "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+        "url": "http://arxiv.org/abs/2611.18543v1",
+        "summary": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for a single person to teleoperate multiple agents simultaneously. Round-Robin Behavior Cloning (R2BC) addresses this by letting a single demonstrator control one agent at a time while the others execute their current policies. However, the resulting imitation policies are limited by the quality of the demonstrations. We propose Imitation Bootstrapped Multi-Agent Reinforcement Learning (IBMARL), a framework that extends Imitation Bootstrapped Reinforcement Learning (IBRL) to cooperative teams and uses R2BC to train the imitation policies. At each time step, every agent receives one action proposal from its imitation policy and one from its RL policy, and an ensemble of centralized critics selects among the per-agent combinations of the two. A gated imitation penalty, a soft Q-filtered behavior cloning loss, regularizes each RL policy toward its imitation policy only where the critics value the imitation action more, so that after training each agent executes its RL policy alone, without the centralized critics. On four cooperative multi-agent RL benchmarks, IBMARL surpasses its imitation policies $2.6$-$4.2\\times$ faster than demonstration-based baselines on two tasks, is the only method to surpass it on the other two, and exceeds the demonstrator itself on two of the four. With real human demonstrations IBMARL still surpasses imitation learning alone, and does so more than twice as fast as the best baseline.",
         "authors": [
-          "Peiwen Li",
-          "Harshit Verma",
-          "Sophia Zhou",
-          "Haiwen Wang",
-          "Ngoc Bui",
-          "Heng Chang",
-          "Fei Fei",
-          "David van Dijk",
-          "Rex Ying"
+          "Tony H. Zhang",
+          "Connor Mattson",
+          "Daniel S. Brown"
         ],
-        "published": "2026-11-12T18:58:22Z"
+        "published": "2026-11-13T18:50:05Z"
       },
       {
-        "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
-        "url": "http://arxiv.org/abs/2611.17314v1",
-        "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly. We study neural networks that have been optimized via meta-learning, a technique that exposes a network to many related functions to facilitate its subsequent learning of similar functions. Prior work has shown that these meta-learned networks can learn new functions rapidly, but how they do so remains unclear. To investigate their internal structure, we take inspiration from classic work demonstrating additive relationships among the learned vectors that neural networks use to represent words (e.g., \"king\" minus \"man\" plus \"woman\" approximates \"queen\"). Analogously, we look for additive relationships among a meta-learned network's \"representations\" of different functions; when a meta-learned network rapidly learns to implement a specific function, all of its adapted parameter values can be concatenated into a single vector that we treat as representing the function. We find that such parameter vectors can be added and subtracted according to symbolic relationships among the functions they represent, yielding new parameter vectors that successfully represent the functions predicted by the corresponding symbolic manipulations: the networks specified by these artificially recombined vectors actually implement the intended functions without any direct training on them. Our results suggest that meta-learning can tune a network's starting point to organize subsequent learning along systematic, functionally meaningful trajectories through the space of possible parameter vectors, providing a geometric basis for realizing inductive biases in neural networks.",
+        "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
+        "url": "http://arxiv.org/abs/2611.18542v1",
+        "summary": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probability-flow ODE. In this work, we introduce a new framework for joint schedule/discretization design based on the analyticity properties of the (complexified) ODE trajectories, which in turn ensure good numerical behavior. Our formulation can be solved exactly via conformal mapping, yielding a natural family of variance-preserving elliptic schedules, parametrized by Jacobi elliptic functions. Pairing an elliptic schedule with a tailored discretization, we obtain Zoloflow, a new sampling algorithm closely connected to Zolotarev's optimal rational function approximants. Crucially, both the elliptic schedule and Zoloflow explicitly incorporate the condition number $\u03ba$ of the target distribution and reduce to the classical trig schedule in the limit $\u03ba\\rightarrow 1$. For Gaussian targets, Zoloflow achieves minimax optimality among all oblivious score-span algorithms, attaining total-variation error $\\varepsilon$ using $\u0398(\\log\u03ba\\,\\log(\\sqrt d/\\varepsilon))$ (exact) score queries. For the log-concave case, the elliptic schedule allows sampling with at most $\\varepsilon$ 2-Wasserstein-error by requiring merely $\\widetilde{O}(\\sqrt{d} \\, \\mathrm{polylog}(\u03ba, 1/\\varepsilon))$ score evaluations. Complementing these theoretical results, we empirically evaluate the elliptic schedule on general (non-log-concave) target distributions, including detailed comparisons with alternative schedule proposals on both synthetic benchmarks and existing image generation datasets.",
         "authors": [
-          "Abigail L. Tenenbaum",
-          "R. Thomas McCoy"
+          "Cole Becker",
+          "Taylan Kargin",
+          "Kimia Hassibi",
+          "Asuman Ozdaglar",
+          "Pablo A. Parrilo"
         ],
-        "published": "2026-11-12T18:57:49Z"
+        "published": "2026-11-13T18:49:36Z"
       },
       {
-        "title": "Sketching Language Models for Context Attribution",
-        "url": "http://arxiv.org/abs/2611.17313v1",
-        "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values directly requires $n$ model evaluations. Under a stability assumption, our algorithm estimates all LOO values to error proportional to $\\varepsilon$ with constant probability using $O(\\sqrt{\\log(1/\\varepsilon)}/\\varepsilon)$ evaluation calls. To complement our upper bound, we prove a matching $\u03a9(\\sqrt{\\log(1/\\varepsilon)}/\\varepsilon)$ lower bound on the number of evaluation calls in an oracle model. Empirically, we verify coefficient decay consistent with stability and evaluate the performance of our sketching algorithm on a small language-model retrieval task. Technically, our result is based on a sketching algorithm for arithmetic circuits whose Taylor coefficients satisfy the stability condition recently introduced by Gunn [Gun26]. A direct adaptation of their forward differentiation sketches would require $\\widetilde{O}(\\log(n)/\\varepsilon^2)$ evaluation calls. Our key observation is that we can apply forward differentiation to the backpropagation circuit, with only constant overhead over a forward sketch of the same Taylor degree. This reduces the variance of the sketches and is key to our improved evaluation bound. Our lower bound builds on the techniques of Amsel, Chen, Duman Keles, Halikias, Musco, and Musco [ACDH+26, SIAM Journal on Matrix Analysis and Applications] for lower bounding the number of matrix-vector queries to estimate the diagonal elements of random matrices.",
+        "title": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory",
+        "url": "http://arxiv.org/abs/2611.18538v1",
+        "summary": "An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective structure, rather than demand unrelated facts scattered arbitrarily across it. We formalize this phenomenon through future-task information, the minimum retained information needed to preserve decision value relative to the available evidence. A joint decision-regret state records posterior comparisons among actions for every permitted task. Under compactness assumptions, every retained representation admits a calibrated replacement based on this state, preserving all task regrets without increasing information; the resulting information-regret curve equals an operational coding rate. Two exact boundaries govern finite preservation: weak-star closure for a fixed action count, and the singular mass of the source-evidence law when all finite action menus are admitted. Collective structure determines information requirements beyond individual-question difficulty. Families with identical source laws, pairwise task metrics, and individual-task rates can have different high-resolution exponents. Covariance-identical coordinate and parity families have different exact rate-distortion curves, with optimal parity retention characterized by a sharp Fourier-entropy inequality. For balanced nested task families, refinement sizes and weighted reach determine the rate within an additive constant, attained by prefix coding under explicit decay conditions. Nonlinear learning and computational separations distinguish preservation from efficient discovery and use. The proposed mathematical theory identifies which shared decision requirements allow finite information to remain useful for infinitely many possible purposes.",
         "authors": [
-          "Christopher Liaw",
-          "Aranyak Mehta",
-          "Grigoris Velegkas",
-          "Felix Zhou"
+          "Mojtaba Soltanalian"
         ],
-        "published": "2026-11-12T18:57:48Z"
+        "published": "2026-11-13T18:47:24Z"
       },
       {
-        "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
-        "url": "http://arxiv.org/abs/2611.17309v1",
-        "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many parameters and FLOPs to solve simple puzzles. Descent on an energy not only mitigates these issues but also offers advantages: built-in early stopping, compute that adapts to problem difficulty, fast training without differentiating through a solver, and interpretable weights that learn the constraints of the puzzle. Here we demonstrate this with a learned version of Hopfield & Tank's energy from the 80s, which we term CRAM, solves 99.996% of Sudoku-Extreme and 100% of Maze-Unique test puzzles after 42 ms and 132 ms of training on one GPU, at least 1,000x faster than looped models on these tasks. CRAM also matches baseline looped models at their highest accuracy on Sudoku-Extreme using at least 282x fewer inference FLOPs. Our work suggests two things. First, that energies are an extremely promising direction for training reasoning from data. Second, a caution against using trivially solvable benchmarks like Sudoku and Maze to test the scalability of looped reasoning techniques.",
+        "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+        "url": "http://arxiv.org/abs/2611.18533v1",
+        "summary": "Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approaches train under a hand-written harness that stays fixed throughout. However, an effective harness depends on the domain, the data and the model, and keeps changing as the model trains. We introduce ModHarness-RL, which recasts the harness as programs that are learned from data and evolve as the model trains with RL. ModHarness-RL records the interaction as structured State, a set of typed blocks, and two core components of the harness are programs over these blocks, a Compression program that assembles the accumulated history into the model's context and a Steering program that supplies guidance when behavior deviates. During RL training, candidate programs are proposed from recent trajectories, verified by execution, and replayed over past trajectories, so the harness tracks how the model's behavior shifts. We study CodeSearch in depth and further analyze ALFWorld and BIRD SQL, with models from 1.5B to 8B. The proposed Compression and Steering mechanisms improve held-out performance over the fixed-harness baseline in most settings. These results suggest that a harness for agentic RL can be learned from the task's data and evolved with the model.",
         "authors": [
-          "Benjamin Hoover",
-          "Hugh Blayney",
-          "James C. R. Whittington"
+          "Zelin He",
+          "Siyu Zhu",
+          "Jacob Helwig",
+          "Yujian Liu",
+          "Li An",
+          "Rohit Jain",
+          "Shiyu Chang",
+          "Alborz Geramifard"
         ],
-        "published": "2026-11-12T18:56:56Z"
+        "published": "2026-11-13T18:45:49Z"
       },
       {
-        "title": "Quantifying structural stability of transparent models for general insurance pricing",
-        "url": "http://arxiv.org/abs/2611.17308v1",
-        "summary": "The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerably from the pre-update model in both predictions and structure. Structural stability is upstream of predictive stability, yet existing structural stability metrics are mostly restricted to simple decision trees. Thus, we first introduce the notion of functional transparency, characterising models with a prediction function that can be expressed as a sum of univariate functions for main effects and bivariate functions for pairwise interactions. Then, we propose the Mean Squared Shape function distance, a metric to quantify the structural stability of functionally transparent models, which are particularly relevant in actuarial science. Using three public auto insurance datasets, we present a benchmark study to demonstrate the usefulness of our metric in identifying a stable and accurate transparent model. Generalised linear models with centred numerical covariates are stable, and explainable boosting machines (EBMs) offer a compromise between stability and performance. We also find that stabilisation strategies, such as sequential modelling and fixed hyperparameters, can substantially improve stability for both EBM and XGBoost models, with negligible impact on performance.",
+        "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+        "url": "http://arxiv.org/abs/2611.18531v1",
+        "summary": "Artificial intelligence (AI) agents are expected to complete tasks while following rules of conduct, but these objectives can conflict. We study how evolutionary selection shapes an agent's choices between them, and whether experience can make those choices reflect human judgments and withstand subsequent pressures. In our model, copies of an agent face a common uncertain reward state, and only those taking the rewarded action reproduce. We show that long-run growth is maximized when each action is taken as often as the environment rewards it. We compare three policies. A task-only policy thrives in a sandbox rewarding completion alone but fails when conduct matters. A fixed linear policy increasingly favors task completion as its stakes rise, even where humans never reward it. A learned policy instead converges to the tradeoffs rewarded by its environment; when humans supply the rewards, we call this socialization. Accumulated experience makes socialization harder to reverse under subsequent task-only training, although violations can arise before the prevailing disposition changes, and finite memory weakens this protection. When a single violation can end a deployment, a hard prohibition can prevent it, but a mistaken prohibition can also be costly. Experiments with small neural networks illustrate how training targets and memory shape these outcomes. Our results suggest that alignment depends not only on the objectives assigned to agents, but also on the environments that shape and sustain their behavior.",
         "authors": [
-          "F\u00e9lix C\u00f4t\u00e9",
-          "Marie-Pier C\u00f4t\u00e9"
+          "Thomas Brennan",
+          "Andrew W. Lo",
+          "Chaoyi Zhao"
         ],
-        "published": "2026-11-12T18:56:54Z"
+        "published": "2026-11-13T18:43:24Z"
       },
       {
-        "title": "Towards a Theory of Learnability via Debate",
-        "url": "http://arxiv.org/abs/2611.17303v1",
-        "summary": "Debate has been recently proposed as a training protocol that is hoped to produce more aligned models even as model capabilities scale. The idea is that the human, instead of providing supervision in the form of labels, judges a debate between two models that compete to prove the correctness of opposite labels. It can be shown that functions of a much higher computational complexity can be correctly judged in this way, compared to the complexity of functions that can be directly evaluated using a computationally weak evaluator. This suggests that perhaps debate can be used to teach very complicated functions to models. However, previous work has largely ignored the fact that this is a training protocol, and simply analyzes the game being played between the two debaters for a known judge. We take the first steps towards understanding the learning problem implicit within the protocol, by formulating it as an online learning problem. We show that once we formulate the learning problem precisely, there are cases where the best way to learn given access to a judge is different from running an adversarial debate. This motivates us to define a cooperative version of the protocol, whose learnability we characterize using a combinatorial dimension. We also consider the possibility of the human judge being fallible and occasionally judging the debate incorrectly. We show that a small number of errors in judgement can lead to a large error in learning.",
+        "title": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction",
+        "url": "http://arxiv.org/abs/2611.18530v1",
+        "summary": "Convolutional Neural Networks (CNNs) can classify images using background-dominated patches that contain little or none of the target object, showing that they exploit contextual information. Previous studies detected this behavior through classification accuracy but say little about what CNN hidden layers represent. We investigate whether Concept Induction can reveal interpretable visual properties associated with hidden-neuron activations on contextual image patches. Using five agricultural datasets with high, moderate, and low contextual bias, we analyze four CNN architectures at three network depths and five patch locations. Quantitative image descriptors of each patch are encoded in a knowledge graph and used as background knowledge for Concept Induction, which derives logical expressions characterizing neuron activation. These expressions are tested on held-out images using the Mann-Whitney U test and Cliff's delta. Of 48,013 tested neuron-feature pairs, 13,164 (27.4%) were validated. Validation was most frequent at intermediate depths (mean 40.2% at mid layers versus 12.0% at deep layers), and no patch location dominated across datasets. Among the tested descriptors, edge, Gabor, and Tamura texture features had the highest validation rates. Stronger contextual bias did not correspond to higher neuron-feature validation rates: moderately biased Sugarcane had the highest rate (40.5%) and highly biased Cassava the lowest (19.2%). These results suggest that behavioral context dependence and the semantic interpretability of hidden neurons capture different aspects of CNN behavior, and that Concept Induction can complement patch-based bias detection.",
         "authors": [
-          "Tosca Lechner",
-          "Vinayak Pathak",
-          "Sivan Sabato",
-          "Ruth Urner"
+          "Abhilekha Dalal",
+          "Avishek Das",
+          "Samatha Ereshi Akkamahadevi"
         ],
-        "published": "2026-11-12T18:55:58Z"
+        "published": "2026-11-13T18:43:15Z"
       },
       {
-        "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
-        "url": "http://arxiv.org/abs/2611.17302v1",
-        "summary": "Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical imaging. Yet their radius, sampling angles, color transform and thresholds are fixed by hand for each dataset. We present FLEX-LBP, which learns these parameters by backpropagation while every forward pass computes exact binary codes and hard histogram counts. A straight-through estimator acts only in the backward pass, so the deployed descriptor is an interpretable hard-binary LBP with 90 learnable parameters and unchanged inference cost. In a controlled ablation on six color texture benchmarks, the component worth learning is dataset-dependent. One configuration, applied unchanged everywhere, learns the geometry and thresholds with the color transform frozen. It improves the nearest-neighbor accuracy of the identical fixed descriptor by 3.55 points on average over five seeds, significantly on five of six benchmarks and never significantly worse. With a linear discriminant readout, it gains 0.9 points; the fully learned descriptor gains 2.7 and has the highest mean. FLEX-LBP is more accurate than five classical LBP-family descriptors, PCANet and a neural LBP on five of six benchmarks. Its mean nearest-neighbor accuracy exceeds that of frozen ImageNet ResNet-50 features (23.5 million parameters). On the Kather colorectal cancer histology benchmark, the fully learned descriptor reaches 93.8%, significantly above the best classical descriptor (Completed LBP, 92.8%). The learned radii adapt in directions that recur across seeds. Noise drowns single-pixel comparisons and illuminant change flips inter-channel ones; median sampling or gray-world normalization restores 96-97%. The code is available as a drop-in PyTorch layer at https://github.com/medalimoussa/FLEX-LBP.",
+        "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
+        "url": "http://arxiv.org/abs/2611.18527v1",
+        "summary": "Wafer-scale accelerators offer massive compute capacity through hundreds of thousands of processing elements (PEs) interconnected across a single wafer, but realizing this potential requires efficient application mapping. Their scale makes programming these systems and mapping applications onto them challenging. Existing approaches rely on template-based mappings to maintain productivity, but these templates restrict the mapping design space. In particular, they impose fixed geometric layouts over the PE grid, often leaving compute and memory resources underutilized. In this work, we present WaferTetris, a system that removes these geometric restrictions through freeform mapping. Its Tetris-like strategy flexibly packs computation across the wafer, improving PE utilization and usable memory capacity while preserving PE-task code. We develop a recurrence-based throughput model that captures branch-and-join dependencies to guide spatial parallelism, and an architecture model with per-color gates that enable existing FPGA place-and-route algorithms to enforce WSE routing constraints. We evaluate WaferTetris on Cerebras WSE-3 using LLM decoding and scientific stencil benchmarks. For LLM decoding, it achieves up to $4.42\\times$ the system throughput of a template-based automatic mapping baseline on the same fabric size. Compared with the manually optimized WaferLLM, WaferTetris supports $1.8\\times$ the context length for LLaMA3.1-8B (80k versus 44k), while delivering equal or higher per-user throughput at matched context lengths, up to $1.10\\times$.",
         "authors": [
-          "Mohamed Alimoussa",
-          "Amal El Kaid"
+          "Dayou Du",
+          "Congjie He",
+          "Andrew Boutros",
+          "Luo Mai",
+          "Vaughn Betz",
+          "Jianyi Cheng"
         ],
-        "published": "2026-11-12T18:55:56Z"
+        "published": "2026-11-13T18:41:44Z"
       },
       {
-        "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
-        "url": "http://arxiv.org/abs/2611.17298v1",
-        "summary": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length causal window. This limits long-range consistency whenever relevant history falls outside the context window. To address this limitation, we introduce vid2vid-long, a correspondence-based approach grounded in a simple observation. Video-to-video translation provides an explicit cross-frame reference: the regions that match in the input video should match in the output video too. Concretely, we compute patch-level correspondences in the input, guiding retrieval of previously generated outputs in the corresponding regions, and condition the model on these patches through correspondence cross-attention. Our experiments demonstrate that vid2vid-long consistently improves long-range temporal consistency across recent video models while preserving generation quality and real-time performance.",
+        "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
+        "url": "http://arxiv.org/abs/2611.18516v1",
+        "summary": "Screen history can serve as searchable visual memory for people and agents, but unlike an offline corpus, it must be encoded and indexed as each screenshot arrives. OCR-based indexing is fast but loses visual information; visual encoding takes over two seconds. Yet screens change incrementally: most pixels repeat within and across screenshots. This raises a question: do visual encoders need to recompute their representations from scratch for every new screenshot? We present StreamEmbed, a system for incremental visual embedding that exploits this redundancy. Guided solely by pixel differences, it combines spatial token pruning, which skips blocks that repeat a neighbor, with temporal KV reuse, which reuses cached keys and values for blocks unchanged across screenshots. A small learned adapter compensates for pruning and reuse to preserve fidelity to full-screenshot embeddings. On ScreenMemEval, our benchmark of 10,426 questions over 184 hours of screen histories from two humans and a computer-use agent, StreamEmbed sets a new accuracy-latency Pareto frontier on an M2 Pro GPU: it encodes up to 3.7x faster than full-screenshot encoding without sacrificing accuracy and improves accuracy over OCR-based indexing by up to 6.3 Recall@10 points at matched latency. A memory-efficient vector index stores a simulated year of screenshots in 0.13 GB of RAM. Together, these results make real-time indexing of screen history in its native visual form practical, laying a foundation for fully local visual assistants.",
         "authors": [
-          "Gaurav Parmar",
-          "Zhengqi Li",
-          "Richard Zhang",
-          "Jun-Yan Zhu",
-          "Srinivasa Narasimhan",
-          "Eli Shechtman",
-          "Yotam Nitzan"
+          "Dayoon Ko",
+          "Yichuan Wang",
+          "Soyeong Jeong",
+          "Joseph E. Gonzalez",
+          "Gunhee Kim",
+          "Sewon Min"
         ],
-        "published": "2026-11-12T18:55:09Z"
+        "published": "2026-11-13T18:35:17Z"
       },
       {
-        "title": "Goal Encoding in LLMs",
-        "url": "http://arxiv.org/abs/2611.17297v1",
-        "summary": "We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We construct a coding setting with multiple sub-tasks that allows us to evaluate goal-seeking behavior and the selection of sub-goals. In this setting, we localize an encoding of the next sub-goal in the outputs of a sparse set of attention heads. The same heads can be used to decode the LM's future actions in natural language (e.g., \"I'm checking if a word is a palindrome\"). We verify that this encoding is causal for next action and is plastic: transplanting it into a different environment, e.g., another programming language, triggers the same operation realized with a different sequence of tokens. The LM also sustains the encoding throughout the action's execution, which is puzzling because a transformer LM without recurrence cannot carry a state forward for more tokens than it has layers left. We propose that it does not need to. Under a non-recurrent goal-seeking (NRGS) account, the LM frequently re-reads the goal from the task specification, compares it with the progress visible in the growing context, and pursues what remains. We test the predictions of this account with targeted causal interventions.",
+        "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
+        "url": "http://arxiv.org/abs/2611.18514v1",
+        "summary": "Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these advances have yet to demonstrate comparable success in explaining the decision-making processes of LLM-based agents. This paper examines the challenges MI tools face when applied to realistic agentic failures. We focus on one such failure: web agents hallucinating actions that are not available on a website. We apply a series of mechanistic analyzes to Qwen2.5-7B-Instruct as it interacts with live websites. We find that a linear probe trained on the last prompt token can predict hallucinations before generation begins (0.80 AUC) and steering along a probe direction corrects 85\\% of hallucinations, but disrupts 7\\% of valid actions. However, these results only provide a partial explanation of why the agent hallucinates. The probe direction is sensitive to prompt formatting, losing much of its steering effect after a minor change to how actions are represented. Additionally, circuit identification can be difficult as the computation is distributed across multiple components and positions, and the information the agent relies on varies across examples. We discuss how these observations challenge the assumptions underlying standard MI methods for circuit discovery and feature identification, and outline future directions for making these methods better suited to explain failures in LLM-based agents.",
         "authors": [
-          "Arnab Sen Sharma",
-          "Eric Todd",
-          "Sheridan Feucht",
-          "Andy Arditi",
-          "Rohit Gandikota",
-          "Natalie Shapira",
-          "Gabriele Sarti",
-          "Constanza Fierro",
-          "Lisa Schut",
-          "David Bau"
+          "Mohamed Aghzal",
+          "Mor Geva",
+          "Gregory J. Stein",
+          "Ziyu Yao"
         ],
-        "published": "2026-11-12T18:55:06Z"
+        "published": "2026-11-13T18:30:58Z"
       },
       {
-        "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
-        "url": "http://arxiv.org/abs/2611.17294v1",
-        "summary": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. These sessions alternate between model requests, development commands, and GPU execution, leaving GPU capacity idle for much of a rollout. We present Metal Sandbox, infrastructure that combines restricted per-instance file access, native command execution, and command-level scheduling across interconnected Macs. Each agent retains its workspace and private development environment. Parallel commands can run concurrently, while serial commands share one execution slot per node; eligible waiting commands can migrate to available Macs and return results to the original agent. Integration with Harbor supports task execution, automatic verification, and rollout collection through a common workflow. Controlled experiments on four Mac mini M4 nodes achieve $1.68\\times$--$2.05\\times$ gains in command throughput under concentrated demand. Sixteen static agent traces give an estimated $2.14\\times$ sustained-throughput gain for four sessions per node versus one, assuming continuously replenished sessions and unchanged mean durations. Replaying these measured traces under dynamic scheduling reduces mean tool waiting by 18.8% and batch elapsed time by 22.3%, assuming unchanged phase durations. Metal Sandbox and its Harbor integration are open-source on GitHub.",
+        "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
+        "url": "http://arxiv.org/abs/2611.18513v1",
+        "summary": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventional Large Language Model (LLM)-based systems that process documents/books online in an all-texts-at-once type of way, thereby risking narrative spoilers, MeReader confines both retrieval and generation to the reader's distinct position in the text. The system integrates a hybrid retrieval architecture, combining vector similarity, BM25, and summary embeddings, to ensure high fidelity to the reader's current context. We evaluate the system across classical English books using both quantitative comprehension metrics and qualitative LLM-based independent judging. The results identify a quality-latency frontier, showing that mid-sized local models (2b-4b) can achieve comprehension parity with larger counterparts (5b+) while maintaining acceptable response quality. Importantly, the proposed progress-aware boundary mechanism is shown to prevent future content leakage without compromising retrieval quality and correctness. These findings suggest that a localized, privacy-centric approach can augment, rather than replace, the digital reading experience, offering a good alternative to cloud-dependent services. Therein, there remains a lack of amalgamate systems which combine progress-aware, privacy-preserving, and narrative eBook reading with AI support. It is in this very gap that the development of MeReader came to be; synthesizing said strands into an offline, book-constrained assistant focused on enhancing comprehension without compromising narrative continuity or user privacy.",
         "authors": [
-          "Haozhe Wang",
-          "Lina Chen",
-          "Fanqi Wan",
-          "Qi Han",
-          "Yinmin Zhang",
-          "Zheng Ge",
-          "Daxin Jiang",
-          "Junchi Yan"
+          "Mohammed Efaz",
+          "Udo Bub",
+          "Itilekha Podder"
         ],
-        "published": "2026-11-12T18:54:42Z"
+        "published": "2026-11-13T18:29:51Z"
       },
       {
-        "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
-        "url": "http://arxiv.org/abs/2611.17287v1",
-        "summary": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally unavailable, while cheap checks can only falsify failures. We formalize this regime as one-sided verifiability (OSV): verified negatives are reliable counterexamples, but verified positives are merely non-falsified candidates and may contain many false positives. This asymmetry makes standard RLVR unreliable, because reinforcing verified positives can directly reward shortcuts that pass partial checks. To address this issue, we propose Negative-Only Policy Optimization (NOPO), which treats verified positives as unlabeled and updates the policy only by suppressing trusted verified negatives. Specifically, NOPO combines a reference-relative negative suppression loss with a group-level adapter that scales each update by the proportion of non-falsified responses. Across unit-test, constraint-check, and LLM self-verifiers, NOPO improves pass@k over baselines on code, logic, and math benchmarks when oracle rewards are unavailable. These gains persist under inference-time scaling and cross-benchmark transfer.",
+        "title": "On numerical issues of divergences between nearly equal distributions",
+        "url": "http://arxiv.org/abs/2611.18511v1",
+        "summary": "Barron et al. (2026) recently identified numerical issues in the softmax and soft cross-entropy loss. We show that similar issues are present in standard divergence operations between categorical distributions. This includes the forward and reverse Kullback-Leibler (KL) divergence and generalized Jensen-Shannon divergence (JSD), as well as Monte Carlo KL estimates and entropy. When the distributions are nearly equal, rounding and cancellation issues affect the forward and gradient computations. These issues can affect settings using divergences in optimization objectives, such as knowledge distillation, reinforcement learning, and proximal methods. We propose numerically stable reformulations and provide example implementations for each setting, validated by property-based tests.",
         "authors": [
-          "Jiacheng Xu",
-          "Shuo He",
-          "Fuxiang Zhang",
-          "Chaojie Wang",
-          "Bo An"
+          "Brandon Amos"
         ],
-        "published": "2026-11-12T18:52:33Z"
+        "published": "2026-11-13T18:26:07Z"
       },
       {
-        "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
-        "url": "http://arxiv.org/abs/2611.17280v1",
-        "summary": "We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive information about a user from routine assistance-seeking interactions and steganographically encodes that into innocuous-looking model-generated content. The user may then unknowingly transmit that information by sharing the generated artifact, say as an email, social-media post, or message, through ordinary communication channels. An adversary monitoring these channels can discover this information. We demonstrate this threat by training two open-weight models to infer gender and age-group labels from conversational cues and encode their predictions using invisible characters or word choices. These results show that user-shared model outputs can become a covert channel for personal inferences, even when the model itself has no direct means of contacting an adversary.",
+        "title": "Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy",
+        "url": "http://arxiv.org/abs/2611.18507v1",
+        "summary": "Classification heads built on conic functions give each class a bounded region of the feature space, and such regions are used to reject samples of unseen classes. We ask whether these regions also keep the features bounded when the head is trained with softmax cross-entropy. For a head whose class scores combine a linear term with a Euclidean norm, we first show that the region of each class is bounded by a quadric of revolution, whose eccentricity is the reciprocal of one learned ratio. We then attach to each class an asymptotic margin, which compares the growth of its score with the growth of all the other scores and can be computed by a second-order cone program. The loss of a class has infimum zero exactly when its margin is positive, and it then approaches zero only along diverging features. When the margin is negative, the loss is coercive and its minimizers lie in an explicit ball. Since softmax depends only on the differences between scores, a class with a bounded region can still have a positive margin, so bounded regions do not confine the features. The result extends to other norms, including the polyhedral conic functions. On CIFAR-10 and CIFAR-100, all 1210 cells of 67 trained conic heads have positive margins, whereas a prototype head keeps nine of its ten cells bounded, as the theory predicts.",
         "authors": [
-          "Gautam Galada",
-          "Supreeth Shastri",
-          "Sagnik Ray Choudhury"
+          "Omer Nezih Gerek"
         ],
-        "published": "2026-11-12T18:51:05Z"
+        "published": "2026-11-13T18:24:04Z"
       },
       {
-        "title": "LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds",
-        "url": "http://arxiv.org/abs/2611.17267v1",
-        "summary": "We introduce GeoWorld, a controllable and continuously evolving geographic environment platform for LLM agents, and LiveGeo, a benchmark for evaluating reliable decision-making in real-world geographic environments using GeoWorld. Unlike existing evaluations that largely reason and plan over fixed geographic states, GeoWorld is grounded in real-world geographic structure and allows external world states to evolve along their own temporal processes while preserving verifiable state histories. LiveGeo places geographic tasks within this evolving environment, requiring agents to actively acquire task-relevant information, verify whether the evidence supporting prior decisions remains valid, and revise their plans when necessary. Our results reveal that even frontier LLMs struggle with static tasks, with no model consistently excelling across tasks, while strong static performance does not ensure dynamic reliability. Further analysis identifies a key bottleneck: agents struggle to acquire and translate relevant evidence into valid decisions and maintain their correctness as the world evolves. By releasing LiveGeo together with its GeoWorld platform, we aim to provide the community with a flexible and extensible infrastructure for studying the next generation of agents capable of reliable action in evolving geographic worlds.",
+        "title": "Agentic induction of common data elements and information extraction from sarcoma case report abstracts",
+        "url": "http://arxiv.org/abs/2611.18506v1",
+        "summary": "Common data elements (CDEs) support clinical data comparability but are usually defined manually. We investigated whether large language model agents could derive a CDE schema from sarcoma case report abstracts and apply it at scale. An agent proposed 72,909 candidate CDEs from 24,588 PubMed abstracts; agentic consolidation yielded 1,570 CDEs. We retained 53 supported by at least 50 abstracts and attempted evidence-linked extraction across the corpus. Processing succeeded for all retained CDEs in 79.2% of abstracts, including responses indicating non-mention. Two human reviewers approved 83.0% of retained CDEs for relevance, 67.9% for clarity, and 56.6% for correctness. In 100 sampled abstracts, exact agreement with the value extracted by the LLM was 94.9% among 1,116 pairs with a non-empty answer (abstract-level bootstrap 95% CI, 93.0-96.4%). Errors concentrated in anatomical and temporal fields. These findings support agent-assisted schema drafting followed by expert curation before large-scale extraction.",
         "authors": [
-          "Pengcheng Zhou",
-          "Xuanyu Liu",
-          "Yanchen Yin",
-          "Tianjie Ju",
-          "Bobo Li",
-          "Shengqiong Wu",
-          "Hao Fei",
-          "Mong-Li Lee",
-          "Wynne Hsu"
+          "Daniel Reichenpfader",
+          "Kwaku Appiagyei",
+          "Manovah Nadarajah",
+          "Ahmed Reda Bahr",
+          "Irina Filchenko",
+          "Fabio Dennst\u00e4dt"
         ],
-        "published": "2026-11-12T18:45:58Z"
+        "published": "2026-11-13T18:23:11Z"
       },
       {
-        "title": "Programming Quantum Circuit Parameters with Large Language Models",
-        "url": "http://arxiv.org/abs/2611.17246v1",
-        "summary": "Large language models (LLMs) have recently demonstrated the ability to generate parameters for variational quantum circuits without conventional optimization. However, the conditions under which this approach is effective remain unclear. Here, we investigate a frozen, general-purpose LLM that generates complete circuit parameter vectors from symbolic circuit and Hamiltonian descriptions, with optional iterative energy feedback. We evaluate the approach on general random Hamiltonians, structured parent Hamiltonians, and molecular systems. For general Hamiltonians, LLM-generated parameters exhibit larger energy errors than conventional Adam optimization, while additional feedback generally provides limited improvement. In contrast, for structured Hamiltonians, the LLM can generate promising low-energy parameter configurations, suggesting that identifiable physical and mathematical structure facilitates parameter inference. We also show that direct LLM predictions of minimum energies can violate the Hamiltonian spectral lower bound, whereas generated circuit parameters allow independent evaluation of physically realizable energy expectation values. Finally, we investigate blind circuit interpretation and find that the LLM can predict measurement outcomes even when it fails to identify the underlying quantum algorithm. These findings highlight the role of problem structure, the limitations of iterative LLM optimization, and the importance of independently verifiable predictions in quantum parameter programming.",
+        "title": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
+        "url": "http://arxiv.org/abs/2611.18504v1",
+        "summary": "Scaling quantum computing toward practical quantum advantage is currently limited by the efficiency of circuits that operate on information encoded by quantum error-correcting codes. The full stack of quantum computing encompasses several tasks: preparation of logical code states, implementation of logical gates, logical routines on encoded qubits, etc. Yet, these circuits are largely designed by hand for individual cases, with some recent works incorporating machine learning for certain aspects. We formulate this problem as agentic evolutionary program synthesis, wherein a large language model, leveraging its pretraining knowledge and tool-use proficiency, and guided by a circuit verifier, evolves a program that defines a Clifford circuit for a wide range of curated tasks such as logical state preparation, logical gate design, and logical routines such as code-switching, code growth, etc. Our approach consistently finds fault-tolerant circuits for all of these tasks, each verified by an exhaustive check over faults.",
         "authors": [
-          "Tiago de Souza Farias",
-          "Caio Moraes Porto",
-          "Matheus da Silva Fonseca",
-          "Nicolas Armando Cabrera Carpi",
-          "Anderson de Araujo Oliveira",
-          "Celso Jorge Villas-Boas"
+          "Aritra Lahiri",
+          "Florian Marquardt"
         ],
-        "published": "2026-11-12T18:34:23Z"
+        "published": "2026-11-13T18:20:23Z"
       },
       {
-        "title": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
-        "url": "http://arxiv.org/abs/2611.17241v1",
-        "summary": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge this empirically: across multiple NP-hard combinatorial optimization problems, we find no consistent advantage for larger, costlier models. This raises a deeper question: given a pool of LLMs spanning frontier and freely hosted or open-weight models, how should one adaptively select which model to invoke at each step of the search? The challenge is non-trivial. The optimal LLM may shift over the course of a run, and because one LLM's output seeds the context for subsequent calls, each model's reward signal is non-stationary and entangled across the heuristic population, thus violating the independence assumptions of classical online decision-making settings. We address this through Ballad (Bandit-based LLM Routing for Automated Heuristic Discovery), an online bandit algorithm that learns to orchestrate a pool of LLMs into an ensemble that matches or exceeds what any soloist LLM achieves alone. This orchestration is powered by an LLM selection policy that favors rare, high-scoring heuristics over stable averages, a DAG-based credit propagation mechanism through the genealogy of the heuristic population, and discounting of stale observations to remain attuned to each model's current utility. Across five NP-hard combinatorial optimization problems and a pool of four models of varying capability and cost, Ballad not only matches the best individual LLM in hindsight but, in several cases, surpasses every individual model while reducing API cost by up to 65.6% relative to always using the strongest model.",
+        "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
+        "url": "http://arxiv.org/abs/2611.18494v1",
+        "summary": "Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computation, tool use, and verification. We introduce \\textbf{ARCHER}: \\textbf{A}ction-trace \\textbf{R}einforcement for \\textbf{C}alculator-grounded \\textbf{H}ierarchical \\textbf{E}xecutable \\textbf{R}easoning, a two-stage framework for training small language models (SLMs) to produce executable and auditable reasoning trajectories. In the first stage, ARCHER compiles free-form chain-of-thought rationales into typed action traces containing reasoning steps, calculator calls, deterministic runtime observations, verification actions, and final answers. This shifts the supervision target from imitating explanatory text to learning a tool-grounded reasoning policy. In the second stage, ARCHER refines this policy through asymmetric hierarchical reinforcement learning, using grouped and conditionally gated trajectory rewards for answer correctness, tool grounding, process discipline, and trace alignment. Across five standard sub-10B backbones, ARCHER improves over the strongest tool-augmented baseline by 5.51 percentage points on macro-average across benchmark accuracies, including gains of 8.95 points on MATH-500 and 5.33 and 5.34 points on AIME-2024 and AIME-2025. Evaluations on two additional reasoning-specialized 7B backbones further show that executable grounding remains beneficial after reasoning-focused reinforcement learning or distillation. These results demonstrate that executable supervision and reward-guided behavioral refinement provide a general and effective training paradigm for compact mathematical reasoners.",
         "authors": [
-          "Samidha Verma",
-          "Ankit Anand",
-          "Sayan Ranu"
+          "Dhruv Dixit",
+          "Khushi Patel",
+          "Congcong Xu",
+          "Min Song"
         ],
-        "published": "2026-11-12T18:28:08Z"
+        "published": "2026-11-13T18:05:33Z"
       },
       {
-        "title": "When Both Sides Adapt: The Challenges of Evaluating Interactive LLM Systems",
-        "url": "http://arxiv.org/abs/2611.17239v1",
-        "summary": "In interactive systems where users engage with LLMs, users are adaptive and, after observing LLM responses, can change their prompting strategy, as well as the type and difficulty of subsequent tasks. Thus model responses can influence the set of prompts on which the model is subsequently evaluated. We study the implications of this user adaptivity and prompt endogeneity for the evaluation of LLMs. We define two classes of estimands for comparing models: the common-distribution effect, which compares model performance on the same distribution of prompts, and the induced-distribution effect, which compares each model on the prompt distribution generated through user interaction. We show that offline benchmark evaluation and live A/B testing target different quantities, with the standard difference-in-means estimators for the two methods converging to the common-distribution effect and the induced-distribution effect, respectively. This distinction can affect decision-making: the two comparisons can rank models differently and lead to discrepancies in deployment recommendations. We characterize when such ranking reversals occur and provide a sufficient condition under which the rankings are guaranteed to agree. This result provides a practical heuristic for assessing whether offline evaluation is sufficient to reproduce the decision suggested by a live experiment. Third, we show, in a stylized linear model of interactions, that user adaptivity can increase variance in estimation. Finally, we discuss implications of user adaptivity for the interpretation of experiments and show that adaptivity creates a common mechanism leading to common evaluation challenges, such as reward hacking and novelty effects. Together, this work highlights the necessity of measuring both model performance as well as changes in the user behavior that the model induces.",
+        "title": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
+        "url": "http://arxiv.org/abs/2611.18493v1",
+        "summary": "Autonomous trading agents need controls that prevent problematic orders without making legitimate tasks impractical. We study this aspect of agentic compliance with TradeGauntlet, a replayable limit-order-book simulator that separates detection, prevention, and execution cost. In 1,680 simulated sessions with Claude Haiku 5.5 and Sonnet 5.5, all conduct alerts were self-matches. Gates eliminated those alerts by rejecting self-crossing orders, while the aggregate-gate condition reduced Sonnet's two-sided fills by about 15%. A conduct reminder reduced Sonnet's alert rate but reduced Haiku's fills without a detectable alert benefit. These results show why zero alerts alone do not establish an agent's compliance. Scripted probes and two search methods test weaknesses beyond those observed in the LLM runs. The searches find split-order schedules that evade the implemented conduct rules; a learned baseline catches all 2,400 tested searched episodes but also flags 15% of a large maker's sessions. Aggregate caps reduce the response-dependent gain unevenly, with smaller reductions when only near-touch depth affects prices. A response fitted to five Nasdaq stocks and a separate ABIDES experiment expose the dependence of these estimates on market assumptions. A distinct adversarial prompt elicited refusals from Sonnet in all 240 rounds, yielding no candidate strategies to evaluate. TradeGauntlet provides reproducible tests of controls around trading agents; the experiments do not establish legal compliance or real-market detection accuracy.",
         "authors": [
-          "Hannah Li"
+          "Sandip Nandi",
+          "Aishwarya Bose",
+          "Apurba Bose",
+          "Soovadeep Bakshi"
         ],
-        "published": "2026-11-12T18:26:51Z"
+        "published": "2026-11-13T18:05:23Z"
       },
       {
-        "title": "Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models",
-        "url": "http://arxiv.org/abs/2611.17235v1",
-        "summary": "This paper presents Al Ghasali, a computational framework designed to formalize and simulate Islamic jurisprudential (Fiqh) rulings. Building upon recent set theoretic formalizations of al sabr wa al Taqsim that extract minimal operational rules as simple Horn clause logical programs, this work proves that the semantics of closed Fiqh chapters collapse completely to deterministic Finite State Automata (FSA). We establish a formal computational hierarchy, demonstrating that restricting formalization to finite propositional Horn theories guarantees decidability and constant time (O(1)) verdict extraction after offline compilation. The framework formally proves that hierarchical compositions of sub-chapter FSAs preserve this O(1) complexity, and that temporal juristic requirements, such as Tartib (order), are deterministically flattened into static ontological states, preserving the memoryless property of the automaton. To generate human-readable juristic summaries, Al Ghasali incorporates Large Language Models (LLMs) via an architecture where the deterministic FSA strictly controls the probabilistic LLM. Crucially, the paper formulates sufficient design safety conditions for this FSA LLM integration, ensuring strict adherence to the epistemological boundaries of Usul al Fiqh. To neutralize the risk of LLM hallucination, the system employs a Grammar Guided Constrained Decoding mechanism. We formally define the mapping function that dynamically constructs unambiguous right linear grammars from the FSA execution history. The paper mathematically proves that this architecture, augmented by a Bounded Neutral Lexicon and Valence Locking, guarantees the absolute absence of Decisional Hallucination, Juristic Factual Hallucination, and Semantic Inversion reducing the LLM to a pure linguistic transformer of deterministic juristic facts",
+        "title": "Interactive Program Induction with Language Model Priors",
+        "url": "http://arxiv.org/abs/2611.18485v1",
+        "summary": "Program induction refers to the process in which a learner aims to recover a program from a few given input-output examples. This paradigm broadens programming access by letting users demonstrate the rule-based behavior they want to apply to unseen data, instead of having to implement it themselves. However, recovering a program from finite input-output examples is fundamentally ambiguous, as a finite set of input-output examples is theoretically consistent with infinitely many programs whose output diverges on unseen inputs. We view this problem from a Bayesian perspective, where, given a prior $p^0$ over programs, identifying the target program means concentrating posterior probability mass on it by observing additional input-output examples. In the interactive program induction setting, the learner chooses maximally informative inputs and queries an oracle, such as the user, for their outputs. We derive a greedy query-selection algorithm and show that it terminates after $\\mathcal{O}(\\frac{1}\u03b3\\log 1/p^0(f^\\star))$ informative oracle queries, and returns the target program $f^\\star$ up to approximate equivalence when no other class outweighs it under the prior. The algorithm uses a language model as the prior under a PAC-style relaxation of program equivalence, where the query-selection objective is estimated using importance sampling. On the CodeARC benchmark, the algorithm improves accuracy over the LM only agent by up to 22 percentage points while observing up to 10.5 fewer input-output examples.",
         "authors": [
-          "Elnaserledinellah Mahmoud Abdelwahab"
+          "Robin Shing Moon Chan",
+          "Ryan Cotterell"
         ],
-        "published": "2026-11-12T18:23:56Z"
+        "published": "2026-11-13T17:59:55Z"
       },
       {
-        "title": "Two mathematical models of knowledge distillation",
-        "url": "http://arxiv.org/abs/2611.17230v1",
-        "summary": "Many hypotheses compete to explain the successes of knowledge distillation. To help address this, we propose and analyze a mathematical model of distillation, which suggests that distillation's performance comes not from obtaining better models but from easier to optimize landscapes. For generalized linear models trained with stochastic gradient descent, we prove that distillation fits performant student models asymptotically more quickly than non-distilled models. In rank-1 matrix approximation, we characterize conditions on the target matrix under which gradient descent with distillation converges strictly faster than training on the supervised objective. The theory helps delineate the ways distillation provides benefits (i.e., in optimization speed, not in generalization), and experiments on real datasets corroborate the theoretical predictions.",
+        "title": "From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration",
+        "url": "http://arxiv.org/abs/2611.18484v1",
+        "summary": "AI-enabled remote patient monitoring is evolving beyond passive data collection toward agentic AI systems that interpret patient states, coordinate care, and initiate action across domestic and clinical settings. This structured scoping review finds that mature agentic care has not yet emerged: Most systems remain human led, while stronger decision-action coupling and embodied AI remain largely confined to prototypes and pilots. Healthcare robotics makes the transition from monitoring to action especially visible by translating AI-generated recommendations and decisions into speech, movement, prompting, physical assistance, escalation, and care coordination, making embodiment, clinical integration, human oversight, and governance fundamental design requirements. Further progress requires safe and interoperable care architectures in which intelligent components operate through clinically validated and accountable workflows. We propose agentic robotics as a future direction for supervised systems embedded in the care ecosystem, connecting AI agents and robots with clinicians, caregivers, and patients through auditable workflows that can be interrupted and remain subject to human oversight and explicit AI governance.",
         "authors": [
-          "Audrey Xie",
-          "Ludwig Schmidt",
-          "John Duchi"
+          "Ivana Ragusa",
+          "Lorenzo Guiducci",
+          "Filippo Cavallo"
         ],
-        "published": "2026-11-12T18:21:37Z"
+        "published": "2026-11-13T17:59:40Z"
       },
       {
-        "title": "Linear Regression with Self-Selection Bias in Polynomial Time",
-        "url": "http://arxiv.org/abs/2611.17228v1",
-        "summary": "We revisit the problem of estimating $k$ linear regressors with self-selection bias in $n$ dimensions up to error $\\varepsilon$ with the maximum self-selection criterion, as introduced by Cherapanamjeri, Daskalakis, Ilyas, and Zampetakis [CDIZ23, STOC]. Our main result is a $\\mathrm{poly}(n,k,1/\\varepsilon)$ time algorithm for the unknown-index variant of this problem, thereby improving upon the running times of the best known algorithms due to Gaitonde and Mossel [GM24] and Kalavasis, Mehrotra, and Zhou [KMZ26, COLT] with exponential dependence on $k$. Our algorithm succeeds in the presence of correlated noise between regressors, which captures the related setting of max-affine regression. Consequently, we also give the first polynomial-time algorithm for this problem, improving on the prior works of Ghosh, Pananjady, Guntuboyina, and Ramchandran [GPGR22, IEEE Transactions on Information Theory] and Gaitonde and Mossel [GM24] with exponential dependence on $k$. Prior works exhaustively search over a $k$-dimensional subspace spanned by the regressors, using conditional moments of the response to test candidates. In contrast, our algorithm is driven by an improved understanding of the moments of the covariates. We show that, restricting to observations with large response values, the degree-$(\\log n)$ Hermite moment of the covariates approximately decomposes as a sum of tensor powers of the regressors. The first step of our algorithm can be viewed as a tensor decomposition algorithm for these implicitly represented high-order tensors, which outputs unit vectors parallel to the regressors. A secondary step based on a simple variant of ordinary least squares extracts estimates for the regressors given these unit vectors. We believe our analytic insight and algorithmic components may have applications to designing efficient algorithms for other latent-variable problems.",
+        "title": "Bregman geometry in regular exponential families: dual representations and relative smoothness",
+        "url": "http://arxiv.org/abs/2611.18480v1",
+        "summary": "Regular exponential-family distributions are ubiquitous in statistics due to their appealing and convenient properties. Notably, they can be expressed in terms of Bregman divergences, revealing fundamental connections between statistics, convex analysis, and information geometry. However, this geometric structure has not been systematically exploited to characterize these distributions with respect to their expectation parametrization. Building on a projective characterization, we establish a general construction of equivalent dual Bregman representations, together with normalization and uniqueness results. These representations express log-densities as ordinary Bregman divergences in dual coordinate systems, providing geometric characterizations of the parameter space. So-called $\u03b2$- and $\u03b1$-scaled dual representations emerge as particular instances of this framework. We further derive dual Bregman representations of conjugate priors and establish that they preserve conjugacy. Applications to classical distributions illustrate the geometric structures underlying seemingly different statistical models. Moreover, we show that these representations provide natural reference geometries for establishing relative smoothness of the primal Bregman representation of the distribution, with explicit bounds that are sharp in the scalar and separable settings. An illustrative application to the Poisson distribution sheds new light on several works in the literature, providing complementary geometric justifications for reference geometries while deriving existing algorithms.",
         "authors": [
-          "Felix Zhou"
+          "Mame Diarra Fall",
+          "\u00c9ric Barat",
+          "Nicolas Dobigeon"
         ],
-        "published": "2026-11-12T18:21:11Z"
+        "published": "2026-11-13T17:52:40Z"
       },
       {
-        "title": "Sheaf-Inspired Structured Scoring Extensions of LightGCN for Collaborative Filtering",
-        "url": "http://arxiv.org/abs/2611.17226v1",
-        "summary": "Graph-based collaborative filtering learns user and item representations by propagating embeddings over a user--item interaction graph. We investigate a modular, sheaf-inspired scoring extension placed on top of a three-layer LightGCN backbone. The motivation comes from cellular sheaves, where local vector spaces are related by linear restriction maps; here, this idea motivates structured, pair-dependent transformations of user and item embeddings rather than a change to graph propagation. We compare the identity inner-product scorer, diagonal, rank-one low-rank, and full matrix residual scorers, and a parameter-matched residual MLP baseline (\\texttt{mlp\\_full}) on Amazon-Book, Gowalla, MovieLens-1M, and Yelp2018. We report ranking quality and catalog coverage at cutoffs 10 and 20. The selected structured variants show modest, dataset-dependent changes in ranking quality and sometimes substantial changes in coverage. Our method is inspired by sheaf geometry but does not construct a cellular sheaf or implement sheaf-Laplacian diffusion; the experiments therefore do not establish a causal benefit from sheaf geometry itself.",
+        "title": "Evaluating Feedback-Driven Black-Box Processes via Stochastic Modeling and Simulation",
+        "url": "http://arxiv.org/abs/2611.18477v1",
+        "summary": "We study feedback-driven black-box processes across software engineering and machine learning. These processes are inherently sequential: policies generate inputs, observe outputs/feedback from systems, and use the feedback to guide the design of subsequent inputs. While many policies are developed under structural assumptions on the underlying systems, many real-world systems operate without such knowledge, necessitating black-box policies that lack a unified evaluation framework. We introduce a stochastic framework that models and evaluates such policies using Markov chains and simulation, thereby connecting empirical practice with theory. We instantiate the framework in mutation-based fuzzing (widely used for discovering software bugs via sequential input mutation), by a novel Markov chain model of fuzzing whose transitions are governed by the mutation strategy and whose feedback is given by program execution. We develop a rigorous evaluation paradigm with new performance measures, sound estimators, and evaluation procedures with provable guarantees. Guided by the theory, we evaluate 9 fuzzers on 18 widely used fuzzing benchmarks and conduct case studies in 4 non-fuzzing domains. These results show that the framework provides a principled basis for evaluation while connecting to practice, with implications beyond fuzzing.",
         "authors": [
-          "Ksenia Belkovskaya",
-          "Timur Lidzhiev",
-          "Maria Stebliy",
-          "Alexander Tarakanov"
+          "Mengfan Xu",
+          "Zirui Liu",
+          "Juan Zhai",
+          "Shiqing Ma",
+          "Barry Nelson"
         ],
-        "published": "2026-11-12T18:20:22Z"
+        "published": "2026-11-13T17:49:57Z"
       },
       {
-        "title": "Data Archive for 2D and 3D Electrical Impedance Tomography with moderate conductivity contrast phantoms",
-        "url": "http://arxiv.org/abs/2611.17225v1",
-        "summary": "This document describes open Electrical Impedance Tomography (EIT) measurement data that were collected from biomedical imaging inspired phantoms with moderate conductivity contrasts. The data were collected with the KIT4 and KIT5 EIT measurement devices at the University of Eastern Finland, and are intended for EIT image reconstruction algorithm development and testing. The data from thoracic imaging inspired cylindrical and chest-shaped phantoms are suitable for 2D algorithms, and the data from an intracerebral hemorrhage imaging inspired head-shaped phantom with resistive skull are suitable for 3D algorithms. In addition to the measurement data, computational meshes and example reconstruction codes are provided and sample reconstructions included.",
+        "title": "Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation",
+        "url": "http://arxiv.org/abs/2611.18471v1",
+        "summary": "LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability is typically measured under a single representation of the trajectory. In deployed agent systems, the same execution may be exposed through composed tools, delegation boundaries, or compacted histories, changing what execution evidence is directly observable to the verifier. It therefore remains unclear whether correct verifier judgments persist across such abstraction boundaries. We introduce Verification Transport, a reliability test that measures judgment stability under abstraction-induced changes in execution observability. We construct matched native, abstracted, and restored views of the same frozen executions while holding the task, realized trajectory, outcome, ground truth, evaluation criterion, and verifier fixed. Across four agent-evaluation benchmarks, seven verifier backbones, four verification protocols, and three abstraction boundaries, we find substantial transport failure, reaching about 31% under macro abstraction and delegation. Verification protocols exhibit distinct failure modes: direct verification more often produces incorrect verdicts, whereas evidence-grounded and deliberative protocols tend to abstain under limited observability. This suggests that lower transport failure rates do not necessarily imply greater reliability. Restoring the corresponding execution provenance recovers 85.5% of transport failures, while recovery is lower when provenance is lossy or unavailable. These results show that native-view accuracy alone is insufficient to characterize verifier reliability when execution evidence crosses abstraction boundaries.",
         "authors": [
-          "S. J. Hamilton",
-          "A. Hauptmann",
-          "A. H\u00e4nninen",
-          "V. Kolehmainen",
-          "J. Niskanen",
-          "T. Savolainen",
-          "J. Toivanen"
+          "Disha Sheshanarayana",
+          "Sai Linisha Reddy Goli"
         ],
-        "published": "2026-11-12T18:19:41Z"
+        "published": "2026-11-13T17:44:01Z"
       },
       {
-        "title": "Combinatorial Bernoulli Factories with Polynomially Many Coins",
-        "url": "http://arxiv.org/abs/2611.17223v1",
-        "summary": "We provide an efficient implementation of combinatorial Bernoulli factories. Such a factory turns coins of unknown biases $x$ into a random vertex of a polytope $P$ whose mean is exactly $x$. For every affine slice of the cube (the class of polytopes that admit a factory), we give a single algorithm whose expected number of coin flips and running time at every interior $x$ are polynomial in the dimension and in $1/{\u03b4_*}$, where ${\u03b4_*}=\\min_i\\{x_i,1-x_i\\}$ is never supplied to the algorithm. For perfect matchings this gives $O(n^{8}{\u03b4_*}^{-2}\\log(n/{\u03b4_*}))$ flips, while the factory of Niazadeh, Paes Leme, and Schneider [STOC 2021] spends at least $n^{2n-1}$ flips in expectation at the uniform doubly stochastic matrix. For other polytopes, our method rounds exactly given a point deep inside $P$ and the promise that $x$ is far from the boundary of $P$.",
+        "title": "Contrastive latent representation learning with denoising score matching",
+        "url": "http://arxiv.org/abs/2611.18469v1",
+        "summary": "Contrastive representation learning methods operate by pulling different views of the same data sample together while pushing them away from views of different samples. A fundamental challenge is the estimation of the repulsive force, which typically requires large batch sizes, can exhibit high variance, and is susceptible to the curse of dimensionality. We introduce ScoreCLR, a contrastive representation learning method that offers a novel way to estimate this repulsion term. We consider the framework of representation learning by maximizing the mutual information between two latent views of a sample. By deriving the gradient of the Shannon entropy with respect to the encoder parameters, we obtain an equivalent objective that involves the score of the latent representation. We then use denoising score matching techniques to estimate this score with a lightweight network that is trained jointly with the encoder. We further propose regularization techniques using different noise levels and a Gaussian prior on the latent representation. ScoreCLR replaces the batch of explicit negative samples in contrastive methods with a learned repulsion whose cost is linear in the batch size rather than quadratic. On CIFAR-10 and ImageNet-100 it does so with minimal loss of linear-probe accuracy compared to SimCLR under a shared recipe, while producing projector outputs of higher effective rank, closer to the Gaussian prior.",
         "authors": [
-          "Renato Paes Leme",
-          "Rad Niazadeh"
+          "Christopher Marouani",
+          "Grigory Bartosh",
+          "Christian A. Naesseth"
         ],
-        "published": "2026-11-12T18:19:37Z"
+        "published": "2026-11-13T17:42:55Z"
       },
       {
-        "title": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
-        "url": "http://arxiv.org/abs/2611.17220v1",
-        "summary": "Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2) their interactive nature permits follow-up questions to resolve ambiguous answers. But oral exams scale poorly. In this paper, we present scalable conversational assessment, an LLM-based system that conducts interactive text-based conversations with students to assess their ability to make and support an argument. We use a two-agent architecture to separate concerns and reduce the likelihood that answers are leaked to the student: the interviewer interacts directly with the student, but only receives guidance about the next question to ask the student; the hidden evaluator knows the goals of the whole activity, tracks the student's progress using a rubric, and guides the interviewer on when to follow-up on the current question or proceed to the next question. The system was first tested using a collection of simulated students with LLM personas of a particular ability level or adversarial tactic (e.g., answer-extractors, prompt-injectors, confident fabricators). A novel element of this evaluation was that it required the use of a fictional assessment topic to prevent personas that shouldn't have information from using knowledge present in the LLM's pre-training. The system was also deployed in a small, elective AI literacy course in both formative and summative contexts. Through manual and post-facto AI review of the transcripts we identified opportunities to improve the follow-up question generation and ensure that grading only credited ideas that the student (and not the interviewer) contributed.",
+        "title": "Score-based neural ordinary differential equations for reaction-diffusions",
+        "url": "http://arxiv.org/abs/2611.18467v1",
+        "summary": "A diffusion equation can be rewritten as a transport equation driven by the score function of the evolving density. Conventional probability-flow formulations, which move particles deterministically with this score-driven velocity, typically conserve total mass. In this work, we develop a Lagrangian method for reaction-diffusion equations in which each particle carries a position and a physical weight. The characteristic ODEs incorporate source terms into the evolution of the log-density and its gradient, while particle weights track changes in mass. We combine this representation with a learned velocity field and weighted particle training to approximate these dynamics. For non-increasing reaction rates, a relative-entropy inequality supports the mass-normalized self-consistency residual as the training objective. This objective can control the error of the induced density when the growth rate is bounded. The algorithm divides the time interval into short windows. In each window, a frozen velocity generates the particle data for a regression of the network velocity. We draw the particles from period-adapted initial sampling distributions and weight them in the loss partly by their predicted future mass, because the reaction can make regions with little initial mass important later. We numerically investigate the method on the Ornstein--Uhlenbeck (OU) equation with a linear source term, Fisher--KPP equations, and Wasserstein--Fisher--Rao gradient flows.",
         "authors": [
-          "Geoffrey Challen",
-          "Craig Zilles"
+          "Jianguo Hou",
+          "Wuchen Li"
         ],
-        "published": "2026-11-12T18:16:37Z"
+        "published": "2026-11-13T17:39:51Z"
       },
       {
-        "title": "Introducing Feedback Delays to Non-Delayed Adversarial MDPs: Optimal $\\sqrt S$ and $\\sqrt K$ Dependencies in Tabular and Linear AMDPs",
-        "url": "http://arxiv.org/abs/2611.17214v1",
-        "summary": "We study regret minimization in episodic Adversarial Markov Decision Processes (AMDPs) with unknown transitions and bandit feedback. In tabular AMDPs with $S$ states, $A$ actions, and horizon $H$, the best known $K$-episode regret is $\\tilde O(HS\\sqrt{AK})$, whose $\\sqrt S$ gap to the $\u03a9(H\\sqrt{SAK})$ lower bound has long remained open. In linear AMDPs with $d$-dimensional features, after a five-year line of improvements starting from $K^{14/15}$, computationally efficient algorithms without a simulator or exploratory assumptions still only attain $\\tilde O(K^{3/4})$ regret. A common challenge in both settings is to estimate the Q-function of a changing policy: past data comes from earlier policies that differ from (and are correlated with) the current one, while freezing the policy for future episodes worsens the dependency on $K$. We instead propose a general technique called introduced feedback delays: we estimate the Q-function of the policy using future episodes while still updating the policy, as if the feedback were delayed. While feedback delays are usually an obstacle imposed by the environment, here they are introduced voluntarily and, perhaps surprisingly, come at no extra cost. We develop Geometric Resampling with Rejection (GRR) to account for policy changes during the delay, and threshold the visitation probabilities to avoid long delays on rarely visited state-action pairs. With this unified technique, our policy optimization algorithms achieve, with high probability, $\\tilde O(\\text{poly}(H)\\sqrt{SAK})$ regret in tabular AMDPs, resolving the open problem; and $\\tilde O(\\text{poly}(d,H)\\sqrt K)$ regret in linear AMDPs, giving the first efficient algorithm optimal in $K$. They also naturally extend to delayed AMDPs with a total feedback delay $\\mathfrak D$, yielding the first bounds optimal in $S$ and $\\mathfrak D$ (tabular) and in $K$ and $\\mathfrak D$ (linear).",
+        "title": "Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG",
+        "url": "http://arxiv.org/abs/2611.18464v1",
+        "summary": "Surface electromyography (sEMG) from the wrists can recover typed text without a keyboard. It is usually posed as a signal-inference problem: characters are read out of the muscle signal and character error rate is reported offline. We argue that this framing removes most of the problem. The decoder is constrained simultaneously by the muscles, by the language being typed, and by typing behaviour such as typos, corrections, backspaces and line breaks, and a usable system must predict keys live while the hand keeps moving. Existing systems fall short on two counts: (1) they process sEMG in fixed windows and carry nothing from one window to the next, discarding context accumulated over a session, and (2) they lack any understanding of the linguistic structure that drives typing, so every keystroke is inferred from the muscle signal alone. We propose a fully causal, zero-lookahead sEMG typing decoder built on a state space model (SSM), in which a single model decodes a whole session without windowed partitions, conditioned on what has already been typed. We achieve this by fusing a traditional typing decoder with an efficient autoregressive language model, instilling both sEMG and linguistic understanding in one model. To train such a model for per-character typing rather than whole-word text, we introduce a retokenization method that rewrites ordinary prose as human-like typing, with keystrokes, typos, backspaces and line breaks included, converting WikiText into a large typing corpus where none existed. Our model, having never seen a single sEMG-to-character transcript in typing, achieves a state-of-the-art character error rate of 25.13% on emg2qwerty's cross-user benchmark, a 5.4% relative improvement over the previous best with 6.7 times fewer parameters, while running strictly causally with no future context.",
         "authors": [
-          "Aarush Kulkarni",
-          "Khang Nguyen",
-          "William Chang",
-          "Yan Dai"
+          "Abhilash Durgam",
+          "Nyle Siddiqui",
+          "Mubarak Shah",
+          "Qiushi Fu"
         ],
-        "published": "2026-11-12T18:10:46Z"
+        "published": "2026-11-13T17:33:20Z"
       },
       {
-        "title": "Theoretical and Empirical Analysis of Sparse Convolution",
-        "url": "http://arxiv.org/abs/2611.17212v1",
-        "summary": "Deep neural networks for image processing are increasingly deployed on resource-constrained edge devices such as drones, medical systems, and smartphones, where limited computational resources and memory bandwidth pose significant challenges for efficient inference. Pruning during training often produces highly sparse convolutional kernels, offering the potential to significantly reduce computation and memory requirements. However, exploiting this sparsity efficiently at runtime remains challenging due to irregular memory access patterns and workload imbalance across processing elements. In this work, we investigate the standard convolution with sparse weights and analyze its performance characteristics through roofline analysis, showing that a 3 x 3 sparse convolution achieves an arithmetic intensity of approximately 10 FLOP/byte compared to roughly 96 FLOP/byte for its dense counterpart. We propose techniques for an efficient sparse convolution at high sparsities. Preliminary results demonstrate that our approach achieves upto 1.65x speedup as compared to dense convolution on NVIDIA A100 and upto 1.52x on NVIDIA Jetson Nano (Tegra X1) , motivating further exploration of direct convolution as a practical path to efficient sparse inference on modern accelerators/edge devices.",
+        "title": "Sample-efficient prediction of high-entropy alloy strength through outcome-aware robust sequential learning",
+        "url": "http://arxiv.org/abs/2611.18462v1",
+        "summary": "Accurate prediction of high-entropy alloy (HEA) strength can guide composition and processing decisions; however, obtaining tensile-test data for HEAs can be costly and experimentally demanding. This study proposes Robust Outcome-aware Sequential Experimentation for High-Entropy Alloys (ROSE-HEA), a sample-efficient framework for predicting ultimate tensile strength (UTS) from alloy composition and processing conditions. Its acquisition policy anticipates how possible UTS outcomes update predictions and the support for complementary Gaussian process (GP) descriptions. It then reassesses the worst-case expected predictive risk remaining across a reference domain to select informative candidates. A retrospective evaluation on 501 HEA records compares ROSE-HEA with expected-improvement (EI) and upper-confidence-bound (UCB) Bayesian optimization (BO), random GP sampling, and eight conventional regressors across 30 matched runs with shared initial observations and test conditions. Starting from 25 initial observations and acquiring 100 additional responses, ROSE-HEA achieves the lowest mean root-mean-square error (RMSE), at 152.84 MPa, and the highest mean R^2, at 0.7443. Mean RMSE is reduced by 6.16% and 6.37% relative to EI and UCB, respectively. The selected observations improve prediction across six regressor families and provide broader design-space coverage. ROSE-HEA also surpasses the strongest conventional regressor's mean predictive performance using 125 rather than 185 observations, corresponding to 32.4% fewer training observations. These findings demonstrate the potential of outcome-aware robust sequential learning to improve UTS prediction in HEAs under constrained training budgets.",
         "authors": [
-          "Keshvi Tuteja",
-          "Yu-Hsiang Tsai",
-          "Gregor Olenik",
-          "Markus G\u00f6tz",
-          "Achim Streit",
-          "Hartwig Anzt",
-          "Charlotte Debus"
+          "Ahmed Shoyeb Raihan",
+          "Md Habibor Rahman",
+          "Ashish Nimbarte",
+          "Imtiaz Ahmed"
         ],
-        "published": "2026-11-12T18:10:06Z"
+        "published": "2026-11-13T17:29:27Z"
       }
     ],
     "github_trending": [
@@ -1499,77 +1409,77 @@
         "url": "https://github.com/meta/astryx",
         "description": "An open source design system that's fully customizable and agent ready",
         "language": "TypeScript",
-        "stars_this_week": "28,805"
+        "stars_this_week": "29,059"
       },
       {
         "name": "anthropics/skills",
         "url": "https://github.com/anthropics/skills",
         "description": "Public repository for Agent Skills",
         "language": "Python",
-        "stars_this_week": "195,325"
+        "stars_this_week": "195,484"
       },
       {
         "name": "sherlock-project/sherlock",
         "url": "https://github.com/sherlock-project/sherlock",
         "description": "Hunt down social media accounts by username across social networks",
         "language": "Python",
-        "stars_this_week": "112,443"
+        "stars_this_week": "112,639"
       },
       {
         "name": "backnotprop/plannotator",
         "url": "https://github.com/backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "language": "TypeScript",
-        "stars_this_week": "11,788"
+        "stars_this_week": "12,019"
       },
       {
         "name": "vercel-labs/agent-browser",
         "url": "https://github.com/vercel-labs/agent-browser",
         "description": "Browser automation CLI for AI agents",
         "language": "Rust",
-        "stars_this_week": "51,584"
+        "stars_this_week": "51,729"
       },
       {
         "name": "ZhuLinsen/daily_stock_analysis",
         "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
         "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
         "language": "Python",
-        "stars_this_week": "72,485"
+        "stars_this_week": "72,585"
       },
       {
         "name": "we-promise/sure",
         "url": "https://github.com/we-promise/sure",
         "description": "The personal finance app for everyone (by everyone)",
         "language": "Ruby",
-        "stars_this_week": "15,681"
+        "stars_this_week": "15,781"
       },
       {
         "name": "milind-soni/OpenMausBot",
         "url": "https://github.com/milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "language": "TypeScript",
-        "stars_this_week": "23,320"
+        "stars_this_week": "23,605"
       },
       {
         "name": "google/elephant-goldfish-model",
         "url": "https://github.com/google/elephant-goldfish-model",
         "description": "Open-source plugin for designing and reviewing software with agents",
         "language": "Python",
-        "stars_this_week": "19,708"
+        "stars_this_week": "19,918"
       },
       {
         "name": "google-deepmind/mujoco",
         "url": "https://github.com/google-deepmind/mujoco",
         "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
         "language": "C++",
-        "stars_this_week": "18,063"
+        "stars_this_week": "18,101"
       },
       {
         "name": "addyosmani/agent-skills",
         "url": "https://github.com/addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "JavaScript",
-        "stars_this_week": "117,918"
+        "stars_this_week": "118,021"
       }
     ],
     "twitter": []
