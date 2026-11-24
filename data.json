@@ -1,149 +1,149 @@
 {
   "topic": "AI",
-  "generated_at": "2026-11-24T09:14:14.435366+00:00",
+  "generated_at": "2026-11-24T22:09:40.824672+00:00",
   "lookback_days": 7,
   "sources": {
     "reddit": [],
     "hackernews": [
       {
-        "title": "Show HN: Harny \u2013 AI coding agent for VSCodium/VS Code tuned for small/local LLMs",
-        "url": "https://harny.dev/",
+        "title": "Dimensional \u2013 Load testing for AI features that measures answer quality",
+        "url": "https://www.usedimensional.com",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-24T08:26:49Z"
+        "published": "2026-11-24T22:08:24Z"
       },
       {
-        "title": "Will AI Solve Biology?",
-        "url": "https://romainbrette.fr/will-ai-solve-biology/",
+        "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+        "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-24T22:07:52Z"
+      },
+      {
+        "title": "Show HN: Siv \u2013 Civilization VI clone playable in the browser",
+        "url": "https://siv.nezin.net/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-24T22:02:25Z"
+      },
+      {
+        "title": "More NYC records released show air quality aftermath of 9/11 attacks",
+        "url": "https://www.yahoo.com/news/us/articles/more-nyc-records-released-show-140043190.html",
+        "points": 3,
+        "comments": 0,
+        "published": "2026-11-24T22:01:42Z"
+      },
+      {
+        "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+        "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-24T21:58:04Z"
+      },
+      {
+        "title": "Trajectories in, improvements out: building a learning machine for search",
+        "url": "https://keenable.ai/blog/trajectories-in-improvements-out",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-24T21:52:07Z"
+      },
+      {
+        "title": "New York Ban AI Toys for 5 Years",
+        "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+        "points": 7,
+        "comments": 0,
+        "published": "2026-11-24T21:49:50Z"
+      },
+      {
+        "title": "South Korea Offers $375,000 Reward to Catch Test Cheaters Using AI",
+        "url": "https://www.wsj.com/world/asia/south-korea-offers-375-000-reward-to-catch-test-cheaters-using-ai-5908db9d",
+        "points": 2,
+        "comments": 1,
+        "published": "2026-11-24T21:49:33Z"
+      },
+      {
+        "title": "Ephyra: A new agentic property-based testing library to find the bugs you missed",
+        "url": "https://www.datadoghq.com/blog/ai/agentic-property-based-testing-with-ephyra/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-24T21:46:54Z"
+      },
+      {
+        "title": "Show HN: Cerulion \u2013 Harness for Robotics, Gemini 3.8 Flash Matches GPT-6 Astra",
+        "url": "https://github.com/cerulion-inc/cerulion#harness-results",
         "points": 2,
         "comments": 0,
-        "published": "2026-11-24T08:20:16Z"
+        "published": "2026-11-24T21:33:44Z"
       },
       {
-        "title": "Show HN: AI Agent Infrastructure and Memory Compaction Specifications",
-        "url": "https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-24T08:16:42Z"
-      },
-      {
-        "title": "Linux Foundation Welcomes Trace for Verifiable Runtime Evidence for AI Workloads",
-        "url": "https://www.linuxfoundation.org/press/linux-foundation-welcomes-trace-to-advance-verifiable-runtime-evidence-for-ai-workloads",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-24T08:10:17Z"
-      },
-      {
-        "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
-        "url": "https://github.com/apple-aiml-research/ml-depth-pro-2",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-24T08:04:00Z"
-      },
-      {
-        "title": "Building AI applications without stitching together multiple back end services",
-        "url": "https://www.purple8.ai/",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-24T07:49:57Z"
-      },
-      {
-        "title": "Evidence-Based AI Risk Ratings from CSAI",
-        "url": "https://riskrubric.ai/",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-24T07:03:35Z"
-      },
-      {
-        "title": "Show HN: Rchive \u2013 Every drive I've owned since the 90s, searchable in one window",
-        "url": "https://www.rchive.computer/",
-        "points": 2,
-        "comments": 0,
-        "published": "2026-11-24T07:03:33Z"
-      },
-      {
-        "title": "Show HN: One hour of AlphaZero-style Othello training on only one MacBook Air",
-        "url": "https://github.com/natsu0529/mac-alpha-zero",
+        "title": "The Problem Isn't AI. It's Lazy Creators",
+        "url": "https://matt.aimonetti.net/posts/2026-11-the-problem-isnt-ai-its-lazy-creators/",
         "points": 3,
         "comments": 1,
-        "published": "2026-11-24T07:00:21Z"
+        "published": "2026-11-24T21:22:38Z"
       },
       {
-        "title": "AI tutoring outperforms in-class active learning",
-        "url": "https://www.nature.com/articles/s41598-025-97652-6",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-24T06:50:01Z"
-      },
-      {
-        "title": "Can an LLM Grade Objective Facts Without Favoring Itself?",
-        "url": "https://blog.logcat.ai/2026/11/23/can-an-llm-grade-objective-facts-without-favoring-itself/",
+        "title": "Ask HN: Least cringe AI for natural language?",
+        "url": "https://news.ycombinator.com/item?id=50634900",
         "points": 2,
-        "comments": 1,
-        "published": "2026-11-24T06:38:53Z"
+        "comments": 3,
+        "published": "2026-11-24T21:21:50Z"
       },
       {
-        "title": "Google has uncovered an autonomous AI cyber attack",
-        "url": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
+        "title": "The Internet Broke Our Taste. Will A.I. Destroy It for Good?",
+        "url": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html",
         "points": 2,
         "comments": 0,
-        "published": "2026-11-24T06:06:10Z"
+        "published": "2026-11-24T21:19:52Z"
       },
       {
-        "title": "Crowdsrike Acquires Zscaler",
-        "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+        "title": "Working with AI",
+        "url": "https://www.anthropic.com/research/working-with-ai",
+        "points": 37,
+        "comments": 31,
+        "published": "2026-11-24T21:07:38Z"
+      },
+      {
+        "title": "Best Voice Recorder for Apple Watch: 4 Apps Compared",
+        "url": "https://memova.ai/journal/best-voice-recorder-for-apple-watch/",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-24T06:04:38Z"
+        "published": "2026-11-24T21:06:48Z"
       },
       {
-        "title": "Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character",
-        "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
-        "points": 6,
-        "comments": 1,
-        "published": "2026-11-24T05:42:18Z"
+        "title": "OpenLLM, one API key for all your AI, plus Sign in with OpenLLM for apps",
+        "url": "https://www.openllm.sh/",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-11-24T21:03:46Z"
       },
       {
-        "title": "PGAIBench and AAA: can AI safely change production Postgres?",
-        "url": "https://postgres.ai/blog/20261123-pgaibench",
+        "title": "Analyzing Generative AI Use Cases in YouTube Content Creation",
+        "url": "https://arxiv.org/abs/2503.03134",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-24T05:26:59Z"
+        "published": "2026-11-24T21:03:35Z"
       },
       {
-        "title": "Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe",
-        "url": "https://vllm.ai/blog/2026-11-23-skip-the-dram-tier",
+        "title": "The Most Famous Problem in Math Was Just Solved by AI\u2013and This Human",
+        "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-24T04:45:01Z"
+        "published": "2026-11-24T21:02:27Z"
       },
       {
-        "title": "An on-device AI agent for Android",
-        "url": "https://github.com/wangzan101/mika",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-24T03:53:08Z"
-      },
-      {
-        "title": "Waffo Pancake vs. Lemon Squeezy: Fees, Payouts and Migration",
-        "url": "https://www.waffo.ai/compare/lemon-squeezy",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-24T03:36:35Z"
-      },
-      {
-        "title": "r/RedditEngin: We Let AI Approve PRs at Reddit. Here's What Happened",
-        "url": "https://www.reddit.com/r/RedditEng/comments/1y3wbkw/we_let_ai_approve_prs_at_reddit_heres_what/",
-        "points": 9,
-        "comments": 0,
-        "published": "2026-11-24T02:56:06Z"
-      },
-      {
-        "title": "Show HN: A narrated map tour of the events leading up to the Texas Revolution",
-        "url": "https://whistlestop.guide/features/texas-revolution",
-        "points": 3,
+        "title": "Show HN: ModelXare \u2013 Decentralized AI Models",
+        "url": "https://www.modelxare.com/",
+        "points": 4,
         "comments": 2,
-        "published": "2026-11-24T02:55:29Z"
+        "published": "2026-11-24T20:49:44Z"
+      },
+      {
+        "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+        "url": "https://news.ycombinator.com/item?id=50634426",
+        "points": 34,
+        "comments": 16,
+        "published": "2026-11-24T20:44:15Z"
       }
     ],
     "github_repos": [
@@ -151,47 +151,55 @@
         "name": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "stars": 476197,
+        "stars": 476995,
         "language": "TypeScript",
-        "pushed_at": "2026-11-24T09:03:21Z"
+        "pushed_at": "2026-11-24T21:27:57Z"
       },
       {
         "name": "openclaw/openclaw",
         "url": "https://github.com/openclaw/openclaw",
         "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
-        "stars": 395141,
+        "stars": 395160,
         "language": "TypeScript",
-        "pushed_at": "2026-11-24T09:13:31Z"
+        "pushed_at": "2026-11-24T22:08:30Z"
+      },
+      {
+        "name": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": 325730,
+        "language": "Shell",
+        "pushed_at": "2026-11-24T22:00:13Z"
       },
       {
         "name": "NousResearch/hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stars": 265751,
+        "stars": 265881,
         "language": "Python",
-        "pushed_at": "2026-11-24T09:13:58Z"
+        "pushed_at": "2026-11-24T22:08:31Z"
       },
       {
         "name": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 211921,
+        "stars": 212013,
         "language": "TypeScript",
-        "pushed_at": "2026-11-24T09:14:14Z"
+        "pushed_at": "2026-11-24T21:40:38Z"
       },
       {
         "name": "firecrawl/firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
         "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-        "stars": 208284,
+        "stars": 208850,
         "language": "TypeScript",
-        "pushed_at": "2026-11-24T03:35:41Z"
+        "pushed_at": "2026-11-24T21:56:28Z"
       },
       {
         "name": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 197737,
+        "stars": 198028,
         "language": "JavaScript",
         "pushed_at": "2026-11-22T02:31:58Z"
       },
@@ -199,15 +207,15 @@
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "stars": 188155,
+        "stars": 188169,
         "language": "Python",
-        "pushed_at": "2026-11-24T09:05:30Z"
+        "pushed_at": "2026-11-24T21:54:48Z"
       },
       {
         "name": "f/prompts.chat",
         "url": "https://github.com/f/prompts.chat",
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-        "stars": 178350,
+        "stars": 178440,
         "language": "MDX",
         "pushed_at": "2026-11-24T07:22:34Z"
       },
@@ -215,63 +223,63 @@
         "name": "langgenius/dify",
         "url": "https://github.com/langgenius/dify",
         "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-        "stars": 161809,
+        "stars": 161844,
         "language": "Python",
-        "pushed_at": "2026-11-24T09:12:53Z"
+        "pushed_at": "2026-11-24T18:28:10Z"
       },
       {
         "name": "open-webui/open-webui",
         "url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stars": 159393,
+        "stars": 159443,
         "language": "Svelte",
-        "pushed_at": "2026-11-23T22:11:40Z"
+        "pushed_at": "2026-11-24T22:04:04Z"
       },
       {
         "name": "langflow-ai/langflow",
         "url": "https://github.com/langflow-ai/langflow",
         "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": 156898,
+        "stars": 156909,
         "language": "Python",
-        "pushed_at": "2026-11-24T06:44:54Z"
+        "pushed_at": "2026-11-24T21:58:01Z"
       },
       {
         "name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "stars": 153492,
+        "stars": 153718,
         "language": "Python",
-        "pushed_at": "2026-11-24T04:09:36Z"
+        "pushed_at": "2026-11-24T19:05:41Z"
       },
       {
         "name": "github/spec-kit",
         "url": "https://github.com/github/spec-kit",
         "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
-        "stars": 151213,
+        "stars": 151274,
         "language": "Python",
-        "pushed_at": "2026-11-23T21:54:17Z"
+        "pushed_at": "2026-11-24T20:13:48Z"
       },
       {
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
         "description": "The agent engineering platform.",
-        "stars": 149964,
+        "stars": 149947,
         "language": "Python",
-        "pushed_at": "2026-11-24T08:38:10Z"
+        "pushed_at": "2026-11-24T20:47:57Z"
       },
       {
         "name": "Comfy-Org/ComfyUI",
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "stars": 148372,
+        "stars": 148450,
         "language": "Python",
-        "pushed_at": "2026-11-24T04:10:12Z"
+        "pushed_at": "2026-11-24T21:54:57Z"
       },
       {
         "name": "Shubhamsaboo/awesome-llm-apps",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-        "stars": 145555,
+        "stars": 145600,
         "language": "Python",
         "pushed_at": "2026-11-18T05:25:32Z"
       },
@@ -279,7 +287,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
         "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "stars": 145332,
+        "stars": 145482,
         "language": "Python",
         "pushed_at": "2026-11-24T01:59:01Z"
       },
@@ -287,7 +295,7 @@
         "name": "shadcn-ui/ui",
         "url": "https://github.com/shadcn-ui/ui",
         "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
-        "stars": 128919,
+        "stars": 128980,
         "language": "TypeScript",
         "pushed_at": "2026-11-23T06:28:25Z"
       },
@@ -295,17 +303,9 @@
         "name": "microsoft/generative-ai-for-beginners",
         "url": "https://github.com/microsoft/generative-ai-for-beginners",
         "description": "21 Lessons, Get Started Building with Generative AI ",
-        "stars": 124108,
+        "stars": 124121,
         "language": "Jupyter Notebook",
         "pushed_at": "2026-11-19T03:43:07Z"
-      },
-      {
-        "name": "earendil-works/pi",
-        "url": "https://github.com/earendil-works/pi",
-        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "stars": 123617,
-        "language": "TypeScript",
-        "pushed_at": "2026-11-24T08:07:03Z"
       }
     ],
     "youtube": [],
@@ -313,206 +313,206 @@
       {
         "title": "Will AI solve the Riemann Hypothesis in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.665\", \"0.335\"]",
-        "volume": "355211.18092500005"
+        "price": "[\"0.755\", \"0.245\"]",
+        "volume": "394761.337344"
       },
       {
         "title": "Will AI solve P versus NP in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.137\", \"0.863\"]",
-        "volume": "136193.430236"
+        "price": "[\"0.0625\", \"0.9375\"]",
+        "volume": "178809.71238399998"
       },
       {
         "title": "Will AI solve the Yang-Mills existence and mass gap problem in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.08\", \"0.92\"]",
-        "volume": "13804.963684000002"
+        "price": "[\"0.065\", \"0.935\"]",
+        "volume": "13949.166581000001"
       },
       {
         "title": "Will AI solve the Hodge Conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.055\", \"0.945\"]",
-        "volume": "32433.821473999997"
+        "price": "[\"0.075\", \"0.925\"]",
+        "volume": "32648.257307999993"
       },
       {
         "title": "Will AI solve the Birch and Swinnerton-Dyer Conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.11\", \"0.89\"]",
-        "volume": "18409.96177"
+        "price": "[\"0.085\", \"0.915\"]",
+        "volume": "18547.039873"
       },
       {
         "title": "Will AI solve the Collatz conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.0655\", \"0.9345\"]",
-        "volume": "9721.256777"
+        "price": "[\"0.053\", \"0.947\"]",
+        "volume": "11624.846688000001"
       },
       {
         "title": "Will AI solve the strong Goldbach conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.13\", \"0.87\"]",
-        "volume": "8093.531554"
+        "price": "[\"0.06\", \"0.94\"]",
+        "volume": "9819.500533"
       },
       {
         "title": "Will AI solve the twin prime conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.135\", \"0.865\"]",
-        "volume": "9705.558965000002"
+        "price": "[\"0.14\", \"0.86\"]",
+        "volume": "12175.594488"
       },
       {
         "title": "Will AI solve the odd perfect number problem in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.052\", \"0.948\"]",
-        "volume": "4036.9254060000003"
+        "price": "[\"0.073\", \"0.927\"]",
+        "volume": "6441.738406"
       },
       {
         "title": "Will AI solve Legendre's conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.0805\", \"0.9195\"]",
-        "volume": "4466.940656"
+        "price": "[\"0.082\", \"0.918\"]",
+        "volume": "4558.02312"
       },
       {
         "title": "Will AI solve the Hadwiger-Nelson problem in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.095\", \"0.905\"]",
-        "volume": "6490.801767999999"
+        "price": "[\"0.085\", \"0.915\"]",
+        "volume": "8237.944180999999"
       },
       {
         "title": "Will AI solve the Hadamard matrix conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.095\", \"0.905\"]",
-        "volume": "8910.576133"
+        "price": "[\"0.085\", \"0.915\"]",
+        "volume": "9485.427513999999"
       },
       {
         "title": "Will AI solve Beal's conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.0575\", \"0.9425\"]",
-        "volume": "5958.990406000001"
+        "price": "[\"0.06\", \"0.94\"]",
+        "volume": "5973.980406000001"
       },
       {
         "title": "Will AI determine the Ramsey number R(5,5) in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.095\", \"0.905\"]",
-        "volume": "8103.00615"
-      },
-      {
-        "title": "Will the Birch and Swinnerton-Dyer Conjecture be the next Millennium Prize Problem solved by AI?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.025\", \"0.975\"]",
-        "volume": "70317.497053"
-      },
-      {
-        "title": "Will the Hodge Conjecture be the next Millennium Prize Problem solved by AI?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.034\", \"0.966\"]",
-        "volume": "124923.58906099999"
-      },
-      {
-        "title": "Will P versus NP be the next Millennium Prize Problem solved by AI?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.068\", \"0.932\"]",
-        "volume": "61832.37951700001"
-      },
-      {
-        "title": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.798\", \"0.202\"]",
-        "volume": "314462.933071"
-      },
-      {
-        "title": "Will the Yang-Mills existence and mass gap problem be the next Millennium Prize Problem solved by AI?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.0325\", \"0.9675\"]",
-        "volume": "77890.219513"
-      },
-      {
-        "title": "Will no Millennium Prize Problem be solved by AI by December 31, 2027?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.0475\", \"0.9525\"]",
-        "volume": "194983.88774300003"
+        "price": "[\"0.105\", \"0.895\"]",
+        "volume": "8425.751526"
       },
       {
         "title": "Will AI solve 0 more Millennium Prize Problems in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.205\", \"0.795\"]",
-        "volume": "382515.44597600005"
+        "price": "[\"0.195\", \"0.805\"]",
+        "volume": "412618.2218889999"
       },
       {
         "title": "Will AI solve 1 more Millennium Prize Problem in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
         "price": "[\"0.635\", \"0.365\"]",
-        "volume": "149860.392607"
+        "volume": "151920.28670999996"
       },
       {
         "title": "Will AI solve 2 more Millennium Prize Problems in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.1275\", \"0.8725\"]",
-        "volume": "183382.34685399997"
+        "price": "[\"0.1345\", \"0.8655\"]",
+        "volume": "185882.53351100002"
       },
       {
         "title": "Will AI solve 3 more Millennium Prize Problems in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.043\", \"0.957\"]",
-        "volume": "137942.36079"
+        "price": "[\"0.0325\", \"0.9675\"]",
+        "volume": "139288.331687"
       },
       {
         "title": "Will AI solve 4 more Millennium Prize Problems in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.012\", \"0.988\"]",
-        "volume": "82314.84789399999"
+        "price": "[\"0.0095\", \"0.9905\"]",
+        "volume": "83055.689365"
       },
       {
         "title": "Will AI solve 5 more Millennium Prize Problems in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "69783.598914"
+        "price": "[\"0.0045\", \"0.9955\"]",
+        "volume": "71636.303914"
+      },
+      {
+        "title": "Will the Birch and Swinnerton-Dyer Conjecture be the next Millennium Prize Problem solved by AI?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.0185\", \"0.9815\"]",
+        "volume": "75645.76774599998"
+      },
+      {
+        "title": "Will the Hodge Conjecture be the next Millennium Prize Problem solved by AI?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.0215\", \"0.9785\"]",
+        "volume": "129761.10076300001"
+      },
+      {
+        "title": "Will P versus NP be the next Millennium Prize Problem solved by AI?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.018\", \"0.982\"]",
+        "volume": "67856.05021999999"
+      },
+      {
+        "title": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.866\", \"0.134\"]",
+        "volume": "331020.983614"
+      },
+      {
+        "title": "Will the Yang-Mills existence and mass gap problem be the next Millennium Prize Problem solved by AI?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.007\", \"0.993\"]",
+        "volume": "83610.19229199999"
+      },
+      {
+        "title": "Will no Millennium Prize Problem be solved by AI by December 31, 2027?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.046\", \"0.954\"]",
+        "volume": "201718.462004"
       },
       {
         "title": "Will Google have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.835\", \"0.165\"]",
-        "volume": "738893.778493"
+        "price": "[\"0.795\", \"0.205\"]",
+        "volume": "743920.052781"
       },
       {
         "title": "Will Anthropic have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.135\", \"0.865\"]",
-        "volume": "652564.610729"
+        "price": "[\"0.185\", \"0.815\"]",
+        "volume": "665847.7553569999"
       },
       {
         "title": "Will OpenAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0275\", \"0.9725\"]",
-        "volume": "363356.564445"
+        "price": "[\"0.0235\", \"0.9765\"]",
+        "volume": "372367.7791450001"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0035\", \"0.9965\"]",
-        "volume": "349408.92672499997"
+        "price": "[\"0.0025\", \"0.9975\"]",
+        "volume": "354526.107725"
       },
       {
         "title": "Will Z.ai have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "301928.036784"
+        "volume": "303705.274784"
       },
       {
         "title": "Will xAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "297339.46314099996"
+        "volume": "305245.11433300003"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "269273.38124699995"
+        "volume": "272602.82524700003"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "268873.185915"
+        "volume": "271480.423915"
       },
       {
         "title": "Will Mistral have the best AI model at the end of December 2026?",
@@ -535,8 +535,8 @@
       {
         "title": "Will Meta have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0095\", \"0.9905\"]",
-        "volume": "356530.21573900006"
+        "price": "[\"0.0085\", \"0.9915\"]",
+        "volume": "363893.601134"
       },
       {
         "title": "Will Amazon have the best AI model at the end of December 2026?",
@@ -625,8 +625,8 @@
       {
         "title": "Will Anthropic have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.025\", \"0.975\"]",
-        "volume": "453753.284956"
+        "price": "[\"0.012\", \"0.988\"]",
+        "volume": "463324.463523"
       },
       {
         "title": "Will Meta have the best AI model at the end of November 2026?",
@@ -637,8 +637,8 @@
       {
         "title": "Will Google have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.9645\", \"0.0355\"]",
-        "volume": "379479.732467"
+        "price": "[\"0.971\", \"0.029\"]",
+        "volume": "381203.844289"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of November 2026?",
@@ -656,7 +656,7 @@
         "title": "Will OpenAI have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0055\", \"0.9945\"]",
-        "volume": "224390.673444"
+        "volume": "225216.856778"
       },
       {
         "title": "Will Baidu have the best AI model at the end of November 2026?",
@@ -667,8 +667,8 @@
       {
         "title": "Will Z.ai have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "108340.51113100002"
+        "price": "[\"0.0015\", \"0.9985\"]",
+        "volume": "108475.51113099998"
       },
       {
         "title": "Will Xiaomi have the best AI model at the end of November 2026?",
@@ -679,8 +679,8 @@
       {
         "title": "Will SpaceXAI have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.002\", \"0.998\"]",
-        "volume": "146242.047733"
+        "price": "[\"0.0015\", \"0.9985\"]",
+        "volume": "146242.04773299998"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of November 2026?",
@@ -1245,91 +1245,91 @@
         "url": "https://github.com/backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "language": "TypeScript",
-        "stars_this_week": "14,772"
+        "stars_this_week": "14,874"
       },
       {
         "name": "google-labs-code/stitch-skills",
         "url": "https://github.com/google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
         "language": "TypeScript",
-        "stars_this_week": "12,460"
+        "stars_this_week": "12,610"
       },
       {
         "name": "GoogleChrome/modern-web-guidance-src",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "language": "TypeScript",
-        "stars_this_week": "10,655"
+        "stars_this_week": "10,796"
       },
       {
         "name": "alibaba/open-code-review",
         "url": "https://github.com/alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "language": "Go",
-        "stars_this_week": "55,888"
+        "stars_this_week": "56,035"
       },
       {
         "name": "mvanhorn/last30days-skill",
         "url": "https://github.com/mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "language": "Python",
-        "stars_this_week": "73,717"
+        "stars_this_week": "74,131"
       },
       {
         "name": "ChromeDevTools/chrome-devtools-mcp",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
         "description": "Chrome DevTools for coding agents",
         "language": "TypeScript",
-        "stars_this_week": "59,110"
+        "stars_this_week": "59,197"
       },
       {
         "name": "tradermonty/claude-trading-skills",
         "url": "https://github.com/tradermonty/claude-trading-skills",
         "description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
         "language": "Python",
-        "stars_this_week": "8,180"
+        "stars_this_week": "8,277"
       },
       {
         "name": "ag-ui-protocol/ag-ui",
         "url": "https://github.com/ag-ui-protocol/ag-ui",
         "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
         "language": "TypeScript",
-        "stars_this_week": "21,459"
+        "stars_this_week": "21,553"
       },
       {
         "name": "meta/astryx",
         "url": "https://github.com/meta/astryx",
         "description": "An open source design system that's fully customizable and agent ready",
         "language": "TypeScript",
-        "stars_this_week": "32,703"
+        "stars_this_week": "32,849"
       },
       {
         "name": "pookjw/HermesEnabler",
         "url": "https://github.com/pookjw/HermesEnabler",
         "description": "Enable Herm\u00e8s Watch Faces on any Apple Watch devices",
         "language": "Objective-C",
-        "stars_this_week": "2,471"
+        "stars_this_week": "2,488"
       },
       {
         "name": "we-promise/sure",
         "url": "https://github.com/we-promise/sure",
         "description": "The personal finance app for everyone (by everyone)",
         "language": "Ruby",
-        "stars_this_week": "17,661"
+        "stars_this_week": "17,762"
       },
       {
         "name": "dream-num/univer",
         "url": "https://github.com/dream-num/univer",
         "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
         "language": "TypeScript",
-        "stars_this_week": "31,594"
+        "stars_this_week": "31,678"
       },
       {
         "name": "kajisho5/ffmpeg-skill",
         "url": "https://github.com/kajisho5/ffmpeg-skill",
         "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
         "language": "Python",
-        "stars_this_week": "10,422"
+        "stars_this_week": "10,639"
       }
     ],
     "twitter": []
