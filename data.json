@@ -1,149 +1,149 @@
 {
   "topic": "AI",
-  "generated_at": "2026-11-25T21:25:27.679073+00:00",
+  "generated_at": "2026-11-26T07:40:24.338156+00:00",
   "lookback_days": 7,
   "sources": {
     "reddit": [],
     "hackernews": [
       {
-        "title": "SimpleLLMChat \u2013 An AI Agent/Chat Harness for Windows XP",
-        "url": "https://github.com/randomNinja64/SimpleLLMChat",
-        "points": 1,
-        "comments": 1,
-        "published": "2026-11-25T21:18:47Z"
-      },
-      {
-        "title": "The New York Times tells photographers not to use the latest Photoshop",
-        "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+        "title": "Anthropic Created a Honeypot to Lure AI Agents into Misbehaving",
+        "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
         "points": 2,
-        "comments": 1,
-        "published": "2026-11-25T21:18:02Z"
+        "comments": 0,
+        "published": "2026-11-26T07:30:49Z"
       },
       {
-        "title": "AI is 'the end of mathematics as we know it' \u2013 where does the field go next?",
-        "url": "https://www.nature.com/articles/d41586-026-03719-3",
+        "title": "AI-Assisted Programming and Labor Demand",
+        "url": "https://arxiv.org/abs/2611.31083",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-25T21:16:52Z"
+        "published": "2026-11-26T07:21:35Z"
       },
       {
-        "title": "Threat Modeling Azure MCP: Securing AI-Assisted Infrastructure Operations",
-        "url": "https://techcommunity.microsoft.com/blog/azureinfrastructureblog/threat-modeling-azure-mcp-securing-ai-assisted-infrastructure-operations/4564892",
+        "title": "When AI makes your advantage abundant, where does the next edge lie?",
+        "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/when-ai-makes-your-advantage-abundant-where-does-the-next-edge-lie/136159092",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-25T21:11:13Z"
+        "published": "2026-11-26T07:20:38Z"
       },
       {
-        "title": "AI Chief of Staff",
-        "url": "https://airbots.ai/",
-        "points": 3,
-        "comments": 1,
-        "published": "2026-11-25T21:00:16Z"
-      },
-      {
-        "title": "Ask HN: For professional Mathematicians \u2013- about your career in the future",
-        "url": "https://news.ycombinator.com/item?id=50647440",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-25T20:58:34Z"
-      },
-      {
-        "title": "My quantum simulator for major chip types, 6x faster than alternatives",
-        "url": "https://github.com/vicena-labs/quantum-circuit-simulator",
+        "title": "California companies buying Nvidia advanced chips discovered to be Chinese-owned",
+        "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
         "points": 2,
+        "comments": 0,
+        "published": "2026-11-26T07:17:10Z"
+      },
+      {
+        "title": "Fix the process around coding agents before adding more of them",
+        "url": "https://oxtan-maker.github.io/parallix/articles/parallel-ai-coding-bottleneck/",
+        "points": 1,
         "comments": 1,
-        "published": "2026-11-25T20:25:43Z"
+        "published": "2026-11-26T07:15:23Z"
       },
       {
-        "title": "Show HN: Drop-in replacement for the remove.bg API, which shuts down Dec 1",
-        "url": "https://airgallery.com/api",
+        "title": "Ask HN: Will We Head to Deflation?",
+        "url": "https://news.ycombinator.com/item?id=50652397",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-25T20:24:42Z"
+        "published": "2026-11-26T07:12:53Z"
       },
       {
-        "title": "CLI for AI agents to access health data natively",
-        "url": "https://news.ycombinator.com/item?id=50647009",
+        "title": "AI Keeps Asking If It's Conscious [video]",
+        "url": "https://www.youtube.com/watch?v=ghxoAM5io18",
+        "points": 1,
+        "comments": 2,
+        "published": "2026-11-26T06:49:31Z"
+      },
+      {
+        "title": "Audi integrates new app with AI assistant with Cerence AI and Microsoft",
+        "url": "https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-25T20:22:40Z"
+        "published": "2026-11-26T06:34:31Z"
       },
       {
-        "title": "The Last Boring Slide",
-        "url": "https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah#questions-3",
-        "points": 4,
-        "comments": 0,
-        "published": "2026-11-25T20:13:41Z"
-      },
-      {
-        "title": "Deliberately run your time, energy and resources below 80% capacity",
-        "url": "https://twitter.com/Voxyz_ai/status/2125591320341229890/photo/1",
-        "points": 4,
-        "comments": 3,
-        "published": "2026-11-25T20:13:28Z"
-      },
-      {
-        "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
-        "url": "https://danprice.ai/blog/opus-symphony",
-        "points": 35,
-        "comments": 36,
-        "published": "2026-11-25T19:57:08Z"
-      },
-      {
-        "title": "What to know before using AI agents for Black Friday shopping",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+        "title": "Moat: Your OpenRouter Replacement",
+        "url": "https://commandcode.ai/moat",
         "points": 3,
         "comments": 0,
-        "published": "2026-11-25T19:49:26Z"
-      },
-      {
-        "title": "Show HN: HeyCube \u2013 The personalized feed for your always-on AI agents",
-        "url": "https://inxpanse.com/heycube",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-25T19:47:37Z"
+        "published": "2026-11-26T06:32:48Z"
       },
       {
         "title": "The Last Boring Slide",
         "url": "https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah",
-        "points": 3,
-        "comments": 0,
-        "published": "2026-11-25T19:44:49Z"
-      },
-      {
-        "title": "Art of Play in the Age of AI",
-        "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
-        "points": 1,
-        "comments": 0,
-        "published": "2026-11-25T19:41:45Z"
-      },
-      {
-        "title": "Claude Code Token Accounting Statement",
-        "url": "https://github.com/oshricohenme/ai_multi_tool",
         "points": 1,
         "comments": 1,
-        "published": "2026-11-25T19:35:59Z"
+        "published": "2026-11-26T06:23:11Z"
       },
       {
-        "title": "When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",
-        "url": "https://www.warhistoryonline.com/war-articles/ps3-supercomputer.html",
-        "points": 4,
-        "comments": 0,
-        "published": "2026-11-25T19:08:28Z"
-      },
-      {
-        "title": "Ask HN: Is RSA in Jeopardy?",
-        "url": "https://news.ycombinator.com/item?id=50645915",
+        "title": "AI Is Supercharging Your Top Students and Probably Harming the Rest",
+        "url": "https://www.edutopia.org/article/does-ai-help-students-learn/",
         "points": 2,
         "comments": 1,
-        "published": "2026-11-25T18:52:28Z"
+        "published": "2026-11-26T05:58:37Z"
       },
       {
-        "title": "AI vs. AI Pickleball: One Model Scored 0 Points",
-        "url": "https://pixelpickleball.com/blog/",
+        "title": "OCRia-Nano-1",
+        "url": "https://www.llamaindex.ai/blog/introducing-ocria-nano-1",
         "points": 1,
         "comments": 0,
-        "published": "2026-11-25T18:48:59Z"
+        "published": "2026-11-26T05:58:02Z"
+      },
+      {
+        "title": "How can people make money as AI replaces intellectual jobs?",
+        "url": "https://news.ycombinator.com/item?id=50651911",
+        "points": 12,
+        "comments": 5,
+        "published": "2026-11-26T05:46:33Z"
+      },
+      {
+        "title": "Precisely.ai Catalog \u2013 AI Studio Catalog of App, Agent, Skill and Server",
+        "url": "https://precisely.ai/explore",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-26T05:09:51Z"
+      },
+      {
+        "title": "I Learned to Stop Worrying and Love the AI",
+        "url": "https://news.ycombinator.com/item?id=50651635",
+        "points": 3,
+        "comments": 1,
+        "published": "2026-11-26T05:01:25Z"
+      },
+      {
+        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-11-26T04:46:50Z"
+      },
+      {
+        "title": "Show HN: Hush, the fastest computer use for AI agents",
+        "url": "https://github.com/OgnjenAdzic28/hush",
+        "points": 3,
+        "comments": 0,
+        "published": "2026-11-26T04:45:29Z"
+      },
+      {
+        "title": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
+        "url": "https://gameautoresearch.github.io/",
+        "points": 2,
+        "comments": 0,
+        "published": "2026-11-26T04:42:59Z"
+      },
+      {
+        "title": "A Chinese Town Full of Vibecoders: What Afra Wang Saw in Liangzhu",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-23/how-everyday-chinese-people-are-adopting-ai",
+        "points": 4,
+        "comments": 0,
+        "published": "2026-11-26T04:40:34Z"
+      },
+      {
+        "title": "Show HN: Talira \u2013 Search engine for software, built for AI agents",
+        "url": "https://talira.ai/",
+        "points": 1,
+        "comments": 0,
+        "published": "2026-11-26T04:37:30Z"
       }
     ],
     "github_repos": [
@@ -151,23 +151,23 @@
         "name": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "stars": 478336,
+        "stars": 478854,
         "language": "TypeScript",
-        "pushed_at": "2026-11-25T21:24:27Z"
+        "pushed_at": "2026-11-26T07:34:10Z"
       },
       {
         "name": "openclaw/openclaw",
         "url": "https://github.com/openclaw/openclaw",
         "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
-        "stars": 395203,
+        "stars": 395249,
         "language": "TypeScript",
-        "pushed_at": "2026-11-25T21:22:53Z"
+        "pushed_at": "2026-11-26T07:39:35Z"
       },
       {
         "name": "obra/superpowers",
         "url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 326531,
+        "stars": 326872,
         "language": "Shell",
         "pushed_at": "2026-11-24T23:59:04Z"
       },
@@ -175,31 +175,31 @@
         "name": "NousResearch/hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stars": 266087,
+        "stars": 266184,
         "language": "Python",
-        "pushed_at": "2026-11-25T21:12:50Z"
+        "pushed_at": "2026-11-26T07:29:21Z"
       },
       {
         "name": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 212124,
+        "stars": 212179,
         "language": "TypeScript",
-        "pushed_at": "2026-11-25T21:22:44Z"
+        "pushed_at": "2026-11-26T07:37:59Z"
       },
       {
         "name": "firecrawl/firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
         "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-        "stars": 209935,
+        "stars": 210342,
         "language": "TypeScript",
-        "pushed_at": "2026-11-25T21:12:57Z"
+        "pushed_at": "2026-11-26T04:54:46Z"
       },
       {
         "name": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 198659,
+        "stars": 198909,
         "language": "JavaScript",
         "pushed_at": "2026-11-22T02:31:58Z"
       },
@@ -207,55 +207,55 @@
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "stars": 188189,
+        "stars": 188204,
         "language": "Python",
-        "pushed_at": "2026-11-25T20:32:27Z"
+        "pushed_at": "2026-11-26T07:31:26Z"
       },
       {
         "name": "f/prompts.chat",
         "url": "https://github.com/f/prompts.chat",
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-        "stars": 178513,
+        "stars": 178544,
         "language": "MDX",
-        "pushed_at": "2026-11-25T08:21:50Z"
+        "pushed_at": "2026-11-26T07:09:14Z"
       },
       {
         "name": "langgenius/dify",
         "url": "https://github.com/langgenius/dify",
         "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-        "stars": 161900,
+        "stars": 161932,
         "language": "Python",
-        "pushed_at": "2026-11-25T16:46:50Z"
+        "pushed_at": "2026-11-26T07:39:53Z"
       },
       {
         "name": "open-webui/open-webui",
         "url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stars": 159551,
+        "stars": 159589,
         "language": "Svelte",
-        "pushed_at": "2026-11-25T21:15:37Z"
+        "pushed_at": "2026-11-25T23:52:52Z"
       },
       {
         "name": "langflow-ai/langflow",
         "url": "https://github.com/langflow-ai/langflow",
         "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": 156941,
+        "stars": 156963,
         "language": "Python",
-        "pushed_at": "2026-11-25T21:13:44Z"
+        "pushed_at": "2026-11-26T03:34:53Z"
       },
       {
         "name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "stars": 154161,
+        "stars": 154345,
         "language": "Python",
-        "pushed_at": "2026-11-25T19:04:32Z"
+        "pushed_at": "2026-11-25T22:08:31Z"
       },
       {
         "name": "github/spec-kit",
         "url": "https://github.com/github/spec-kit",
         "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
-        "stars": 151370,
+        "stars": 151425,
         "language": "Python",
         "pushed_at": "2026-11-25T19:16:59Z"
       },
@@ -263,31 +263,31 @@
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
         "description": "The agent engineering platform.",
-        "stars": 149990,
+        "stars": 150013,
         "language": "Python",
-        "pushed_at": "2026-11-25T20:52:27Z"
+        "pushed_at": "2026-11-26T06:14:51Z"
       },
       {
         "name": "Comfy-Org/ComfyUI",
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "stars": 148602,
+        "stars": 148663,
         "language": "Python",
-        "pushed_at": "2026-11-25T21:23:24Z"
+        "pushed_at": "2026-11-26T06:48:43Z"
       },
       {
         "name": "harry0703/MoneyPrinterTurbo",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
         "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "stars": 145678,
+        "stars": 145771,
         "language": "Python",
-        "pushed_at": "2026-11-25T08:37:28Z"
+        "pushed_at": "2026-11-26T06:08:09Z"
       },
       {
         "name": "shadcn-ui/ui",
         "url": "https://github.com/shadcn-ui/ui",
         "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
-        "stars": 129079,
+        "stars": 129116,
         "language": "TypeScript",
         "pushed_at": "2026-11-25T19:07:40Z"
       },
@@ -295,17 +295,17 @@
         "name": "microsoft/generative-ai-for-beginners",
         "url": "https://github.com/microsoft/generative-ai-for-beginners",
         "description": "21 Lessons, Get Started Building with Generative AI ",
-        "stars": 124196,
+        "stars": 124272,
         "language": "Jupyter Notebook",
-        "pushed_at": "2026-11-19T03:43:07Z"
+        "pushed_at": "2026-11-26T03:43:40Z"
       },
       {
         "name": "earendil-works/pi",
         "url": "https://github.com/earendil-works/pi",
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "stars": 123871,
+        "stars": 123949,
         "language": "TypeScript",
-        "pushed_at": "2026-11-25T21:25:01Z"
+        "pushed_at": "2026-11-26T02:41:18Z"
       }
     ],
     "youtube": [],
@@ -313,134 +313,170 @@
       {
         "title": "Will AI solve the Riemann Hypothesis in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.655\", \"0.345\"]",
-        "volume": "494349.950917"
+        "price": "[\"0.745\", \"0.255\"]",
+        "volume": "538355.536206"
       },
       {
         "title": "Will AI solve P versus NP in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.1675\", \"0.8325\"]",
-        "volume": "272820.564834"
+        "price": "[\"0.15\", \"0.85\"]",
+        "volume": "320622.829187"
       },
       {
         "title": "Will AI solve the Yang-Mills existence and mass gap problem in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.095\", \"0.905\"]",
-        "volume": "14919.859397"
+        "price": "[\"0.14\", \"0.86\"]",
+        "volume": "16491.213355000004"
       },
       {
         "title": "Will AI solve the Hodge Conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.11\", \"0.89\"]",
-        "volume": "34062.137898"
+        "price": "[\"0.165\", \"0.835\"]",
+        "volume": "35991.076841"
       },
       {
         "title": "Will AI solve the Birch and Swinnerton-Dyer Conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.11\", \"0.89\"]",
-        "volume": "21115.553763"
+        "price": "[\"0.17\", \"0.83\"]",
+        "volume": "22883.453205"
       },
       {
         "title": "Will AI solve the Collatz conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
         "price": "[\"0.0575\", \"0.9425\"]",
-        "volume": "11692.934867000002"
+        "volume": "11709.601534000001"
       },
       {
         "title": "Will AI solve the strong Goldbach conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.075\", \"0.925\"]",
-        "volume": "10566.803081"
+        "price": "[\"0.105\", \"0.895\"]",
+        "volume": "11953.670073000001"
       },
       {
         "title": "Will AI solve the twin prime conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.09\", \"0.91\"]",
-        "volume": "14185.515693000001"
+        "price": "[\"0.11\", \"0.89\"]",
+        "volume": "17775.069983999998"
       },
       {
         "title": "Will AI solve the odd perfect number problem in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.0825\", \"0.9175\"]",
-        "volume": "6541.6019320000005"
+        "price": "[\"0.095\", \"0.905\"]",
+        "volume": "6591.6019320000005"
       },
       {
         "title": "Will AI solve Legendre's conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.0755\", \"0.9245\"]",
-        "volume": "4639.418469"
+        "price": "[\"0.099\", \"0.901\"]",
+        "volume": "4893.448469"
       },
       {
         "title": "Will AI solve the Hadwiger-Nelson problem in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.08\", \"0.92\"]",
-        "volume": "8302.145293"
+        "price": "[\"0.075\", \"0.925\"]",
+        "volume": "10380.900719"
       },
       {
         "title": "Will AI solve the Hadamard matrix conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.07\", \"0.93\"]",
-        "volume": "9493.564464"
+        "price": "[\"0.11\", \"0.89\"]",
+        "volume": "10911.850631"
       },
       {
         "title": "Will AI solve Beal's conjecture in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.0595\", \"0.9405\"]",
-        "volume": "6029.187419"
+        "price": "[\"0.0575\", \"0.9425\"]",
+        "volume": "6079.187419"
       },
       {
         "title": "Will AI determine the Ramsey number R(5,5) in 2026?",
         "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
-        "price": "[\"0.095\", \"0.905\"]",
-        "volume": "8585.698497000001"
+        "price": "[\"0.15\", \"0.85\"]",
+        "volume": "9853.284760999999"
+      },
+      {
+        "title": "Will the Birch and Swinnerton-Dyer Conjecture be the next Millennium Prize Problem solved by AI?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.014\", \"0.986\"]",
+        "volume": "85318.48905099998"
+      },
+      {
+        "title": "Will the Hodge Conjecture be the next Millennium Prize Problem solved by AI?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.013\", \"0.987\"]",
+        "volume": "137951.973831"
+      },
+      {
+        "title": "Will P versus NP be the next Millennium Prize Problem solved by AI?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.0525\", \"0.9475\"]",
+        "volume": "131157.838652"
+      },
+      {
+        "title": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.8995\", \"0.1005\"]",
+        "volume": "360881.446969"
+      },
+      {
+        "title": "Will the Yang-Mills existence and mass gap problem be the next Millennium Prize Problem solved by AI?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.0145\", \"0.9855\"]",
+        "volume": "92527.142457"
+      },
+      {
+        "title": "Will no Millennium Prize Problem be solved by AI by December 31, 2027?",
+        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
+        "price": "[\"0.014\", \"0.986\"]",
+        "volume": "227002.19255900002"
       },
       {
         "title": "Will Google have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.785\", \"0.215\"]",
-        "volume": "772529.1528260001"
+        "volume": "772985.946749"
       },
       {
         "title": "Will Anthropic have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.17\", \"0.83\"]",
-        "volume": "689328.1426399999"
+        "price": "[\"0.165\", \"0.835\"]",
+        "volume": "691551.6875969999"
       },
       {
         "title": "Will OpenAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.03\", \"0.97\"]",
-        "volume": "391614.500021"
+        "price": "[\"0.034\", \"0.966\"]",
+        "volume": "394099.266175"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "364861.3852249999"
+        "price": "[\"0.0035\", \"0.9965\"]",
+        "volume": "366949.5272249999"
       },
       {
         "title": "Will Z.ai have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "310575.102784"
+        "volume": "310712.73278400005"
       },
       {
         "title": "Will xAI have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "319250.60699999996"
+        "volume": "320149.637"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "290777.33658100007"
+        "volume": "290970.87358099996"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "278391.832915"
+        "volume": "278539.4629149999"
       },
       {
         "title": "Will Mistral have the best AI model at the end of December 2026?",
@@ -463,8 +499,8 @@
       {
         "title": "Will Meta have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
-        "price": "[\"0.0085\", \"0.9915\"]",
-        "volume": "379842.617917"
+        "price": "[\"0.008\", \"0.992\"]",
+        "volume": "380461.24791700003"
       },
       {
         "title": "Will Amazon have the best AI model at the end of December 2026?",
@@ -482,7 +518,7 @@
         "title": "Will ByteDance have the best AI model at the end of December 2026?",
         "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
         "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "195925.65029500003"
+        "volume": "197815.65029500006"
       },
       {
         "title": "Will Company A have the best AI model at the end of December 2026?",
@@ -551,112 +587,76 @@
         "volume": "0"
       },
       {
-        "title": "Will the Birch and Swinnerton-Dyer Conjecture be the next Millennium Prize Problem solved by AI?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.056\", \"0.944\"]",
-        "volume": "83526.93031299999"
-      },
-      {
-        "title": "Will the Hodge Conjecture be the next Millennium Prize Problem solved by AI?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.0485\", \"0.9515\"]",
-        "volume": "135185.58582599997"
-      },
-      {
-        "title": "Will P versus NP be the next Millennium Prize Problem solved by AI?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.0685\", \"0.9315\"]",
-        "volume": "110540.346301"
-      },
-      {
-        "title": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.76\", \"0.24\"]",
-        "volume": "340324.279284"
-      },
-      {
-        "title": "Will the Yang-Mills existence and mass gap problem be the next Millennium Prize Problem solved by AI?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.033\", \"0.967\"]",
-        "volume": "90311.82795400001"
-      },
-      {
-        "title": "Will no Millennium Prize Problem be solved by AI by December 31, 2027?",
-        "url": "https://polymarket.com/event/which-millennium-prize-problem-will-ai-solve-next",
-        "price": "[\"0.041\", \"0.959\"]",
-        "volume": "212108.450607"
-      },
-      {
         "title": "Will AI solve 0 more Millennium Prize Problems in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.305\", \"0.695\"]",
-        "volume": "440747.813751"
+        "price": "[\"0.18\", \"0.82\"]",
+        "volume": "449638.29121299996"
       },
       {
         "title": "Will AI solve 1 more Millennium Prize Problem in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.515\", \"0.485\"]",
-        "volume": "156683.67359099997"
+        "price": "[\"0.63\", \"0.37\"]",
+        "volume": "159155.29459299997"
       },
       {
         "title": "Will AI solve 2 more Millennium Prize Problems in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.1125\", \"0.8875\"]",
-        "volume": "190764.006266"
+        "price": "[\"0.104\", \"0.896\"]",
+        "volume": "191717.27413100004"
       },
       {
         "title": "Will AI solve 3 more Millennium Prize Problems in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.0475\", \"0.9525\"]",
-        "volume": "148188.475027"
+        "price": "[\"0.046\", \"0.954\"]",
+        "volume": "149222.10059"
       },
       {
         "title": "Will AI solve 4 more Millennium Prize Problems in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.0255\", \"0.9745\"]",
-        "volume": "96379.93400899999"
+        "price": "[\"0.024\", \"0.976\"]",
+        "volume": "96977.30604899999"
       },
       {
         "title": "Will AI solve 5 more Millennium Prize Problems in 2026?",
         "url": "https://polymarket.com/event/how-many-more-millennium-prize-problems-will-ai-solve-in-2026",
-        "price": "[\"0.0245\", \"0.9755\"]",
-        "volume": "85066.83359600001"
+        "price": "[\"0.016\", \"0.984\"]",
+        "volume": "85683.047619"
       },
       {
         "title": "Will Anthropic have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.027\", \"0.973\"]",
-        "volume": "476178.001696"
+        "price": "[\"0.0245\", \"0.9755\"]",
+        "volume": "477143.082296"
       },
       {
         "title": "Will Meta have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0025\", \"0.9975\"]",
-        "volume": "171825.381789"
+        "volume": "172180.25528900002"
       },
       {
         "title": "Will Google have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.962\", \"0.038\"]",
-        "volume": "390050.01956300007"
+        "price": "[\"0.969\", \"0.031\"]",
+        "volume": "391501.095442"
       },
       {
         "title": "Will Alibaba have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.0005\", \"0.9995\"]",
-        "volume": "183393.248164"
+        "price": "[\"0.0015\", \"0.9985\"]",
+        "volume": "184589.17116399994"
       },
       {
         "title": "Will Moonshot have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.001\", \"0.999\"]",
+        "price": "[\"0.0005\", \"0.9995\"]",
         "volume": "80488.27632399999"
       },
       {
         "title": "Will OpenAI have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
-        "price": "[\"0.004\", \"0.996\"]",
-        "volume": "235697.47512699998"
+        "price": "[\"0.006\", \"0.994\"]",
+        "volume": "237188.32714699995"
       },
       {
         "title": "Will Baidu have the best AI model at the end of November 2026?",
@@ -668,7 +668,7 @@
         "title": "Will Z.ai have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "108801.98113100001"
+        "volume": "108892.31713099999"
       },
       {
         "title": "Will Xiaomi have the best AI model at the end of November 2026?",
@@ -680,7 +680,7 @@
         "title": "Will SpaceXAI have the best AI model at the end of November 2026?",
         "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-november",
         "price": "[\"0.0015\", \"0.9985\"]",
-        "volume": "147902.782733"
+        "volume": "147968.105733"
       },
       {
         "title": "Will DeepSeek have the best AI model at the end of November 2026?",
@@ -835,377 +835,401 @@
     ],
     "arxiv": [
       {
-        "title": "OmniAct: One Policy, One Million Embodiments",
-        "url": "http://arxiv.org/abs/2611.33158v1",
-        "summary": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies. We introduce OmniAct, a cross-embodiment manipulation policy that conditions directly on each robot's kinematics in a specific scene to produce embodiment-specific behavior. This kinematic graph represents the robot's joint positions, motion axes, and connectivity to its visual observation, allowing the policy to account for how its embodiment related to objects and surfaces in the scene. A flow-matching policy predicts relative joint motions for each node, enabling control across robots with different degrees of freedom and kinematic configurations. To learn how physical structure shapes behavior at scale, we procedurally design and filter one million physically feasible robot embodiments; next, we develop algorithms to generate robot trajectories in simulation for all embodiments; finally, we train across diverse simulated manipulation tasks. On 2,000 embodiment-scene-held-out evaluation episodes, OmniAct achieves 63.0% success, compared to 17.8% for pi 0.5 and 57.9% for the strongest baseline; on the task families GPT-6 Astra was evaluated on, it achieves 64.7% against GPT-6 Astra's 41.1%. On a previously unseen real-world robot, it achieves nearly twice the success rate of the next best method, MolmoAct2. Beyond task success, we observe that OmniAct learns distinct manipulation strategies that exploit the capabilities and accommodate the limitations of different morphologies. Project: https://omniact.github.io/",
+        "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+        "url": "http://arxiv.org/abs/2611.34942v1",
+        "summary": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but degrade severely on Rayleigh fading with practical front-end impairments. To reduce the time and energy required to adapt to new channel conditions, we propose a low-latency transfer-learning procedure that starts from an AWGN-pretrained system and fine-tunes only a small subset of transmitter and receiver layers while freezing the remainder. We further formulate layer selection as a budget-constrained optimization problem that identifies the most informative parameters to update during adaptation. This preserves the learned signal geometry and the deep decision structure while adapting lightweight front ends to fading- and impairment-induced mixing. For AE communications, we show that partial updates remove the mismatch-induced error floor and approach the BER of fully retrained models. We provide a layer-wise study and quantify resource-performance trade-offs, showing that modest adaptation substantially reduces BER while cutting training time, multiply-accumulate (MAC) operations, energy consumption, and the fraction of updated parameters for resource-efficient implementation.",
         "authors": [
-          "Xiang Fan",
-          "Yuheng Wang",
-          "Jiayuan Yan",
-          "Bohan Fang",
-          "Wisdom Oluchi Ikezogwo",
-          "Ainaz Eftekhar",
-          "Max Argus",
-          "Jason Ren",
-          "Jiafei Duan",
-          "Ranjay Krishna"
+          "Yalin E. Sagduyu",
+          "Tugba Erpek"
         ],
-        "published": "2026-11-24T18:59:58Z"
+        "published": "2026-11-25T18:59:57Z"
       },
       {
-        "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
-        "url": "http://arxiv.org/abs/2611.33153v1",
-        "summary": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model, trained in two complementary stages. First, we train DiaCap on 225K curated clips, using synthetic captions that densely label every utterance in detail. Second, we further refine the model via reinforcement learning on 2.9K human-corrected clips, using fine-grained feedback that directly evaluates utterance timing, speaker grouping, and speaker binding. On DiaDemBench, which we extend with utterance-level timestamps and subtitle redaction, both DiaCap with off-the-shelf transcripts and its end-to-end variant DiaCap-E2E achieve strong results. Specifically, DiaCap performs on par with Gemini 4 Argon in audiovisual diarization while clearly outperforming it in timestamp accuracy (76.59 vs. 42.76 TIME). It also maintains strong diarization on multilingual and minute-long videos, and transfers to audiovisual question answering.",
+        "title": "Tokenisation is not in APX",
+        "url": "http://arxiv.org/abs/2611.34938v1",
+        "summary": "In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or unigram log-likelihood objectives, and for binary or larger alphabets. We further show that, even over unary alphabets, direct tokenisation is APX-hard, and thus admits no polynomial-time approximation scheme.",
         "authors": [
-          "Binfei Ji",
-          "Zhiwen Cao",
-          "Anqi Yang",
-          "Prem Seetharaman",
-          "Shuo Yang",
-          "Ratheesh Kalarot",
-          "Yingyan Celine Lin",
-          "Mingze Xu"
+          "Violeta Kastreva",
+          "Philip Whittington",
+          "Dennis Komm",
+          "Tiago Pimentel"
         ],
-        "published": "2026-11-24T18:59:08Z"
+        "published": "2026-11-25T18:59:38Z"
       },
       {
-        "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
-        "url": "http://arxiv.org/abs/2611.33151v1",
-        "summary": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that the structure of scientific literature itself provides an additional source of supervision: figures, panels, captions, and accompanying article text encode rich relationships across modalities. Yet, treating these as independent image-text pairs overlooks their relationships. To address this limitation, we incorporate these structural relationships into contrastive image-text supervision. We preserve exact image-text matches while introducing weaker positive supervision for related pairs, such as a panel and the caption of a sibling panel. We upweight cross-article negatives of the same content type to encourage finer discrimination. We also enrich panel descriptions using visual content, original figure captions, and mentioning paragraphs. Pairing panels with these descriptions and whole figures with their original captions yields Loom52M, a dataset of 52.4 million image-text pairs spanning scientific charts and biomedical images. Using Loom52M, BioLoom (DFN-2B) achieves 56.82% domain-balanced mean accuracy across 67 zero-shot classification tasks from 43 datasets in 10 domains, compared with 48.77% for MedPMC-CLIP. On BioLoomBench with concise captions and BioMedFlickr, it achieves bidirectional mean Recall@1 of 63.20% and 10.59%, versus 46.37% and 7.55% for the respective strongest evaluated baselines, BiomedCLIP and MedPMC-CLIP. Code, datasets, benchmarks, and models are available at https://bioloom-clip.github.io/.",
+        "title": "Can image generation help visual reasoning? An empirical study",
+        "url": "http://arxiv.org/abs/2611.34935v1",
+        "summary": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and generated images together. Across 13 vision-language model and generator pairs, generation lowers mean accuracy by 3.7 percentage points, with declines on nine of ten tasks. Two unified models, BAGEL and Janus-Pro-7B, each lose accuracy on eight tasks. On VSTAR, adding a generated image to the same planning hint lowers accuracy by 10.47 points. Repeated image edits yield different outcomes across tasks. ChartQAPro and MathVista stay below their no-generation baselines, while ERQA gains three points after ten edits.",
         "authors": [
-          "Yuwei Yang",
-          "Xiaoxiao Sun",
-          "Alejandro Lozano",
-          "Yuan-Sen Ting",
-          "Yuhui Yuan",
-          "Liang Zheng",
-          "Serena Yeung-Levy"
+          "Xueyang Yu",
+          "Yifan Jing",
+          "Taiming Lu",
+          "Linrong Cai",
+          "Zhipeng Cai",
+          "Yunyang Xiong",
+          "Gabriel Sarch",
+          "Zhuang Liu"
         ],
-        "published": "2026-11-24T18:59:04Z"
+        "published": "2026-11-25T18:59:31Z"
       },
       {
-        "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
-        "url": "http://arxiv.org/abs/2611.33148v1",
-        "summary": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are closed models whose chain-of-thought is hidden behind an API. We show that the chain-of-thought can be left out altogether and that the long-horizon policy can be distilled from the teacher's actions alone. The student is trained on these trajectories with its reasoning block left empty, while a KL loss on a replay buffer of its own generations limits drift from its initial model. Surprisingly, the policy learned from these trajectories with an empty reasoning block carries over to inference with thinking enabled, where the student reasons in its own style while acting like the teacher, an effect we call cross-format transfer. Distilling the actions of Qwen3.6-27B raises the task success of Qwen3-4B on AppWorld from 7% to 18% and that of Qwen3-32B from 12% to 25%. We further introduce CoT-proxies, short summaries of the teacher's reasoning placed after the empty reasoning block, which raise Qwen3-4B further, to 35%. Since neither actions nor CoT-proxies need the hidden chain-of-thought, the recipe applies unchanged to closed teachers. Distilling GPT-5.6 Luna from its visible outputs and the reasoning summaries its API returns raises Qwen3-4B from 7% to 48% on AppWorld and from 3% to 28% on SWE-bench Verified.",
+        "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+        "url": "http://arxiv.org/abs/2611.34934v1",
+        "summary": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated by attack policies acting as proxies for dangerous behaviour in deployment. We evaluate an ex-production OpenAI monitor as a case study and find that measured false negative rate is highly sensitive to both the method used to generate attack policies and the level of optimisation applied within that method. This rate ranged from 0.5\\% to 20.8\\% across optimisation levels of a single method (reinforcement learning), and from 6.4\\% to 23.0\\% across methods at their best observed optimisation level (optimised prompting vs.\\ transcript editing). Every attack policy was developed against proxy monitors only: all reported results show attacks transferring to the held-out GPT-5.4 target monitor. Our results suggest that monitor evasion evaluations can easily mislead: an evaluation using only basic attack methods may give false confidence that a monitor is strong. The sensitivity to attack-policy choice raises a problem: interpreting any particular result as evidence about deployment performance requires justification. The transcripts produced by attack policies are proxies for the dangerous behaviour a monitor must flag in deployment. These proxies can introduce visible artefacts, such as reasoning about a ``side task'' absent from the instructions shown to the monitor, that affect monitor judgements. Given the sensitivity above, the choice of proxy can change an evaluation's conclusion. Reading these results as evidence about deployment therefore requires a separate legitimacy argument for why the proxies are informative, including any justification of conservativeness. Making convincing arguments remains an open problem.",
         "authors": [
-          "Dawid J. Kopiczko",
-          "Tijmen Blankevoort",
-          "Yuki M. Asano"
+          "Charlie Griffin",
+          "Oliver Makins",
+          "Asa Cooper Stickland",
+          "Alessandro Abate",
+          "Yarin Gal",
+          "Abby D'Cruz",
+          "Xander Davies"
         ],
-        "published": "2026-11-24T18:58:53Z"
+        "published": "2026-11-25T18:59:28Z"
       },
       {
-        "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
-        "url": "http://arxiv.org/abs/2611.33141v1",
-        "summary": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future imagination, but how to train such proxies without sacrificing action-prediction quality remains unclear. An effective proxy need not generate a high-resolution frame; it only needs to provide enough information to distinguish between possible futures. This leads to the design principle behind iWAM: rather than denoising an entire future frame, can we condition the action policy on intermediate features from a single video-model evaluation? We show that the answer is yes. Exploiting the reversible dynamics of flow-matching models, we invert each training future into the corresponding latent noise vector. However, a single velocity evaluation at this latent does not necessarily yield informative features for action prediction. We therefore learn a bidirectional flow map that amortizes future-generation computation, enabling a single model evaluation to provide effective conditioning features. At inference, we sample a latent noise vector from the prior and condition the policy using just one video-backbone forward pass. Across simulated benchmarks and real robots, iWAM recovers the generalization benefits of WAMs while substantially reducing its inference cost.",
+        "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+        "url": "http://arxiv.org/abs/2611.34930v1",
+        "summary": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents. We introduce BioScore, a benchmark that quantifies how well an image encoder captures cell identities, with spatial transcriptomics of the same tissue as the reference. A sparse autoencoder splits the encoder's patch embeddings into sparse features, which we cluster into a fixed number of groups. BioScore then measures, for each of 52 cell identities defined by marker genes, how specifically one group follows the identity's expression over the tissue. Because the autoencoder training is fully unsupervised, a match shows that the model represents the cell identity from the image alone. We score 8 pathology foundation models and 3 natural-image models. Every pathology model scores above every natural-image model (0.299--0.371 \\vs 0.214--0.232), and paired tests separate three tiers among the pathology models. Unlike a supervised probe, BioScore needs no labels, builds its reference from the data and scores even from few sections, yet it ranks the encoders as a probe does. Its per-identity breakdown indicates which cell identities each encoder captures or misses.",
         "authors": [
-          "Vansh Kapoor",
-          "Max Sobol Mark",
-          "Sreyas Venkataraman",
-          "Max Simchowitz",
-          "Aviral Kumar"
+          "Paul Vilars",
+          "Vincent Quoc-Huy Trinh",
+          "Maria Vakalopoulou",
+          "Dimitris Samaras",
+          "Stergios Christodoulidis",
+          "Mahdi S. Hosseini"
         ],
-        "published": "2026-11-24T18:56:04Z"
+        "published": "2026-11-25T18:59:13Z"
       },
       {
-        "title": "BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation",
-        "url": "http://arxiv.org/abs/2611.33135v1",
-        "summary": "Language models can generate LEGO$^\\circledR$ assemblies from text, but their builds often contain parts that collide or attach to nothing. The usual approach of rejecting and resampling invalid placements discards decoded tokens without guaranteeing a valid build. We present BriConstrain, a constrained decoding method that restricts a pretrained language model's next-token probabilities before sampling, steering it towards valid placements. Because the validity of a brick placement depends on the non-predetermined build state, it cannot be compiled into a fixed grammar and must be checked dynamically. However, checking the validity of a brick before sampling is challenging as the space of valid placements is combinatorially large and cannot be enumerated exhaustively. Our key idea is to narrow the search space by constraining how parts attach rather than which parts attach to each other. Concretely, given the model's predictions of the currently placed part, and the previously placed parent it wants to connect to, we constrain the model's choice of how they attach. This allows us to span the space of part attachments, using a precomputed geometric oracle, and to effectively filter out colliding options. With valid attachment candidates in hand, we bias the model's next-token distribution towards the remaining valid candidates. We evaluate our method on two LEGO$^\\circledR$ formats and models: BrickNet, which annotates connectivity explicitly, and our proposed Implicit Connectivity LDraw Format (ICLF), which uses numeric values for placements and leaves connectivity implicit. Our method raises collision-free builds from 31% to 91% on BrickNet and from 15% to 65% on ICLF, and outperforms rejection sampling on both formats at about 60% of its decoding cost.",
+        "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+        "url": "http://arxiv.org/abs/2611.34928v1",
+        "summary": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning Traces (DART), a trace-mining method that starts from a rejected trace, decomposes it into reasoning steps, and ranks them by position-weighted uncertainty. It then generates deliberately distinct alternative candidates for highly ranked steps using reference-answer guidance and a meta-thought before completing the resulting traces. On greedy-unsolved DeepMath-103K problems, DART recovers 37% more problems than MC sampling at a matched number of generated traces. Its estimated generation cost per recovered problem is nearly identical, while its cost per accepted trace is 30% lower. Post-training Llama-3.1-8B-Instruct on traces mined by DART achieves the highest point estimate in five of six evaluations across MATH-500 and AIME benchmarks. These results demonstrate that revisiting rejected traces with DART can expand problem coverage and provide effective post-training data.",
         "authors": [
-          "Nadav Magar",
-          "Amir Hertz",
-          "Ariel Shamir",
-          "Or Patashnik"
+          "Lukas Aichberger",
+          "Adam Golinski",
+          "Arno Blaas",
+          "Arwen Bradley",
+          "Jacob Springer",
+          "Mehrdad Farajtabar",
+          "Michael Kirchhof",
+          "Sinead Williamson"
         ],
-        "published": "2026-11-24T18:54:38Z"
+        "published": "2026-11-25T18:59:11Z"
       },
       {
-        "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
-        "url": "http://arxiv.org/abs/2611.33133v1",
-        "summary": "Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demonstration had GPT-6 Astra edit 131,072 of the model's weights without gradients and reported MATH-500 rising from 7.9% to 48.1% at a 32,768-token budget. We provide the missing gradient baseline, then combine the two edits. Fine-tuning only the 140 to 139,750 weights with the largest gradient, on the model's own correct answers to MATH training problems, raises thinking-mode MATH-500 at 4k tokens to 39.0-45.5% after 2-9 minutes of training on one GPU; 50 training examples suffice, and 1,398 random positions give only 16.3%. The gradient concentrates the edit on the most nearly constant channel of each of the first three layers. Because the model has no bias terms, an edit confined to those channels acts as a constant vector added to the residual stream: adding three fixed vectors to the unedited model matches the accuracy of such an edit. Under the Astra protocol (32k tokens, presence penalty 1.5), the Astra edit scores 52.1% (finished and correct) in our reproduction and our full-strength edits reach 45.6-45.7%, but ours win at every budget up to 16k tokens (39.5% against 6.7% at 4k). The two edits are complementary. The Astra edit plus our 139,750-weight edit at half strength scores 62.2% at 32k, 10 points above the Astra edit alone (p = 3e-9), with half as many tokens; our half-strength edit alone scores 46.7%.",
+        "title": "Mixture-of-Loops Transformer",
+        "url": "http://arxiv.org/abs/2611.34923v1",
+        "summary": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops. Under loop residual, MoLT-R retains the residual stream and reads local KV across loops for expressivity. Under loop KV, MoLT-KV instead restarts from embeddings and reads current-loop local KV with preceding-loop memory KV at earlier positions for efficiency. MoLT-KV eliminates same-position cross-loop dependence and, paired with loop forcing for parallel training, unlocks single-traversal Mixture-of-Loops (MoL) decoding beyond the training loop horizon. To balance efficiency and quality, we introduce U-shaped MoLT (U-MoLT), which separates memory construction from prediction readout and skips unused decoder traversals without changing predictions. In 400B-token pretraining, U-MoLT outperforms OLMo3 across 700M/1.5B dense and 3B MoE models, achieving 1.7x validation cross-entropy (CE) token efficiency at 700M while improving 3B MoE 10-domain perplexity by 0.75 and 10-task accuracy by 2.1 percentage points. In 100B-token continued pretraining of Qwen3.5-0.8B-Base, our U-MoLT adaptation lowers CE on all 11 domains over the matched baseline with 1.4x mean token efficiency. At inference, U-MoLT with MoL-Hybrid-2 matches non-looped OLMo3 latency at 996.6 vs. 1,000.6 ms on S-size (~113M) models. Code is available at https://github.com/hustvl/MoLT",
         "authors": [
-          "Hussamuddin Syed"
+          "Lianghui Zhu",
+          "Shijie Wang",
+          "Xinggang Wang",
+          "Jinze Bai",
+          "Bo Wang",
+          "Xiang Bai"
         ],
-        "published": "2026-11-24T18:53:22Z"
+        "published": "2026-11-25T18:58:53Z"
       },
       {
-        "title": "Exploratory Midtraining for Robot Policies",
-        "url": "http://arxiv.org/abs/2611.33130v1",
-        "summary": "Robot policies predominantly learn from human-collected data emphasizing competent behavior, limiting coverage of the low-level behaviors needed to support autonomous improvement. We study how a form of midtraining can be used to build coverage over diverse low-level behaviors that connect challenging states of the robot and its environment to states from which further progress is possible (\"connected behavioral coverage\"). We also examine how this coverage supports downstream adaptation and online improvement. To this end, we introduce $\u03b2$-Data, a dataset collected via adversarial teleoperation, where a human adversary reversibly perturbs the environment while a human operator continues toward completion without resetting. We relabel trajectory segments with local outcomes in natural language and finetune a pretrained policy conditioned on recent action history. The resulting policy exhibits sustained use of more low-level behaviors. Across manipulation tasks in simulation and on three real-robot platforms, our approach yields more favorable data scaling laws, better zero-shot generalization, and more effective use of additional rollout time than training on standard demonstrations. During online finetuning, these policies need fewer rollouts to collect successful experience and reach higher success rates, suggesting that midtraining can prepare robots for both more robust task execution and continued autonomous improvement. Our project page and robot videos are available at https://kshitiz-1225.github.io/exploratory-midtraining-robot-policies/.",
+        "title": "$\u03bc$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+        "url": "http://arxiv.org/abs/2611.34920v1",
+        "summary": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $\u03bc$-Bench, a benchmark for joint task completion in closed-loop, full-duplex multi-user voice interaction. Simulated participants act from isolated profiles of goals, knowledge, and permissions, adapting to the agent's speech and tool outcomes. Across 20 domains, 100 scenarios vary group size, acoustics, and follow-up demands to form 800 cases (408 tool-augmented, 392 tool-free). Joint Task Success (JTS) requires all user goals, privacy boundaries, and terminal states to hold jointly, while Pure JTS further disallows unauthorized tool calls; Attribution, Threading, and Coordination (ATC) diagnostics localize failures. Across 13 voice agents, proprietary systems peak at 62.24\\% tool-free and 65.44\\% tool-augmented success, while open-weight models remain below 20\\%. ATC diagnostics show that open-weight models lag primarily in multi-turn attribution and threading, and controlled contrasts reveal that larger groups consistently degrade joint task success across capable systems. By coupling reactive multi-user simulation with verifiable session-level outcomes, $\u03bc$-Bench provides a rigorous testbed for shared voice agents.",
         "authors": [
-          " Kshitiz",
-          "Zheyuan Hu",
-          "Robyn Wu",
-          "Yizhou Li",
-          "Yunchu Zhang",
-          "Vattanary Tevy",
-          "Kavya Tayal",
-          "Shawn Yin",
-          "Aykut Onol",
-          "Kushal Arora",
-          "Dhruv Shah",
-          "Abhishek Gupta",
-          "Zackory Erickson",
-          "Aviral Kumar"
+          "Qihao Lin",
+          "Guanxu Chen",
+          "Shuhang Zheng",
+          "Xiaoya Lu",
+          "Jingyi Yang",
+          "Terumi Chiba",
+          "Wenyi Yu",
+          "Chao Zhang",
+          "Zhuan Shi",
+          "Jing Shao"
         ],
-        "published": "2026-11-24T18:52:34Z"
+        "published": "2026-11-25T18:58:42Z"
       },
       {
-        "title": "SAG-Mem-1.0 Technical Report",
-        "url": "http://arxiv.org/abs/2611.33124v1",
-        "summary": "Long-term conversational memory requires retrieving complementary facts scattered across dialogue sessions, including intermediate evidence with limited similarity to the original question. Existing approaches often rely on derived memory representations or persistent relational structures, introducing construction costs and potentially losing source details. We present SAG-Mem, a conversational memory framework that preserves complete dialogue messages in non-overlapping chunks and discovers complementary evidence through query-time lexical expansion. Memory construction requires no model inference, using a lexical index without LLM-based extraction, summarization, or semantic relation construction. At query time, BM25 retrieves initial candidates, an evidence evaluator identifies useful chunks, and lexical cues from selected evidence guide an additional retrieval round. Retrieved dialogue is further annotated with calendar interpretations of supported relative-time expressions, preserving the original wording and temporal granularity. We also introduce SAG-Mem-Lite, an alternative configuration that replaces evidence scoring with embedding-based candidate scoring, achieving lower operational cost than Full Context and all memory-based baselines across both benchmarks with low query latency. On LoCoMo and LongMemEval, SAG-Mem achieves overall scores of 83.08 and 80.20, respectively, the highest among the evaluated methods on both benchmarks. On LongMemEval, it exceeds the strongest compared baseline by 7.20 points. SAG-Mem-Lite achieves scores of 77.09 and 77.20, respectively. These results support dialogue preservation and evidence-guided retrieval expansion as an effective design for long-term conversational memory.",
+        "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+        "url": "http://arxiv.org/abs/2611.34899v1",
+        "summary": "This work presents a novel application of Earth Observation (EO) embeddings for Maritime Domain Awareness (MDA) from the perspective of the geospatial foundation model TerraMind. By operating directly on compressed latent-space representations rather than on the original Sentinel-1 imagery, this approach directly addresses the data gravity bottleneck that increasingly constrains operational EO processing, in line with the objectives of the Embed2Scale project. In particular, linear and non-linear probing of compressed embeddings, latent space representations of synthetic aperture radar (SAR) imagery, is used to detect, localise, and characterise vessels from Sentinel-1 GRD images. Vessel detection achieves a ROC-AUC of 0.95, while vessel localisation has a median error of around 300 m for vessels longer than 100 m, and vessel AIS type-code classification achieves 62% accuracy for the majority classes. The latter, however, is highly correlated with vessel length. These results reveal both the potential and current limitations of Geospatial Foundation Models (GeoFMs) when applied to fine-grained MDA understanding in real-world scenarios. Additionally, a new maritime remote sensing dataset is released, pairing about 2,000 Sentinel-1 images with temporally aligned AIS signals from commercial vessels. Through manual inspection, each candidate sample was verified for bounding-box quality and for consistency between the AIS-reported vessel length and the observed vessel extent, cross-checking vessel identity and location against publicly available vessel records and, where available, photographs. The dataset was made ready for use with the NeuCo-Bench neural compression benchmark framework, publicly available on HuggingFace through https://huggingface.co/datasets/embed2scale/S1-single-ship-downstream .",
         "authors": [
-          "Yuchao Wu",
-          "XingCheng Liang",
-          "Xuanze Wang",
-          "Yini Huang",
-          "Yue Wu"
+          "Rikard Vinge",
+          "Miguel A. Belenguer-Plomer",
+          "Isabelle Wittmann",
+          "Octavian Dumitru",
+          "Michele Lazzarini",
+          "Sergio Albani",
+          "Conrad M Albrecht"
         ],
-        "published": "2026-11-24T18:51:29Z"
+        "published": "2026-11-25T18:51:36Z"
       },
       {
-        "title": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing",
-        "url": "http://arxiv.org/abs/2611.33119v1",
-        "summary": "Large language models (LLMs) can generate parallel programs, but their correctness and performance depend strongly on the instructions that guide generation. We present \\textsc{MetaFORGE}, an execution-grounded meta-learning framework that iteratively optimizes persistent natural-language skill specifications for MPI C code generation. \\textsc{MetaFORGE} combines correctness testing, compiler diagnostics, static-analysis findings, runtime measurements, and rank-level load-imbalance profiles into a scalar reward that drives textual-gradient refinement, while an external memory distills and retrieves reward-supported optimization knowledge across runs. Across six MPI tasks and three workload sizes, \\textsc{MetaFORGE} improves static-analysis quality, runtime, and load balance relative to zero-shot generation and generally exceeds the evaluated \\textsc{TextGrad} iterative baseline. A model-matched refinement ablation shows that the MetaFORGE advantage persists when its refinement model is reduced to \\texttt{gpt-4o}. An expanded retrieval ablation across all 18 task--workload configurations shows consistent runtime benefit and broad static-analysis and load-balance benefit from retrieved context. Leakage-controlled held-out and zero-update experiments further provide evidence that optimization knowledge persists in both the transferred skill and external memory under the evaluated protocol.",
+        "title": "What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video",
+        "url": "http://arxiv.org/abs/2611.34894v1",
+        "summary": "How an object deforms when it hits the ground reveals what it is made of. From a single real video of a drop, we estimate a deformable object's density-normalized stiffness $E/\u03c1$, and its yield stress $\u03c3_Y/\u03c1$ when the impact causes plastic deformation, with a feed-forward predictor trained only in simulation. Real videos carry no material labels, so such predictors are developed and validated on synthetic data alone. We show that synthetic validation ranks their geometric inputs in the wrong order. Material acts through 3D deformation, and tracklets lifted to 3D with estimated depth are indeed the most accurate input in simulation. However, on real drops they are the least accurate, and better depth does not repair them: the failure persists with simulator depth in training, LiDAR depth at test time, and exact depth on rendered replays of the real drops. Short 2D optical-flow tracklets do the opposite: they improve nothing in simulation, yet they transfer best. Material is therefore better read from what perception measures consistently in both domains than from what is most informative in simulation. Our predictor, PhysReader, reads the video and 2D tracklets and learns the lift to 3D in simulation by matching a teacher that sees exact 3D deformation. To measure transfer, we introduce PhysReader-Real: 16 everyday objects dropped five times each, with reference materials fit jointly to each object's drops and checked against tensile tests. On PhysReader-Real, PhysReader is closer to the reference materials than every other input and baseline. The one exception is a per-scene optimizer started from PhysReader's prediction, which ends slightly closer but takes 49 minutes per video instead of 12 seconds.",
         "authors": [
-          "Scott Piersall",
-          "Yang Gao",
-          "Shenyang Liu",
-          "Liqiang Wang"
+          "Ziyue Peng",
+          "Yanxi Hu",
+          "Junyoung Kim",
+          "Andrew Chen",
+          "Jin Yang",
+          "Chandrajit L. Bajaj",
+          "Etienne Vouga",
+          "William T. Freeman",
+          "Qixing Huang",
+          "Brandon Y. Feng"
         ],
-        "published": "2026-11-24T18:49:19Z"
+        "published": "2026-11-25T18:47:56Z"
       },
       {
-        "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
-        "url": "http://arxiv.org/abs/2611.33111v1",
-        "summary": "Speculative decoding accelerates large language model (LLM) inference by employing a lightweight draft model to propose draft tokens and allowing the target model to verify the new tokens in parallel to improve inference-time compute utilization. The speedup relies on the acceptance probability of draft tokens in target verification, which is directly related to the gap $\\|p-q\\|_1$ between the target distribution $p$ and the draft distribution $q$. In this paper, we study draft calibration of speculative decoding to improve the speedup of speculative decoding, where we employ post-hoc methods to calibrate the draft distribution to mitigate the distribution gap. We observe that though current community open-source draft models may learn the top candidate token correctly, they are generally underconfident compared to the target model, suggesting a consistent distribution mismatch. To mitigate the effect of this mismatch on the acceptance rate of the draft models, we try various post-hoc calibration methods, including standard temperature scaling and token-wise calibration. Our results suggest that a standard temperature scaling applied to the draft distribution improves the acceptance length by up to approximately 10\\% with almost no additional cost across different tasks. Throughput analysis further verifies that this improvement in serving efficiency. Analysis of more general calibration methods reveals further potential room for improvement.",
+        "title": "Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits",
+        "url": "http://arxiv.org/abs/2611.34887v1",
+        "summary": "Decision trees are among the most well-known interpretable models in Machine Learning. Over the years, a wide variety of strategies have been proposed to define split conditions within the greedy learning framework, aiming to guide instance routing and enhance predictive performance. These strategies range from axis-parallel and oblique splits based on feature values to proximity-based splits using exemplar instances and more complex hybrid approaches. However, no single method has emerged as universally superior. In this work, we present two key contributions to the construction of greedy decision trees. First, we propose a hybrid tree architecture that integrates both feature-based and case-based splits, allowing for heterogeneous splits throughout the tree. Second, we introduce a novel type of split that leverages a selective case-based approach: when a split is needed, our method searches for the most informative subset of features to define the split, effectively balancing the specificity of case-based methods with the simplicity of feature-based ones. Experiments on a diverse set of tabular datasets show that our method outperforms standard decision trees and achieves performance on par with ensemble methods, while producing shallow trees that retain or even improve predictive accuracy.",
         "authors": [
-          "Yuxing Liu",
-          "Wei Zuo",
-          "Walid Krichene",
-          "Tong Zhang",
-          "Li Zhang"
+          "Cristiano Landi",
+          "Alessio Cascione",
+          "Riccardo Guidotti"
         ],
-        "published": "2026-11-24T18:41:59Z"
+        "published": "2026-11-25T18:45:35Z"
       },
       {
-        "title": "Temporal Conditioning for Human Behavioral Cloning in Chess",
-        "url": "http://arxiv.org/abs/2611.33106v1",
-        "summary": "Behavioral cloning models in chess typically predict human moves from board states while ignoring temporal inputs such as the remaining clock. However, time pressure is a major determinant of human decision-making quality, and temporal state is a missing dimension of human behavioral modeling. This paper introduces a time-aware transformer that extends a Chessformer-style architecture with learned temporal conditioning tokens encoding player clock state, time control, and recent tempo, together with behavioral heads for thinking time and resignation. The model is trained on large-scale online chess data and evaluated against time-agnostic baselines and the state of the art. Results show that temporal conditioning yields modest overall accuracy improvements but substantially stronger gains under time pressure. Beyond move choice, it also produces more accurate thinking-time and resignation predictions. More importantly, the model better matches human move-quality degradation in critical time regimes, reducing the systematic over-strength observed in time-agnostic behavioral cloning models. These results suggest that temporal state is a previously underutilized but important signal for human behavioral cloning in chess.",
+        "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+        "url": "http://arxiv.org/abs/2611.34881v1",
+        "summary": "Visual context is a powerful cue for object recognition: scenes inform what, where, and at what scale objects are likely to appear. Yet over-reliance on context becomes a failure mode when models predict objects based on their typical neighbors rather than the objects' own visual features, which we call typicality bias. While extensively studied in the pre-Transformer era, it has often been assumed that architectural and scale improvements would naturally solve it, and a systematic diagnostic across the modern vision stack remains absent. We provide such a diagnostic framework. We measure typicality bias via normalized pointwise mutual information (NPMI) over object pairs, and introduce STRANGE-Bench (Synthetic Typicality-RANked Grounded Evaluation Benchmark): a photorealistic, layout-controlled benchmark spanning 17 sub-tiers from typical to never-co-occurring object pairs. Across five model families (specialist detectors, open-vocabulary detectors, self-supervised, vision-language, and multimodal large language models) and three recognition tasks (supervised detection, open-vocabulary detection, and classification), the bias is prevalent: gaps of 5-11 p.p. persist when objects appear outside their typical company, and do not consistently shrink with scale. To mitigate it, we turn to data augmentation: existing augmentations are designed for visual diversity, not for breaking co-occurrence shortcuts, and sample from the very distribution that produces typicality bias. We propose Anchor-Atypicality Sampling (AAS), a simple sampling rule for paste-based augmentations that uses the NPMI signal to tilt the training-time co-occurrence distribution toward atypical partners. AAS reduces the typicality gap by up to 1.6 p.p. on natural-image COCO splits and 23.0 p.p. on synthetic STRANGE-Bench across three model families, without sacrificing overall performance.",
         "authors": [
-          "Victor Dziwniel",
-          "Tianxiang Lu"
+          "Siddhartha Gairola",
+          "Jiahao Xie",
+          "Anna Kukleva",
+          "Francesco Locatello",
+          "Bernt Schiele"
         ],
-        "published": "2026-11-24T18:40:51Z"
+        "published": "2026-11-25T18:39:28Z"
       },
       {
-        "title": "Reinforcement Learning Can Be Recovered From Its Own Rollouts",
-        "url": "http://arxiv.org/abs/2611.33102v1",
-        "summary": "Broadly speaking, reinforcement learning (RL) post-training converts compute into model capabilities by training on model-generated data. Typically, the rollouts are discarded after each update, and the knowledge acquired during RL resides in the model weights. In this work, we investigate how much of this knowledge is retained in the rollouts themselves. A natural first attempt is to replay the original RL algorithm on archived rather than freshly generated rollouts, but this leads to catastrophic collapse. We provide a simple explanation for this phenomenon, which in turn suggests a remedy: maximum likelihood on the archived rollouts. Surprisingly, starting from the same base model and replaying the rollouts in the order in which they were generated, without any distinction between correct and incorrect responses, is sufficient to recover the performance of online RL. In fact, a single maximum likelihood update per rollout batch closely tracks the entire learning curve of online RL. Furthermore, maximum likelihood on the rollouts of the last few RL steps often suffices to recover the final model's performance. This suggests that much of the compute invested in RL goes into discovering an improved sampling distribution rather than learning it from samples.",
+        "title": "How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches",
+        "url": "http://arxiv.org/abs/2611.34875v1",
+        "summary": "Agent patches are larger than developers', which is widely read as over-editing. But patch size does not say whether the extra edits are needed, what they are, or where they come from. We introduce Delta Residue Attribution (DRA), which replays agent trajectories, traces every block (unit) of the final patch to the step that wrote it, reverts each unit, and reruns the task tests to decide whether the unit is needed. We apply DRA to 7,660 resolved GitHub Copilot CLI trajectories from 18 frontier models on SWE-bench Verified (6,728) and DeepSWE (932), and grade developer patches using the same method. Agent patches do change more lines than developers'; on SWE-bench Verified the majority of extra edits add tests (61%) and documentation (13%) while on DeepSWE, most extra edits are code (58%). On both benchmarks, agents' code is on average at least as necessary as developers' (mean $NP_{code}$ 0.887 vs. 0.864 on SWE-bench Verified, where 11 of 18 models leave less unneeded code than developers, and 0.797 vs. 0.785 on DeepSWE). On average, 11% of an agent patch's code units on SWE-bench Verified are still unneeded, and 89% of those change behavior. Debug steps write almost none of the unneeded code. Code necessity differs substantially by model; it is unrelated to resolve rate on SWE-bench Verified and negatively correlated with it on DeepSWE (Spearman -0.59, p = 0.01). On SWE-bench Verified, pruning with DRA using only the tests the agent can see (its own tests and the repository's) removes the majority of unneeded code but also some needed code (67% recall, 46% precision), and 89% of pruned patches still resolve the task; asking the agent to audit its own diff is more precise but less effective (36% recall, 66% precision). We recommend that benchmarks report code necessity next to resolve rate and that over-editing be addressed through model training and harness-level pruning.",
         "authors": [
-          "Jiayi Sheng",
-          "Jingwen Gu",
-          "Guanning Zeng",
-          "Zhaoyi Zhou",
-          "Stefano Viel",
-          "Qianqian Wang",
-          "Fahim Tajwar",
-          "Andrea Zanette"
+          "Aakash Goel",
+          "Benjamin Steenhoek",
+          "Yu Hu"
         ],
-        "published": "2026-11-24T18:38:06Z"
+        "published": "2026-11-25T18:37:06Z"
       },
       {
-        "title": "GREMLIN: Generating Random Environments for Meta-Learning with Interacting Networks",
-        "url": "http://arxiv.org/abs/2611.33101v1",
-        "summary": "Can randomly parameterized neural environments supply useful experience for learning a reinforcement learning algorithm? We investigate this question using DiscoRL's rule-discovery framework, replacing human-designed training games with sixteen selected neural environments. Each game combines bounded vector dynamics with a random strategy-based reward and an independent outcome reward. After 224.8 million agent-environment steps, we froze the teacher and trained fresh agents. DQN outscored GREMLIN on most games, both generated and human-designed. GREMLIN nevertheless outperformed the untrained teacher on all 26 games, showing that generated experience can improve a learning rule. It remains unclear whether this approach can yield a competitive rule with longer meta-training.",
+        "title": "Shape-Aware Three-Way Merge for RDF Knowledge Graphs: The schema defines the conflict: an implementation and evaluation",
+        "url": "http://arxiv.org/abs/2611.34870v1",
+        "summary": "Merging RDF serializations creates ordering conflicts and misses semantic ones. We describe and evaluate a three-way merge in which the schema defines a conflict: set algebra combines canonical triples, and a slot is contended only where a SHACL shape bounds its cardinality and both sides' changes cannot stand within that bound. Unbounded predicates union; contended slots go to a person. The same shapes graph validates the result. We do not claim the first three-way merge for RDF. Our contribution is an implementation in a production multi-agent store and an evaluation against a reimplementation of Quit Store's Context Merge overlap rule, which it extends rather than replaces, and six other strategies. Across five synthetic seeds, the shape-aware operator raised 33 conflicts, all true positives as judged by the same shapes that define them, with no triples lost or fabricated and no SHACL violations admitted. The context-overlap baseline, counted per slot, detected the same 33 conflicts but asked 845 questions. A replay built from recorded production incidents covers 105 human alias repairs (93 after excluding 12 chained pairs) and 939 duplicate-value incidents. It reproduces a triple-level limit: different names for one entity remain invisible (0 of 93 alias repairs detected, matching 0 of 21 synthetic cases). In a study of evolving shape contracts, merging shape declarations first handles the tested cardinality changes, while datatype evolution exposes a detector blind spot caught by post-merge validation. An oracle that reads no shapes agrees with the shipped operator on the facts and history of all 23 reachable single-slot cases. Under wrong shapes, a missing bound loses data silently and a spurious one only adds questions. The supported claim is fewer human decisions with nothing silently lost, for cardinality conflicts in one deployment, not general merge correctness.",
         "authors": [
-          "Octave Gaspard"
+          "Steve Brown"
         ],
-        "published": "2026-11-24T18:37:37Z"
+        "published": "2026-11-25T18:34:46Z"
       },
       {
-        "title": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance",
-        "url": "http://arxiv.org/abs/2611.33098v1",
-        "summary": "Agents built on frontier language models are expensive. At every step, the frontier model re-reads its entire context and executes every subtask regardless of its difficulty. This paper explores the simple thesis that much of this cost can be removed by delegating easy subtasks to a small language model, or SLM, that runs on hardware one already owns. To test it, we build Delegent, a simple and effective agent harness built on Claude Code, in which the frontier model stays in charge of every task but hands focused subtasks, such as investigating code, running tests, and searching a corpus, to SLM subagents. Existing approaches such as cascades and model routers usually choose which model executes the entire task, whereas in Delegent, the frontier model always leads the execution and delegates easy subtasks to the SLM. No router or model is trained, so either model can be swapped freely. With the help of a 27B FP8 SLM, Delegent reduces the frontier cost of long-horizon coding by 67% and of agentic search by 59%, with no loss in task performance, and even a 2B SLM that fits on a laptop reduces the coding cost by 66%. The savings grow with the legwork that the frontier model would otherwise do itself, and a short instruction, which leaves the main coding tasks to the frontier model, accounts for most of the saving and keeps the 2B SLM from losing tasks. Code: https://github.com/castorini/delegent",
+        "title": "A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom",
+        "url": "http://arxiv.org/abs/2611.34868v1",
+        "summary": "Large Language Models (LLMs) are increasingly integrated into telecommunications for customer service, network analytics, and operational support. While offering efficiency and innovation, their deployment raises critical privacy, security, and ethical challenges due to the uniquely sensitive and longitudinal nature of telecom data. This paper presents a survey of LLM risks and safeguards in telecom context. Our survey introduces a telecom-specific taxonomy linking privacy, security, and ethics with use cases and outlines open research challenges such as longitudinal data privacy, cross-border compliance, and scalable guardrails.",
         "authors": [
-          "Lingwei Gu",
-          "Jimmy Lin"
+          "Joy Bose",
+          "Srinivas Adyapak"
         ],
-        "published": "2026-11-24T18:34:40Z"
+        "published": "2026-11-25T18:33:07Z"
       },
       {
-        "title": "EventDiffusion: Learning Native Event Stream Distribution from Videos",
-        "url": "http://arxiv.org/abs/2611.33096v1",
-        "summary": "Event cameras capture asynchronous brightness changes at high temporal resolution, but scarce recordings constrain data-driven research. Sparse RGB observations cannot uniquely determine intervening events since identical frames may correspond to streams with different activity, polarities, and timing. Existing simulators largely rely on prescribed sensor dynamics and estimated brightness trajectories, whose assumptions limit the diversity and fidelity of plausible event streams. We introduce EventDiffusion, a hierarchical generative framework that directly learns the conditional distribution of native asynchronous event streams from real recordings. EventDiffusion decomposes generation into three probabilistic processes: Event Activity Diffusion (EAD) learns stochastic discrete event counts; Event Spatial Allocation (ESA) distributes these counts to individual pixels while preserving cardinality; and Event Timing Diffusion (ETD) learns continuous asynchronous timestamp distributions. We also introduce CEFS, an event-stream realism metric combining event activity and polarity with multiscale space-time structure and temporal fidelity. Across all datasets, EventDiffusion achieves double the accuracy of SOTA methods and demonstrates robustness across different cameras at any resolution.",
+        "title": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+        "url": "http://arxiv.org/abs/2611.34864v1",
+        "summary": "Since vision-language-action (VLA) policies can inherit the slow pace of human demonstrations, accelerating these demonstrations before fine-tuning can lead to faster VLA policies without an additional speed-selection module at deployment. Several offline speedup methods have focused on identifying segments that require less precision and assigning predefined speedup factors to the segments. However, even within a single segment, a speedup factor suitable for steady motion may be too high when precise alignment is required. To this end, this paper presents RePace, an offline reasoning framework that determines how much to accelerate each part of a demonstration. For the same recorded movement, RePace measures how much each candidate speedup factor shortens the sequence and compares the resulting observation-action pairs used for training. Given the task instruction, a pretrained language model uses the visual context and original motion of successive windows to interpret these candidate retiming effects and select a speedup profile for the complete episode. Experimental results demonstrate that RePace outperforms the baselines in overall task execution efficiency on both LIBERO and RoboCasa-Kitchen. On all three tasks with a gripper-equipped Franka Research 3 arm, RePace matches or exceeds the acceleration baselines in success rate and completes successful trials faster.",
         "authors": [
-          "Karthik Sundar Senthilkumar",
-          "Christopher Thirgood",
-          "Simon Hadfield"
+          "Insup Lee",
+          "Hojin Jeon",
+          "Sunguk Shin",
+          "Seoungbin Bae",
+          "Taekwan Kim",
+          "Jinwoo Shin",
+          "Dongsu Han"
         ],
-        "published": "2026-11-24T18:32:39Z"
+        "published": "2026-11-25T18:30:43Z"
       },
       {
-        "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-        "url": "http://arxiv.org/abs/2611.33093v1",
-        "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and still be wrong. AIChipBench asks what LLM coding agents need to build such hardware correctly. Agents implement quantized Qwen3.5, Gemma 3, Gemma 4, and Llama 3.2 decoders in synthesizable register-transfer-level (RTL) code against an executable integer reference that specifies the outputs and the stored state at every decoding step. They debug against public tests under fixed budgets; their frozen designs are graded on held-out token sequences, resets, memory stalls, and synthesis, and a second track asks them to speed up a correct design at nearly fixed area. Across 9,136 attempts by four coding agents, the difficulty lies in stored state. Feedback that points to the first state mismatch raises acceptance over output-only feedback in all 12 agent--task cells of a matched study, by 25.0 to 46.9 percentage points, and halves the agent-hours per accepted design. Regraded on new sequences and conditions, 45 of 69 accepted designs fail within the 32 steps their tests required. More than a third of attempts to speed up a correct design end without one. An overall score ranks Sol 5.6 and Fable 5.1 above Astra 6 and Opus 5.5, and both halves of the instances give this order in all 200 random splits. Hardware agents therefore need debugging feedback that exposes stored state, and their benchmarks need final tests well beyond the development cases.",
+        "title": "Focus Only on What's Important: Training-Free Focus Maps for Frozen Vision Transformers in Long-Video Object Segmentation",
+        "url": "http://arxiv.org/abs/2611.34863v1",
+        "summary": "Vision transformers are strong but costly image encoders for video object segmentation. Training-free token merging cuts compute uniformly across the frame, including on tracked objects. We give a frozen DINOv3 ViT inside a trained Cutie head a training-free focus map: full resolution where the segmenter expects its objects and coarser merging elsewhere. Protecting only the previous frame's mask works on short clips but fails on long videos, where fast motion pushes targets outside the margin and into background merging, locking in loss. Our policy instead takes the union of velocity-shifted and block-matched masks, runs a camera-compensated surprise check, delegates uncertain regions to the compared merger, and falls back to it when all objects are lost. On long videos (LVOS V2 valid, pre-specified protocol, three ViT-S seeds), it beats ALGM 0.98 by +2.76 J&F (95% object CI [+1.22,+4.44]; video-cluster [+0.99,+4.52]) at 16% fewer counted encoder FLOPs (0.385 vs. 0.459), sitting 1.0 J&F point below the dense-encoder baseline; at ViT-B the gain over ALGM 0.95 is +3.89 [+2.03,+5.87]. On DAVIS 2017 val it stays within -0.19 J&F of the dense encoder at ViT-S (-0.12 at ViT-B). Controls qualify the result: protecting only the previous mask under ALGM matches or exceeds accuracy at higher FLOPs (0.486), so expectation and surprise mainly reduce counted encoder compute. Practically, lower counted encoder compute did not reduce startup-inclusive mean Cutie step time on a 12-video LVOS sample (3%-8% lower in steady state; an equally engineered ALGM is faster at ViT-S and ViT-B). Section 5.2 separately examines a Cutie permanent-memory schedule and its latency and memory trade-offs. Code: https://github.com/boletoms/focused-cv",
         "authors": [
-          "Guangyuan Wang",
-          "Chengran Li",
-          "Minchen Luo",
-          "Jichen Feng",
-          "Mengdi Wang",
-          "Yifan Zhang"
+          "Harsha Karipineni",
+          "Rajesh Reddy Chintha"
         ],
-        "published": "2026-11-24T18:28:41Z"
+        "published": "2026-11-25T18:30:28Z"
       },
       {
-        "title": "The Radar-based Activities of Daily Living (R-ADL) Dataset",
-        "url": "http://arxiv.org/abs/2611.33088v1",
-        "summary": "Monitoring Activities of Daily Living (ADLs) supports safety and well-being for people living at home, especially older adults, and radar sensing is gaining increasing attention in the field of activity recognition for its ability to ensure privacy in the home while also surpassing technical limitations of other sensing modalities. However, radar-based activity recognition remains constrained by the limited availability of large-scale datasets. We introduce the Radar-based Activities of Daily Living (R-ADL) dataset to addresses the gaps identified in existing work: 1) it expands the scale of available data by providing over eight hours of annotated recordings in which a person performs eight distinct activities; 2) it overcomes room configuration limitations by recording from five different locations in a two-bedroom, two-bathroom apartment; and 3) it extends beyond primitive actions to focus on high-level ADLs. In addition to the dataset, this paper introduces practical guidance for future ADL dataset construction. We conducted a detailed analysis of how ADLs are prioritized across academic research, health survey tools, and clinical trials to identify clinically significant ADLs. Furthermore, we provide our experimental design, data collection and annotation strategies, post-processing pipeline for forming the R-ADL dataset from raw data, and baseline results on standard machine learning architectures. The R-ADL dataset serves as a valuable resource for advancing ADL recognition systems as we continue building larger and more diverse datasets.",
+        "title": "BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding",
+        "url": "http://arxiv.org/abs/2611.34862v1",
+        "summary": "We introduce BOP-Refer, the first benchmark for monocular 3D and 2D grounding of everyday and industrial objects sourced from 9 diverse BOP datasets. We pair images from these datasets with VLM-generated and human-verified referring expressions, and derive accurate ground-truth 3D and 2D bounding boxes of the referred objects from their 3D models and 6DoF pose annotations. Our systematic evaluation of 17 frontier VLMs across the major proprietary and open-weight families (Gemini, GPT, Claude, Qwen, Gemma) shows that the best model, Gemini 4 Carbon, reaches 72.6% AP_IoU2D in 2D but only 12.4% AP_IoU3D in 3D, despite the more lenient IoU thresholds in 3D. The predicted 3D boxes are usually centered on the target objects in the image but often off in depth by more than the object's size, suggesting that metric scale estimation, which needs reliable object size priors, is currently by far the main source of error.",
         "authors": [
-          "Dominique Regli",
-          "Brian C. Williams"
+          "Tomas Hodan",
+          "Vineet Bhat",
+          "Martin Sundermeyer",
+          "Jonathan Tremblay",
+          "Yash Patel",
+          "M\u00e9d\u00e9ric Fourmy",
+          "Stephen Tyree",
+          "Junwen Huang",
+          "Varun Burde",
+          "Martin C\u00edfka",
+          "Eric Brachmann",
+          "Vincent Lepetit",
+          "Stan Birchfield",
+          "Jiri Matas",
+          "Carsten Rother"
         ],
-        "published": "2026-11-24T18:25:00Z"
+        "published": "2026-11-25T18:29:36Z"
       },
       {
-        "title": "Uncertainty-Aware Candidate Generation for Entity Linking in Cyber Threat Intelligence",
-        "url": "http://arxiv.org/abs/2611.33086v1",
-        "summary": "Entity Resolution (ER) pipelines often collapse ambiguity into early hard decisions: upstream Named Entity Recognition (NER) selects a single span and type, and downstream Entity Linking (EL) treats that choice as ground truth. This discards valuable information about the ambiguity of the underlying data (e.g., span boundary disagreement and type confusion), leading to brittle systems that fail unpredictably when faced with uncertainty in inputs. Therefore, this work presents a proof-of-concept for uncertainty-aware ER that treats uncertainty as native data that should be preserved and exploited throughout ER pipelines. We (i) capture uncertainty signals in the NER stage and (ii) leverage these signals into the EL stage to improve candidate retrieval under ambiguity. Using a BERT-based NER model augmented with two auxiliary span-boundary prediction heads, we apply Monte Carlo (MC) dropout at inference time to derive three mention-level proxy signals: the MC-averaged start-boundary probability, the MC-averaged end-boundary probability, and De Luca-Termini fuzzy entropy computed over the Begin-Inside-Outside (BIO) predictive distribution. These signals are used to adapt the fuzzy cutoff in candidate generation (CG) for EL. Because CG is treated as a blocking step, we evaluate retrieval recall. On the AnnoCTR dataset linked to the MITRE ATTCK knowledge base, the boundary-aware and dual-signal fuzzy linking approaches improve Recall@10 from 0.6186 to 0.7966. The contribution lies not in an end-to-end optimised ER pipeline but in establishing uncertainty preservation as a viable and beneficial component of ER pipelines, enabling downstream EL to make better-informed decisions under uncertainty.",
+        "title": "Model Weights, Airlocks and Sandboxes: A Call for Technical Validation of Re-identification Tests under the EDPB Anonymisation Guidelines",
+        "url": "http://arxiv.org/abs/2611.34859v1",
+        "summary": "The Guidelines 02/2026 on anonymisation of the European Data Protection Board (EDPB), published for consultation in July 2026, assess anonymity relative to the entities that may access data. They bring AI models into scope and call for testing, but do not say how a re-identification test should be designed or validated, or how far its result counts as evidence. Building on our reply to the consultation, we describe a framework based on a secure processing environment whose outputs are reviewed before release (an airlock), and distinguish forms of release and three types of evidence: formal, empirical and indirect. We raise seven open questions, each with a scenario, and examine their technical side in three settings: the release of model weights (the trained parameters of a machine learning model), review at an airlock, and regulatory sandboxes, in which an authority supervises development and testing. In each setting the assessment depends on how far a test result can be relied on, since a failed re-identification attempt may mean only that the test was too weak. Drawing on measurement practice in other regulated fields, we call for re-identification tests to be validated as measurement methods, with stated detection limit, bias and uncertainty.",
         "authors": [
-          "Nasser Alkhulaifi",
-          "Direnc Pekaslan",
-          "Christian Wagner"
+          "Rickard Br\u00e4nnvall",
+          "Henrik Forsgren",
+          "Erik Ylip\u00e4\u00e4",
+          "Aslak Felin",
+          "Michael Popoff",
+          "Susanne Stenberg"
         ],
-        "published": "2026-11-24T18:23:14Z"
+        "published": "2026-11-25T18:28:20Z"
       },
       {
-        "title": "Shifter Quantization: Compact Representations for Native Integer Computation",
-        "url": "http://arxiv.org/abs/2611.33080v1",
-        "summary": "Groupwise quantization is used in LLM quantization to improve accuracy at low bit widths, but grouping weights keeps standard integer MMA from spanning the full dot product for efficient GPU inference. We develop a new quantization method, Shifter Quantization (SQ), that reconstructs native-width integer operands by appending and shifting shared bits. To further extend the efficiency, we develop a special variant of SQ, Shifter Integer (SHI), to use INT4 kernels. We show that SQ and SHI formats perform better than standard groupwise quantization in quality, as measured by projection error and KL divergence, and in inference speed, as measured during decoding and prefill. For low precision like 2-bit quantization, SQ2 and SHI2 achieve 2.71-3.77x the 4,096-token prefill throughput of llama.cpp on a Q2_K checkpoint and reduce WikiText-2 KL by 6.6-7.8%. For mid precision like 4-bit quantization, SQ4 achieves 1.43-2.47x the prefill throughput of NInfer's groupwise-integer baselines across the tested models and prompt lengths, with 24-40% lower KL than the NInfer baselines. For high precision like 8-bit quantization, SQ8 achieves 27.4% higher batch-one prefill throughput and 72.7% lower KL than vLLM's online FP8.",
+        "title": "From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events",
+        "url": "http://arxiv.org/abs/2611.34858v1",
+        "summary": "Autoregressive transformers trained on tokenized tabular event streams are a simple and strong baseline for predicting financial events such as fraud. Yet institutions do not act on probabilities; they act on decisions whose consequences are asymmetric and heteroscedastic: the cost of a missed high-value fraud and that of a wrongly declined small purchase are not the same. The standard bridge is post-hoc Bayes-optimal thresholding of calibrated probabilities under a cost matrix. We ask whether fine-tuning the model to the decision objective can do better. We fine-tune the same pretrained model so that its restricted softmax over label tokens (already a distribution over business actions) maximizes expected utility under an institution-specified, amount-scaled cost matrix. Because the reward is a known function of (action, outcome, amount) and the outcome is observed in the data, the expected-utility objective and its gradient are available in closed form. This is example-dependent cost-sensitive learning whose per-example loss is linear in the predicted probability, with no sampling, critics, or advantage estimation. A KL anchor to the pretrained model and an auxiliary language-modeling term preserve calibration and the generative event model. A sampled, group-normalized (GRPO-style) variant provides the extension point to trajectory-level rewards.",
         "authors": [
-          "Yufeng Huang"
+          "Ashkan Golgoon",
+          "Giacomo Domeniconi",
+          "Samuel Atkins",
+          "Sergio Servantez",
+          "Zain Khandwala"
         ],
-        "published": "2026-11-24T18:14:52Z"
+        "published": "2026-11-25T18:27:48Z"
       },
       {
-        "title": "FOL-Proof: Verifying LLM Text-to-Logic Translations via Deterministic Semantics",
-        "url": "http://arxiv.org/abs/2611.33078v1",
-        "summary": "Large Language Models (LLMs) are increasingly used to translate natural-language statements into first-order logic (FOL) to improve reasoning. However, LLMs are prone to errors, and so a semantically unfaithful FOL formula could corrupt downstream reasoning. We present FOL-Proof, a semantic firewall pipeline that validates LLM-generated FOL translations against independently derived linguistic interpretations. FOL-Proof operates by deterministically obtaining a pool of candidate translations via semantic analysis tools, such as the English Resource Grammar and Minimal Recursion Semantics; then applying an SMT solver to check each derived reading for logical equivalence to the LLM-generated formula. If the translation is faithful it is accepted; otherwise, it is rejected, or optionally repaired via repeated invocations to the LLM. The procedure is conservative: incomplete search, unsupported constructions, or inconclusive checks yield abstention rather than false rejection. We evaluated FOL-Proof on established benchmarks (ProofWriter, RuleTaker and PrOntoQA), and also on a new adversarial benchmark (LongFaithCheck). Our experiments show that FOL-Proof attains near perfect selective accuracy, while direct LLM judges and round-trip baselines show substantially worse performance.",
+        "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+        "url": "http://arxiv.org/abs/2611.34852v1",
+        "summary": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how deeply it explores them. We introduce DRBench Pro, a benchmark that makes structured knowledge coverage the primary evaluation target. Our automated pipeline builds local knowledge trees from Wikipedia and uses sampled subgraphs to generate research queries and evidence-grounded rubrics. Each rubric corresponds to a relation in the tree, preserving the structure of the knowledge being evaluated. Agents receive only the research query. This structure allows us to measure breadth across major research directions and depth along related knowledge chains, with their geometric mean giving overall coverage. The benchmark includes 144 cases across 24 domains and 44,102 rubrics. Evaluating 16 deep research agents reveals different strengths in breadth and depth, with the best-performing agent reaching 57.04% overall coverage. Rubric judgments agree closely with human annotations, and agent rankings remain stable across the tested metric configurations.",
         "authors": [
-          "Yisrael Clark",
-          "Guy Katz"
+          "Han Huang",
+          "Yuchen Yan",
+          "Xingyu Wu",
+          "Yijun Li",
+          "Chao Deng",
+          "Jie Liu",
+          "Jin Ma",
+          "Yongliang Shen"
         ],
-        "published": "2026-11-24T18:13:28Z"
+        "published": "2026-11-25T18:25:30Z"
       },
       {
-        "title": "On the Creation of Object-Centric Event Logs from Patient Journeys",
-        "url": "http://arxiv.org/abs/2611.33074v1",
-        "summary": "Interactions between patients and health systems as well as conditions that individuals experience during a disease are represented in patient journeys. Therefore, patient journeys are important assets to investigate how care is being provided, and how health systems can be designed to better suit the needs of patients. While there is initial work on patient journeys from a process mining perspective with traditional case notions, object-centric process mining techniques have yet to be covered. This is unfortunate, since due to the rich structure of objects and their relationships, object-centric process mining approaches are particularly promising in this context. This paper addresses this gap by investigating object-centric event log (OCEL) generation from patient journeys. Based on a list of challenges and requirements, the paper presents an approach for the creation of OCELs from patient journey data. The approach is evaluated on a synthetic patient cohort provided by our industry partner.",
+        "title": "Put the World Back: Timestamps Matter in Time Series Reasoning",
+        "url": "http://arxiv.org/abs/2611.34848v1",
+        "summary": "Large language models (LLMs) are increasingly applied to time series reasoning. However, current evaluations often give models events in chronological order and already matched to the time series. This makes it unclear whether models use timestamps to connect events with observations or simply take shortcuts. To expose this ambiguity, we reformulate time series reasoning from a world-to-series projection perspective, viewing timestamps as explicit indices that connect numerical observations and external events to shared world states. We identify three structures that timestamps can make explicit: temporal causal structure, time semantics, and event-series alignment. Building on this perspective, we develop a diagnostic protocol that distinguishes timestamp-grounded reasoning from correlational shortcuts, a distinction that accuracy-based benchmarks cannot make. Controlled interventions on 310 questions from two tasks show that high accuracy can persist when timestamps are replaced by relative offsets or removed, while breaking event-series alignment induces systematic failures. When context is pre-aligned, models barely need timestamps. When order is missing, they use dates to recall world knowledge. Without dates, they rely on correlational shortcuts and rarely notice incorrect timestamps. These findings show that high accuracy on pre-aligned, ordered inputs does not establish that a model uses timestamps to synchronize observations with the world. We release our code, model outputs, and trajectory labels at https://github.com/tingrui-huang/timestamps-matter.",
         "authors": [
-          "Saimir Bala",
-          "Neven Borak",
-          "Maximilian K\u00f6nig",
-          "Anjo Seidel",
-          "Zeinab Soleimani",
-          "Lorenzo Famiglini",
-          "Lev Petrov",
-          "Jonas Witt",
-          "Mathias Weske"
+          "Tingrui Huang",
+          "Yuanyuan Deng",
+          "Qingren Yao",
+          "Joaquin Vanschoren",
+          "Mykola Pechenizkiy",
+          "Songgaojun Deng"
         ],
-        "published": "2026-11-24T18:11:19Z"
+        "published": "2026-11-25T18:23:07Z"
       },
       {
-        "title": "The Reliability Function of Error-Correcting Output Codes with Noisy Binary Classifiers",
-        "url": "http://arxiv.org/abs/2611.33068v1",
-        "summary": "Error-correcting output coding (ECOC) builds a multi-class classifier from binary classifiers. We study the excess error rate of ECOC over the Bayes (MAP) classifier when each binary classifier outputs a posterior estimate whose log-odds is corrupted by Gaussian noise. Recasting decoding as a test over a Gaussian channel, we derive an upper bound from the union and Chernoff bounds and a lower bound from the nearest competing category and the Mills ratio. The bounds show that a large Hamming distance is both necessary and sufficient for reducing the excess error rate. The excess error rate stays bounded away from zero, by a constant that depends on the two largest posteriors and the noise level but not on the number of categories $M$, whenever the distance between the code words of the two most probable categories is bounded; for equidistant codes this distance is $d_{\\min}$. Conversely, it is at most $M-1$ times a factor that is exponentially small in the minimum distance $d_{\\min}$, and it vanishes whenever $\u03ba\\,d_{\\min}-\\ln(M-1)\\to\\infty$ for an explicit $\u03ba$ (for general codes, under a posterior condition). For $n$-vs-rest codes with $n\\geq2$, the upper and lower exponents coincide asymptotically, which determines the reliability function of ECOC in closed form. The results extend to correlated Gaussian noise with the Hamming distance replaced by an effective distance; when noise is shared at the level of categories, the effective distance stays bounded and the excess error rate does not vanish for any code. All theorems are machine-checked in Lean 4. In a semi-synthetic setting, the measured decay agrees with the predicted exponent. On ResNet-50 features of CIFAR-10/100 and ImageNet-1k, the excess error over a log-likelihood decoding reference decreases with $d_{\\min}$ and, for larger $M$, levels off at a moderate distance, while codes with $d_{\\min}=1$ degrade as $M$ grows.",
+        "title": "Probing Visual Idiosyncrasies in Text-to-Image Models",
+        "url": "http://arxiv.org/abs/2611.34843v1",
+        "summary": "Text-to-Image (T2I) models turn short text descriptions into images, and the leading models now produce images of comparable visual quality. Whether their outputs still carry model-specific characteristics matters for attribution, for model comparison beyond aggregate quality, and for evaluations that assume anonymity. We ask whether images from frontier T2I models can still be classified by source, and which visual properties make this possible. Here we show that a standard ResNet-50 identifies the source of an image among HiDream-O1-Dev, FLUX.2-dev, HunyuanImage-3.0, and Qwen-Image-2512, the four highest-ranked open-source models on the Text-to-Image Arena, with 100.00% accuracy on held-out prompts. Human participants reach only 62.61% on the pairwise version of this task, so the distinguishing cues are not visually obvious. They are also not tied to a particular classifier and survive severe image corruptions and out-of-distribution prompts. We trace them to visual idiosyncrasies at three levels. Low-level texture statistics alone let a lightweight multi-layer perceptron match ResNet-50. Object layout, depth, and albedo estimated from the images each carry a source signal. Image captions reveal model-specific preferences in style and background that the prompts never specify. A one-sentence hint about these cues raises human accuracy by 9.03 percentage points. These idiosyncrasies make source classification a tool for measuring similarity between models and between real and generated images, and they caution against assuming anonymity in human preference evaluation of T2I models.",
         "authors": [
-          "Gendo Kumoi",
-          "Hideki Yagi",
-          "Manabu Kobayashi",
-          "Shigeichi Hirasawa"
+          "Yongqian Peng",
+          "Hongjie Li",
+          "Yichao Zhou",
+          "Chi Zhang",
+          "Yixin Zhu"
         ],
-        "published": "2026-11-24T18:06:21Z"
+        "published": "2026-11-25T18:20:18Z"
       },
       {
-        "title": "Auditing the Judge: Human-Derived Bias Discovery, Quantification, and Mitigation in LLM Judges",
-        "url": "http://arxiv.org/abs/2611.33065v1",
-        "summary": "While Large Language Models (LLMs) are increasingly deployed as automated evaluators in evaluation and training pipelines, their judgements are often affected by systematic biases that conflict with human preferences. Although prior work has identified various biases and proposed methods for detecting and mitigating them, less attention has been paid to using human preferences to inform bias identification and mitigation. Moreover, these approaches rely heavily on pre-discovered bias lists, overlook bias strength, and depend on costly interventions. In this work, we propose HUB-J, an integrated framework based on human-derived bias factors that detects, quantifies, and mitigates biases in LLM-as-a-Judge systems. Our approach leverages human-LLM judgement disagreement cases to automatically discover interpretable bias factors, and utilizes agreement cases to quantify bias strength through controlled input modifications and resulting shifts in model decisions. Finally, building on these quantified biases, we introduce a lightweight, training-free regression-based mitigation strategy that estimates the influence of each bias factor on model judgments and corrects bias-influenced decisions by removing its estimated effect. Empirical results show that HUB-J uncovers both known and novel bias factors, reveals meaningful differences in model susceptibility, and consistently reduces bias-driven decision flips while generalizing across models.",
+        "title": "Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering",
+        "url": "http://arxiv.org/abs/2611.34841v1",
+        "summary": "We consider the problem of constructing knowledge bases for applications based on large language models, in which the structure of a knowledge base determines how an application can retrieve and connect the information needed to answer a question. We study Self-Structuring Learning, a setting in which questions and expected answers guide the construction of a persistent knowledge base whose editable structure can be a graph schema or the organization of linked knowledge documents. We propose Knowledge-Base Gradient Descent, which diagnoses discrepancies between expected answers and responses obtained through the current knowledge base. At each round, the method proposes a structural edit, rebuilds the knowledge base, and adopts the edit when the learning loss decreases. The retained structure is evaluated on other questions about the same sources. By randomizing over candidate edits, we express the loss change of an edit as a derivative with respect to the probability of selecting it, and we evaluate joint edits as single candidates because their changes interact. Schema Descent instantiates the method for graph schemas. In experiments on large documents, each a bundle of research papers, the updated knowledge cards and graph schemas obtain higher mean Answer F1 on held-out generated questions than their initial structures, with schema gains in every document. On human questions, mean F1 rises for schemas and falls for cards: the updated structures serve the kind of question they were learned from.",
         "authors": [
-          "Hamin Koo",
-          "Chanjoo Jung",
-          "Fangzhao Wu",
-          "Jaehyung Kim"
+          "Masahiro Kato"
         ],
-        "published": "2026-11-24T18:05:47Z"
+        "published": "2026-11-25T18:19:02Z"
       },
       {
-        "title": "U-Statistics-Powered LLM Reasoning",
-        "url": "http://arxiv.org/abs/2611.33064v1",
-        "summary": "Since its introduction by DeepSeek, group relative policy optimization (GRPO) has been widely adopted for training large reasoning models and agents, spurring a proliferation of its variants. Yet the group size, a crucial hyperparameter in these GRPO-type algorithms, remains largely chosen by trial and error. Exploiting the U-statistic structure of GRPO's policy gradient, we recast the selection of the group size as a classical statistical problem of variance ratio estimation. This problem is particularly challenging when the denominator of the ratio is small, rendering naive plug-in estimators unstable. To address this challenge, we propose a pessimistic ratio estimator that accounts for the denominator's estimation uncertainty. We characterise the statistical properties of this estimator across three sample-size regimes. Empirically, using %a jackknife-based pessimistic rule on synthetic tasks from Reasoning Gym and real-world benchmarks covering both mathematical reasoning and code generation, we show that our adaptive group size selection reduces the mean squared error of the resulting policy gradient and improves policy optimisation over fixed-group-size baselines, with modest additional computational cost.",
+        "title": "Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk",
+        "url": "http://arxiv.org/abs/2611.34840v1",
+        "summary": "We study risk-sensitive reinforcement learning in finite discounted infinite-horizon Markov Decision Processes with recursive entropic risk measures (ERM), parameterized by $\u03b2\\neq 0$. We consider both risk-averse ($\u03b2>0$) and risk-seeking ($\u03b2<0$) settings. We consider the offline RL setting, where the agent is provided with a fixed dataset and wishes to learn a near-optimal policy using this dataset. We introduce a model-based algorithm, called ERM Value Iteration Lower Confidence Bound (ERM-VI-LCB) and derive a PAC-type bound on its sample complexity. We also establish a corresponding lower bound, demonstrating that exponential dependence on $|\u03b2|/(1-\u03b3)$ asserted by the upper bound is unavoidable in the worst case. The presented bounds provide the first rigorous sample complexity guarantees for offline RL under recursive ERM across both risk-averse and risk-seeking regimes.",
         "authors": [
-          "Shijin Gong",
-          "Kai Ye",
-          "Victor Chernozhukov",
-          "Xinyu Zhang",
-          "Chengchun Shi"
+          "Amirparsa Bahrami",
+          "Oliver Mortensen",
+          "Mohammad Sadegh Talebi"
         ],
-        "published": "2026-11-24T18:05:01Z"
+        "published": "2026-11-25T18:18:53Z"
       },
       {
-        "title": "Understanding Clipping In Zeroth-Order Optimization",
-        "url": "http://arxiv.org/abs/2611.33062v1",
-        "summary": "Zeroth-order optimization has emerged as a resource-efficient alternative to Stochastic Gradient Descent (SGD) when fine-tuning LLMs, thanks to the inherent low dimensionality of the loss landscape. It relies on a two-point estimate of the gradient that only accesses the function value and not the gradient, bypassing the resource-heavy backpropagation. Recently, it was accidentally discovered that per-sample clipping can improve the performance of the trained model, while running a differentially private version of zeroth-order optimization \\cite{zhang2024dpzero} with a very large privacy parameter $\u03b5$ (corresponding to very little privacy). In this paper, we systematically investigate this phenomenon and demonstrate that ($i$) the optimal choice of learning rate $\u03b7$ is inversely proportional to the clipping threshold $c$, satisfying $\u03b7c =$ constant; ($ii$) clipping drives the zeroth-order optimization to a different solution with higher test accuracy; and ($iii$) this phenomenon is only observed with per-sample clipped zeroth-order optimization and not other zeroth-order alternatives that also provide robust estimates of the gradient. Further analyses with artificially injected label noise reveals that clipping leads to more robust predictions, which stems from the implicit down weighting of hard-to-fit training examples. Our code is available at https://github.com/SewoongLab/ClipZero",
+        "title": "Proverbs As A Window On Collective Prescriptions",
+        "url": "http://arxiv.org/abs/2611.34832v1",
+        "summary": "Proverbs, as repositories of traditional wisdom, have informed human reasoning for millennia. Yet the collective prescriptions they encode have remained largely unquantified. We introduce a computational framework to analyze nearly 50,000 English-language proverbs. Using large language models, validated against human judgments, we map the topical landscape of proverbs, assess their prescriptive power, and quantify their recommendations on key dimensions of human judgment and behavior. We find that most proverbs are prescriptive, offering guidance in domains under individual control, such as preparation and prudent action, whereas proverbs about uncontrollable circumstances, such as fate and mortality, tend to describe rather than prescribe. When prescriptive proverbs take a consistent stance, they favor caution over risk, long-term over short-term outcomes, honesty over deception, and kindness over malice, and show a moderate tendency toward suspicion over trust. On dimensions involving genuine trade-offs, especially autonomy versus compliance, proverbs provide contradicting advice rather than a single recommendation. This analysis provides a quantitative map of the collective prescriptions in a culture's proverbial wisdom, revealing a core of prudent, honest, and forward-looking guidance alongside varied advice where circumstances dictate the best course of action.",
         "authors": [
-          "Saket Gollapudi",
-          "Elisa Bertino",
-          "Sewoong Oh"
+          "Tom\u00e1s Lejarraga",
+          "Dirk U. Wulff",
+          "Ralph Hertwig"
         ],
-        "published": "2026-11-24T18:03:57Z"
+        "published": "2026-11-25T18:12:23Z"
       },
       {
-        "title": "ClusterVAD: Threshold-Free Unsupervised Voice Activity Detection with Pre-Trained Neural Representations",
-        "url": "http://arxiv.org/abs/2611.33059v1",
-        "summary": "Voice activity detection (VAD) is one of the first steps in speech processing pipelines, from transcription and diarization to speech language models. Supervised detectors need labelled data and inherit the domain and annotation conventions of their training corpora. Existing unsupervised detectors rely on hand-crafted acoustic features which cannot benefit from data and degrade in far-field, noisy or atypical speech. We propose ClusterVAD, an unsupervised VAD built on frozen speech foundation model representations. Fitted once on a small set of untranscribed speech, it clusters the representations and labels each cluster as speech or non-speech with sonority, an acoustic measure. At inference, a frame-level speech probability is computed from the cluster assignments, and a two-state hidden Markov model fitted to each recording enables threshold-free detection. Across benchmarks covering meetings, far-field and noisy recordings, Mandarin and dysarthric speech, ClusterVAD obtains the lowest detection error on pause-level references and is competitive on speaker turn-level references. These results indicate that speech foundation models inherently capture the distinction between speech and non-speech, which can be leveraged without training a detector.",
+        "title": "Repairing the Trustworthiness of Distilled Language Models",
+        "url": "http://arxiv.org/abs/2611.34831v1",
+        "summary": "Knowledge distillation enables the deployment of large language models through smaller student models, but the compression process can introduce regressions in trustworthiness even when downstream performance is preserved. Repairing such failures is challenging because the original distillation corpus is often unavailable, while direct preference optimization may alter capabilities inherited from the teacher. We propose a targeted repair framework based on the proximal Bregman response function (PBRF) that addresses both limitations. We estimate the curvature required for PBRF using a surrogate proxy dataset, removing dependence on the original transfer corpus, and extend the framework to preference-based supervision through an odds-ratio objective. This enables the use of preferred and dispreferred response pairs while constraining changes to the distilled model. Our results show that the proposed approach improves targeted trustworthiness behaviors for both pre-training and post-training models while largely preserving downstream performance, providing a practical alternative to re-distillation or unconstrained preference optimization. Our experiment results show that across different distilled models, the trustworthy regression can be improved by up to 8% with less than 1% decrement in perplexity.",
         "authors": [
-          "Karl El Hajal",
-          "Mathew Magimai. -Doss"
+          "Kumar Shubham",
+          "Devendra Vyas",
+          "Vidushi Agarwal",
+          "Jayin Khanna",
+          "Prathosh AP"
         ],
-        "published": "2026-11-24T18:03:21Z"
+        "published": "2026-11-25T18:12:20Z"
       },
       {
-        "title": "Local Indices Are Not Enough: Synchrony and Global Information in Bandit Algorithms",
-        "url": "http://arxiv.org/abs/2611.33056v1",
-        "summary": "Standard index-based stochastic bandit algorithms such as KL-UCB and Thompson Sampling achieve optimal $O(\\log T)$ regret over a horizon $T$. The former uses the global timestep to construct each arm's index, while the latter samples each arm's belief distribution at every timestep. The necessity of global information and synchronous index updates for achieving optimal regret has not been examined yet. In this paper, we investigate the fundamental limits of asynchronous local index algorithms---those that recalculate an arm's index only upon pulling it, using solely that arm's own reward history and a local randomness budget. We prove that no such algorithm can achieve $O(\\log T)$ regret across all bandit instances. We then analyse the functional equations arising from asynchronous updates, and show that the achievable regret lies in a sub-polynomial, super-polylogarithmic regime. We propose an asynchronous local index policy whose regret upper bound also lies in this regime. Turning to synchronous local algorithms, which sample every arm's index at all timesteps as in Thompson Sampling, we show that a locally determined randomness budget per arm suffices to retain $O(\\log T)$ regret, demonstrating that synchrony, albeit with some randomness, is essential to the optimality of Thompson Sampling.",
+        "title": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models",
+        "url": "http://arxiv.org/abs/2611.34830v1",
+        "summary": "World models predict how an environment responds to actions, so that candidate actions can be evaluated before execution. Executed actions, or decisions, taken in this manner are only as reliable as the model's predictive capabilities, and predictions in turn are only reliable within the model's experience. Epistemic uncertainty (EU) is the signal that marks where that experience ends. In this work we offer an extensive empirical study on how training objectives and architectures shape epistemic uncertainty of world models. More precisely, we present a controlled comparison of post-hoc EU (last-layer Laplace and ensembles) between two dominant models of different paradigms: 1) LeWorldModel (LeWM): A joint-embedding predictive architecture (JEPA), which predicts the next embedding without a decoder, and 2) DreamerV3: A recurrent state-space model (RSSM), which reconstructs the observation from a recurrent latent state. In ten simulated visual-control environments, we follow a controlled state perturbation of the environment state through every stage of the models up to the final EU estimate. We find that the RSSM attenuates the state perturbation through two mechanisms before it reaches an estimator on the predictor feature. Its recurrent update averages over context, so a change in a single frame reaches the state at a fraction of its size and recovers only as the change persists. Its reconstruction objective weights an entity by the pixels it covers, so a small object can be lost due to the training objective. The JEPA has neither mechanism and passes the change through all stages to the uncertainty. We further show that this translates to gaps in five uncertainty related downstream tasks, from unfamiliar-state detection to uncertainty-penalised planning: the RSSM uncertainty misses deviations that its own posterior registers, whereas the JEPA uncertainty reports what its model sees.",
         "authors": [
-          "Aakash Gore",
-          "Shivaram Kalyanakrishnan"
+          "Simon Baur",
+          "Wojciech Samek",
+          "Jackie Ma"
         ],
-        "published": "2026-11-24T18:01:53Z"
+        "published": "2026-11-25T18:11:49Z"
       },
       {
-        "title": "Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement",
-        "url": "http://arxiv.org/abs/2611.33050v1",
-        "summary": "Answers from generative AI chatbots built on large language models (LLMs) now arrive at very different speeds: reasoning models deliberate before replying, while response caches can return a stored answer at once. Blind preference votes, which rank these models, are read as judgments of their text, and if delivery matters, faster answers are expected to gain. Research on the labor illusion and on how text appears on screen suggests instead that an answer which unfolds as it is written is credited over the same answer shown at once. We test these accounts with three sources of variation in natural use. First, compar:IA, a French government chatbot arena, answered repeated prompts, by a random draw, either with a fresh answer streamed as it was written or with a stored earlier answer from the same model, shown at once. Within the same prompt, a replay lowered an answer's chance of winning a decisive blind vote by 25.8 percentage points. The same stored text won 57% of its decisive votes when streamed and 29% when replayed, and voters called it less complete, more superficial and more often incorrect when replayed. Second, provider congestion slowed streamed answers. In 324,029 conversations, slower answers earned no detectable net credit in the vote, but a slower first exchange made visitors less likely to ask a follow-up question. Third, in 4,378,514 WildChat replies from everyday ChatGPT use, replies slowed by congestion made users less likely to continue. Delivery moved blind votes, in the direction opposite to the one the arena's designers expected, while waiting cost follow-up questions that a comparison between two answers cannot register when both are slow. The results bear on how AI services cache and stream answers, how they budget latency, and how preference leaderboards evaluate models.",
+        "title": "Gradient TD($\u03bb$) for Non-Linear Function Approximation",
+        "url": "http://arxiv.org/abs/2611.34826v1",
+        "summary": "Temporal difference (TD) learning is central to reinforcement learning. Many methods use semi-gradient TD, which may diverge, or develop algorithms with mean-squared Bellman or TD-error objectives that are difficult to analyze. Gradient TD algorithms overcome these challenges by using projection of the value function and present convergent off-policy algorithms. However, the algorithm for $\u03bb$-return was limited to linear function approximation. Here, we extend the same to non-linear function approximation, which is desirable since many strong modern function approximators are complex and non-linear. Recent works have derived similar algorithms with a generalized projected Bellman error objective. Alternatively, we continue working with the projected Bellman error.",
         "authors": [
-          "Zihan Chen",
-          "Di Zhu",
-          "Lei Nico Zheng"
+          "Sujeet Lahane"
         ],
-        "published": "2026-11-24T17:57:00Z"
+        "published": "2026-11-25T18:08:06Z"
       },
       {
-        "title": "Latent Merger: Latent-Space Composition of Hypernetwork-Generated LoRAs",
-        "url": "http://arxiv.org/abs/2611.33048v1",
-        "summary": "Recent work proposes hypernetworks that convert a document into a low-rank parameter update (LoRA) in a single forward pass, enabling fast injection of new knowledge into a frozen LLM. However, storing separate LoRA adapters for each document can be unsustainable in streaming settings. In this paper, we study the problem of composing hypernetwork-generated LoRAs using two representative systems, Doc-to-LoRA and SHINE. We show that hypernetwork-generated LoRAs have a geometry sharply different from directly fine-tuned LoRAs. They exhibit greater spectral concentration and stronger cross-document alignment than next-token prediction and QA fine-tuned adapters, which are diffuse and nearly orthogonal across documents. Guided by this observation, we propose latent-space LoRA merging. We compose the intermediate hypernetwork latents and then decode the merged latent through the frozen LoRA-generation head. We show that latent-space merging techniques consistently improve over weight-space and factor-space baselines while preserving a single fixed-rank adapter. These results support latent-space composition as a promising mechanism for combining hypernetwork-generated LoRAs under a fixed output-rank budget.",
+        "title": "Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection",
+        "url": "http://arxiv.org/abs/2611.34825v1",
+        "summary": "LLM routing aims to choose, for each prompt, which model in a portfolio is most likely to answer correctly. This only makes sense when the benchmark contains enough prompt-specific variation for different models to be best on different inputs. On coarse-scored LLM benchmarks, however, many models often tie for the best score, and the single best model may already leave little room for improvement. We therefore propose a routeability-first audit, instantiated as RAP and RouteabilityBench, a runnable claim-verification package. The audit is retrospective: it runs once the benchmark-portfolio score matrix exists and before router comparisons are interpreted as general evidence, rather than certifying a portfolio that has not yet been evaluated. Across four benchmarks and 66 LLMs, generic routing enhancements such as larger embedding sets, dimensionality reduction, selective abstention, clustering, and stronger regressors do not consistently outperform the single best model. The clearest positive evidence is concentrated in portfolio-dependent Omni-MATH settings, while GPQA, MMLU-Pro, and IFEval show different ways in which routing can remain hard or predictor-sensitive. Our practical recommendation is that routing gains should be reported together with routeability diagnostics, tied-best analysis, portfolio construction details, and family-corrected statistical tests.",
         "authors": [
-          "Yanlai Yang",
-          "Minki Kang",
-          "Divyam Madaan",
-          "Sung Ju Hwang",
-          "Mengye Ren"
+          "Yihang Lu",
+          "Denica Kjorvezir",
+          "Ana Gjorgjevikj",
+          "Carola Doerr",
+          "Tome Eftimov"
         ],
-        "published": "2026-11-24T17:54:58Z"
+        "published": "2026-11-25T18:08:01Z"
       }
     ],
     "github_trending": [
@@ -1214,98 +1238,98 @@
         "url": "https://github.com/backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "language": "TypeScript",
-        "stars_this_week": "15,070"
+        "stars_this_week": "15,144"
       },
       {
         "name": "google-labs-code/stitch-skills",
         "url": "https://github.com/google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
         "language": "TypeScript",
-        "stars_this_week": "12,946"
+        "stars_this_week": "13,092"
       },
       {
         "name": "GoogleChrome/modern-web-guidance-src",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "language": "TypeScript",
-        "stars_this_week": "11,008"
+        "stars_this_week": "11,121"
       },
       {
         "name": "n8n-io/nod",
         "url": "https://github.com/n8n-io/nod",
         "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
         "language": "TypeScript",
-        "stars_this_week": "3,534"
+        "stars_this_week": "3,667"
       },
       {
         "name": "alibaba/open-code-review",
         "url": "https://github.com/alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "language": "Go",
-        "stars_this_week": "56,326"
+        "stars_this_week": "56,441"
       },
       {
         "name": "mvanhorn/last30days-skill",
         "url": "https://github.com/mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "language": "Python",
-        "stars_this_week": "75,024"
+        "stars_this_week": "75,322"
       },
       {
         "name": "ChromeDevTools/chrome-devtools-mcp",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
         "description": "Chrome DevTools for coding agents",
         "language": "TypeScript",
-        "stars_this_week": "59,338"
+        "stars_this_week": "59,405"
       },
       {
         "name": "tradermonty/claude-trading-skills",
         "url": "https://github.com/tradermonty/claude-trading-skills",
         "description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
         "language": "Python",
-        "stars_this_week": "8,439"
+        "stars_this_week": "8,500"
       },
       {
         "name": "ag-ui-protocol/ag-ui",
         "url": "https://github.com/ag-ui-protocol/ag-ui",
         "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
         "language": "TypeScript",
-        "stars_this_week": "21,704"
+        "stars_this_week": "21,773"
       },
       {
         "name": "meta/astryx",
         "url": "https://github.com/meta/astryx",
         "description": "An open source design system that's fully customizable and agent ready",
         "language": "TypeScript",
-        "stars_this_week": "33,091"
+        "stars_this_week": "33,209"
       },
       {
         "name": "pookjw/HermesEnabler",
         "url": "https://github.com/pookjw/HermesEnabler",
         "description": "Enable Herm\u00e8s Watch Faces on any Apple Watch devices",
         "language": "Objective-C",
-        "stars_this_week": "2,514"
+        "stars_this_week": "2,526"
       },
       {
         "name": "we-promise/sure",
         "url": "https://github.com/we-promise/sure",
         "description": "The personal finance app for everyone (by everyone)",
         "language": "Ruby",
-        "stars_this_week": "17,911"
+        "stars_this_week": "17,978"
       },
       {
         "name": "dream-num/univer",
         "url": "https://github.com/dream-num/univer",
         "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
         "language": "TypeScript",
-        "stars_this_week": "31,843"
+        "stars_this_week": "31,900"
       },
       {
         "name": "kajisho5/ffmpeg-skill",
         "url": "https://github.com/kajisho5/ffmpeg-skill",
         "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
         "language": "Python",
-        "stars_this_week": "11,058"
+        "stars_this_week": "11,247"
       }
     ],
     "twitter": []
